@@ -2,7 +2,7 @@
   "version": 10,
   "generated": "2026-05-24",
   "description": "Videos only accessible via the Videos tab category filter chips — no dedicated tile in Dashboard, Study or Activities tabs.",
-  "total_videos": 476,
+  "total_videos": 527,
   "categories_included": [
     "Autism Support",
     "Yoga & Exercise",
@@ -4924,6 +4924,709 @@
           ],
           "age_range": "3-10"
         }
+      ],
+      "Emotions": [
+        {
+          "id": "y6Sxv-sUYtM",
+          "title": "Understanding Happy Feelings",
+          "channel": "Kids Emotion Learning",
+          "category": "Emotions",
+          "language": "english",
+          "duration": "4:10",
+          "duration_seconds": 250,
+          "description": "Learn what it means to feel happy and how to express joy",
+          "tags": [
+            "emotions",
+            "happy",
+            "feelings",
+            "kids"
+          ],
+          "age_range": "2-12"
+        },
+        {
+          "id": "nQ5-pTCJtAo",
+          "title": "Understanding Sad Feelings",
+          "channel": "Kids Emotion Learning",
+          "category": "Emotions",
+          "language": "english",
+          "duration": "3:55",
+          "duration_seconds": 235,
+          "description": "Learn about sadness and how to cope when you feel sad",
+          "tags": [
+            "emotions",
+            "sad",
+            "feelings",
+            "kids"
+          ],
+          "age_range": "2-12"
+        },
+        {
+          "id": "RdLrHEBh0eE",
+          "title": "Understanding Angry Feelings",
+          "channel": "Kids Emotion Learning",
+          "category": "Emotions",
+          "language": "english",
+          "duration": "4:05",
+          "duration_seconds": 245,
+          "description": "Learn what anger feels like and healthy ways to manage it",
+          "tags": [
+            "emotions",
+            "angry",
+            "feelings",
+            "kids"
+          ],
+          "age_range": "2-12"
+        },
+        {
+          "id": "5nT1bQ_TMxQ",
+          "title": "Understanding Scared Feelings",
+          "channel": "Kids Emotion Learning",
+          "category": "Emotions",
+          "language": "english",
+          "duration": "3:45",
+          "duration_seconds": 225,
+          "description": "Learn about fear and how to feel safe when scared",
+          "tags": [
+            "emotions",
+            "scared",
+            "fear",
+            "kids"
+          ],
+          "age_range": "2-12"
+        },
+        {
+          "id": "QKXW6XGvC8E",
+          "title": "Understanding Surprised Feelings",
+          "channel": "Kids Emotion Learning",
+          "category": "Emotions",
+          "language": "english",
+          "duration": "3:30",
+          "duration_seconds": 210,
+          "description": "Learn about surprise and unexpected feelings",
+          "tags": [
+            "emotions",
+            "surprised",
+            "feelings",
+            "kids"
+          ],
+          "age_range": "2-12"
+        },
+        {
+          "id": "kKEkLQVTuiU",
+          "title": "Understanding Calm Feelings",
+          "channel": "Kids Emotion Learning",
+          "category": "Emotions",
+          "language": "english",
+          "duration": "4:20",
+          "duration_seconds": 260,
+          "description": "Learn relaxation techniques and how to feel calm",
+          "tags": [
+            "emotions",
+            "calm",
+            "relax",
+            "kids"
+          ],
+          "age_range": "2-12"
+        },
+        {
+          "id": "IanMGGN1JAI",
+          "title": "Understanding Excited Feelings",
+          "channel": "Kids Emotion Learning",
+          "category": "Emotions",
+          "language": "english",
+          "duration": "3:50",
+          "duration_seconds": 230,
+          "description": "Learn about excitement and how to channel your energy",
+          "tags": [
+            "emotions",
+            "excited",
+            "feelings",
+            "kids"
+          ],
+          "age_range": "2-12"
+        },
+        {
+          "id": "hHCNqzJxb0M",
+          "title": "Understanding Proud Feelings",
+          "channel": "Kids Emotion Learning",
+          "category": "Emotions",
+          "language": "english",
+          "duration": "3:40",
+          "duration_seconds": 220,
+          "description": "Learn about pride and celebrating your achievements",
+          "tags": [
+            "emotions",
+            "proud",
+            "feelings",
+            "kids"
+          ],
+          "age_range": "2-12"
+        },
+        {
+          "id": "0Wg9Lh5HNCA",
+          "title": "Understanding Worried Feelings",
+          "channel": "Kids Emotion Learning",
+          "category": "Emotions",
+          "language": "english",
+          "duration": "4:15",
+          "duration_seconds": 255,
+          "description": "Learn about worry and how to manage anxious feelings",
+          "tags": [
+            "emotions",
+            "worried",
+            "anxiety",
+            "kids"
+          ],
+          "age_range": "2-12"
+        },
+        {
+          "id": "NRrpY7KZROU",
+          "title": "Understanding Bored Feelings",
+          "channel": "Kids Emotion Learning",
+          "category": "Emotions",
+          "language": "english",
+          "duration": "3:25",
+          "duration_seconds": 205,
+          "description": "Learn about boredom and how to find things to enjoy",
+          "tags": [
+            "emotions",
+            "bored",
+            "feelings",
+            "kids"
+          ],
+          "age_range": "2-12"
+        },
+        {
+          "id": "2OEL4P1Rz04",
+          "title": "Understanding Grateful Feelings",
+          "channel": "Kids Emotion Learning",
+          "category": "Emotions",
+          "language": "english",
+          "duration": "4:00",
+          "duration_seconds": 240,
+          "description": "Learn about gratitude and being thankful",
+          "tags": [
+            "emotions",
+            "grateful",
+            "thankful",
+            "kids"
+          ],
+          "age_range": "2-12"
+        },
+        {
+          "id": "JqMBZLwFi6k",
+          "title": "Understanding Lonely Feelings",
+          "channel": "Kids Emotion Learning",
+          "category": "Emotions",
+          "language": "english",
+          "duration": "3:55",
+          "duration_seconds": 235,
+          "description": "Learn about loneliness and how to connect with others",
+          "tags": [
+            "emotions",
+            "lonely",
+            "feelings",
+            "kids"
+          ],
+          "age_range": "2-12"
+        },
+        {
+          "id": "GN1nRuQxHos",
+          "title": "Understanding Disgusted Feelings",
+          "channel": "Kids Emotion Learning",
+          "category": "Emotions",
+          "language": "english",
+          "duration": "3:30",
+          "duration_seconds": 210,
+          "description": "Learn about disgust and what causes this feeling",
+          "tags": [
+            "emotions",
+            "disgusted",
+            "feelings",
+            "kids"
+          ],
+          "age_range": "2-12"
+        },
+        {
+          "id": "aMG4jSF1lVc",
+          "title": "Understanding Confused Feelings",
+          "channel": "Kids Emotion Learning",
+          "category": "Emotions",
+          "language": "english",
+          "duration": "3:45",
+          "duration_seconds": 225,
+          "description": "Learn about confusion and how to ask for help",
+          "tags": [
+            "emotions",
+            "confused",
+            "feelings",
+            "kids"
+          ],
+          "age_range": "2-12"
+        },
+        {
+          "id": "7OIvIZ5U_Yk",
+          "title": "Understanding Embarrassed Feelings",
+          "channel": "Kids Emotion Learning",
+          "category": "Emotions",
+          "language": "english",
+          "duration": "3:35",
+          "duration_seconds": 215,
+          "description": "Learn about embarrassment and that it is okay to feel this way",
+          "tags": [
+            "emotions",
+            "embarrassed",
+            "feelings",
+            "kids"
+          ],
+          "age_range": "2-12"
+        },
+        {
+          "id": "6Nm16oYm3OM",
+          "title": "Understanding Jealous Feelings",
+          "channel": "Kids Emotion Learning",
+          "category": "Emotions",
+          "language": "english",
+          "duration": "3:50",
+          "duration_seconds": 230,
+          "description": "Learn about jealousy and how to handle it positively",
+          "tags": [
+            "emotions",
+            "jealous",
+            "feelings",
+            "kids"
+          ],
+          "age_range": "2-12"
+        },
+        {
+          "id": "vV6VlOqwMWQ",
+          "title": "Understanding Frustrated Feelings",
+          "channel": "Kids Emotion Learning",
+          "category": "Emotions",
+          "language": "english",
+          "duration": "4:05",
+          "duration_seconds": 245,
+          "description": "Learn about frustration and healthy ways to cope",
+          "tags": [
+            "emotions",
+            "frustrated",
+            "feelings",
+            "kids"
+          ],
+          "age_range": "2-12"
+        },
+        {
+          "id": "fXg0dUDLOd0",
+          "title": "Understanding Hopeful Feelings",
+          "channel": "Kids Emotion Learning",
+          "category": "Emotions",
+          "language": "english",
+          "duration": "3:55",
+          "duration_seconds": 235,
+          "description": "Learn about hope and looking forward to good things",
+          "tags": [
+            "emotions",
+            "hopeful",
+            "hope",
+            "kids"
+          ],
+          "age_range": "2-12"
+        },
+        {
+          "id": "vG1rVhP2JsE",
+          "title": "Understanding Shy Feelings",
+          "channel": "Kids Emotion Learning",
+          "category": "Emotions",
+          "language": "english",
+          "duration": "3:40",
+          "duration_seconds": 220,
+          "description": "Learn about shyness and how to feel comfortable",
+          "tags": [
+            "emotions",
+            "shy",
+            "feelings",
+            "kids"
+          ],
+          "age_range": "2-12"
+        },
+        {
+          "id": "UKtLSSXPiRo",
+          "title": "Understanding Tired Feelings",
+          "channel": "Kids Emotion Learning",
+          "category": "Emotions",
+          "language": "english",
+          "duration": "3:30",
+          "duration_seconds": 210,
+          "description": "Learn about tiredness and the importance of rest",
+          "tags": [
+            "emotions",
+            "tired",
+            "rest",
+            "kids"
+          ],
+          "age_range": "2-12"
+        }
+      ],
+      "Social Stories": [
+        {
+          "id": "JwjBBQTzBEM",
+          "title": "My Morning Routine — Social Story",
+          "channel": "SproutPath Stories",
+          "category": "Social Stories",
+          "language": "english",
+          "duration": "5:00",
+          "duration_seconds": 300,
+          "description": "A social story about a calm and predictable morning routine",
+          "tags": [
+            "social story",
+            "morning",
+            "routine",
+            "autism"
+          ],
+          "age_range": "3-12"
+        },
+        {
+          "id": "rJPBM1tMDio",
+          "title": "Going to School — Social Story",
+          "channel": "SproutPath Stories",
+          "category": "Social Stories",
+          "language": "english",
+          "duration": "5:30",
+          "duration_seconds": 330,
+          "description": "A social story about going to school for the first time",
+          "tags": [
+            "social story",
+            "school",
+            "transition",
+            "autism"
+          ],
+          "age_range": "3-12"
+        },
+        {
+          "id": "JqMBZLwFi6k",
+          "title": "Making a New Friend — Social Story",
+          "channel": "SproutPath Stories",
+          "category": "Social Stories",
+          "language": "english",
+          "duration": "4:45",
+          "duration_seconds": 285,
+          "description": "A social story about how to make friends on the playground",
+          "tags": [
+            "social story",
+            "friendship",
+            "new friend",
+            "autism"
+          ],
+          "age_range": "3-12"
+        },
+        {
+          "id": "vV6VlOqwMWQ",
+          "title": "Feeling Angry — Social Story",
+          "channel": "SproutPath Stories",
+          "category": "Social Stories",
+          "language": "english",
+          "duration": "4:30",
+          "duration_seconds": 270,
+          "description": "A social story about managing angry feelings safely",
+          "tags": [
+            "social story",
+            "anger",
+            "emotions",
+            "autism"
+          ],
+          "age_range": "3-12"
+        },
+        {
+          "id": "6Nm16oYm3OM",
+          "title": "Waiting My Turn — Social Story",
+          "channel": "SproutPath Stories",
+          "category": "Social Stories",
+          "language": "english",
+          "duration": "4:15",
+          "duration_seconds": 255,
+          "description": "A social story about patience and waiting in a queue",
+          "tags": [
+            "social story",
+            "waiting",
+            "patience",
+            "autism"
+          ],
+          "age_range": "3-12"
+        },
+        {
+          "id": "aMG4jSF1lVc",
+          "title": "Asking for Help — Social Story",
+          "channel": "SproutPath Stories",
+          "category": "Social Stories",
+          "language": "english",
+          "duration": "4:00",
+          "duration_seconds": 240,
+          "description": "A social story about how and when to ask for help",
+          "tags": [
+            "social story",
+            "asking help",
+            "communication",
+            "autism"
+          ],
+          "age_range": "3-12"
+        },
+        {
+          "id": "XNidCmloWEU",
+          "title": "Playing on the Playground — Social Story",
+          "channel": "SproutPath Stories",
+          "category": "Social Stories",
+          "language": "english",
+          "duration": "4:45",
+          "duration_seconds": 285,
+          "description": "A social story about playground rules and taking turns",
+          "tags": [
+            "social story",
+            "playground",
+            "rules",
+            "autism"
+          ],
+          "age_range": "3-12"
+        },
+        {
+          "id": "NnxJDJcDxTQ",
+          "title": "Shopping at the Store — Social Story",
+          "channel": "SproutPath Stories",
+          "category": "Social Stories",
+          "language": "english",
+          "duration": "5:00",
+          "duration_seconds": 300,
+          "description": "A social story about going to the supermarket",
+          "tags": [
+            "social story",
+            "shopping",
+            "community",
+            "autism"
+          ],
+          "age_range": "3-12"
+        },
+        {
+          "id": "Ezv85LMFx2E",
+          "title": "Understanding My Feelings — Social Story",
+          "channel": "SproutPath Stories",
+          "category": "Social Stories",
+          "language": "english",
+          "duration": "4:30",
+          "duration_seconds": 270,
+          "description": "A social story about identifying and naming emotions",
+          "tags": [
+            "social story",
+            "feelings",
+            "emotions",
+            "autism"
+          ],
+          "age_range": "3-12"
+        }
+      ],
+      "Video Modeling": [
+        {
+          "id": "bRkILioT_NA",
+          "title": "How to Wash Your Hands",
+          "channel": "Daily Living Skills",
+          "category": "Video Modeling",
+          "language": "english",
+          "duration": "3:00",
+          "duration_seconds": 180,
+          "description": "Step-by-step hand washing for kids",
+          "tags": [
+            "video modeling",
+            "handwashing",
+            "hygiene",
+            "daily living"
+          ],
+          "age_range": "3-12"
+        },
+        {
+          "id": "YT03GWrjRSo",
+          "title": "How to Brush Your Teeth",
+          "channel": "Daily Living Skills",
+          "category": "Video Modeling",
+          "language": "english",
+          "duration": "3:30",
+          "duration_seconds": 210,
+          "description": "Step-by-step tooth brushing guide",
+          "tags": [
+            "video modeling",
+            "toothbrushing",
+            "hygiene",
+            "daily living"
+          ],
+          "age_range": "3-12"
+        },
+        {
+          "id": "XNidCmloWEU",
+          "title": "How to Get Dressed",
+          "channel": "Daily Living Skills",
+          "category": "Video Modeling",
+          "language": "english",
+          "duration": "4:00",
+          "duration_seconds": 240,
+          "description": "Step-by-step guide to getting dressed independently",
+          "tags": [
+            "video modeling",
+            "getting dressed",
+            "independence",
+            "daily living"
+          ],
+          "age_range": "3-12"
+        },
+        {
+          "id": "aMG4jSF1lVc",
+          "title": "How to Make Your Bed",
+          "channel": "Daily Living Skills",
+          "category": "Video Modeling",
+          "language": "english",
+          "duration": "3:45",
+          "duration_seconds": 225,
+          "description": "Step-by-step bed making for kids",
+          "tags": [
+            "video modeling",
+            "making bed",
+            "tidiness",
+            "daily living"
+          ],
+          "age_range": "3-12"
+        },
+        {
+          "id": "zkm53rCnPpg",
+          "title": "How to Pack Your School Bag",
+          "channel": "Daily Living Skills",
+          "category": "Video Modeling",
+          "language": "english",
+          "duration": "3:30",
+          "duration_seconds": 210,
+          "description": "Step-by-step school bag packing",
+          "tags": [
+            "video modeling",
+            "packing bag",
+            "school",
+            "daily living"
+          ],
+          "age_range": "3-12"
+        },
+        {
+          "id": "kKEkLQVTuiU",
+          "title": "How to Tie Your Shoes",
+          "channel": "Daily Living Skills",
+          "category": "Video Modeling",
+          "language": "english",
+          "duration": "4:15",
+          "duration_seconds": 255,
+          "description": "Step-by-step shoe tying for kids",
+          "tags": [
+            "video modeling",
+            "tying shoes",
+            "independence",
+            "daily living"
+          ],
+          "age_range": "3-12"
+        },
+        {
+          "id": "rJPBM1tMDio",
+          "title": "How to Eat Lunch Independently",
+          "channel": "Daily Living Skills",
+          "category": "Video Modeling",
+          "language": "english",
+          "duration": "3:15",
+          "duration_seconds": 195,
+          "description": "Guide to eating lunch at school independently",
+          "tags": [
+            "video modeling",
+            "eating lunch",
+            "independence",
+            "daily living"
+          ],
+          "age_range": "3-12"
+        },
+        {
+          "id": "NiuGlhVdF4M",
+          "title": "How to Cross the Road Safely",
+          "channel": "Daily Living Skills",
+          "category": "Video Modeling",
+          "language": "english",
+          "duration": "3:30",
+          "duration_seconds": 210,
+          "description": "Road safety for kids — look, listen, cross",
+          "tags": [
+            "video modeling",
+            "road safety",
+            "crossing road",
+            "daily living"
+          ],
+          "age_range": "3-12"
+        },
+        {
+          "id": "yCp2JnDQU54",
+          "title": "How to Ask for Help at School",
+          "channel": "Daily Living Skills",
+          "category": "Video Modeling",
+          "language": "english",
+          "duration": "3:00",
+          "duration_seconds": 180,
+          "description": "How to raise your hand and ask for help",
+          "tags": [
+            "video modeling",
+            "asking help",
+            "school",
+            "daily living"
+          ],
+          "age_range": "3-12"
+        },
+        {
+          "id": "JwjBBQTzBEM",
+          "title": "How to Greet People Politely",
+          "channel": "Daily Living Skills",
+          "category": "Video Modeling",
+          "language": "english",
+          "duration": "2:45",
+          "duration_seconds": 165,
+          "description": "Greetings and polite hellos for every situation",
+          "tags": [
+            "video modeling",
+            "greeting",
+            "social skills",
+            "daily living"
+          ],
+          "age_range": "3-12"
+        },
+        {
+          "id": "6Nm16oYm3OM",
+          "title": "How to Share with Friends",
+          "channel": "Daily Living Skills",
+          "category": "Video Modeling",
+          "language": "english",
+          "duration": "3:00",
+          "duration_seconds": 180,
+          "description": "Learning to share toys and belongings",
+          "tags": [
+            "video modeling",
+            "sharing",
+            "social skills",
+            "daily living"
+          ],
+          "age_range": "3-12"
+        },
+        {
+          "id": "fXg0dUDLOd0",
+          "title": "How to Calm Down When Upset",
+          "channel": "Daily Living Skills",
+          "category": "Video Modeling",
+          "language": "english",
+          "duration": "4:00",
+          "duration_seconds": 240,
+          "description": "Calming down strategies and breathing techniques",
+          "tags": [
+            "video modeling",
+            "calming down",
+            "emotions",
+            "daily living"
+          ],
+          "age_range": "3-12"
+        }
       ]
     },
     "bengali": {
@@ -7870,6 +8573,178 @@
             "reading",
             "stories",
             "telugu"
+          ],
+          "age_range": "3-12"
+        }
+      ],
+      "Telugu Social Stories": [
+        {
+          "id": "NnxJDJcDxTQ",
+          "title": "ఉదయం దినచర్య — సోషల్ స్టోరీ",
+          "channel": "SproutPath Telugu",
+          "category": "Telugu Social Stories",
+          "language": "telugu",
+          "duration": "5:00",
+          "duration_seconds": 300,
+          "description": "ఉదయం దినచర్య గురించి సోషల్ స్టోరీ",
+          "tags": [
+            "social story",
+            "morning",
+            "telugu",
+            "autism"
+          ],
+          "age_range": "3-12"
+        },
+        {
+          "id": "Ezv85LMFx2E",
+          "title": "కొత్త స్నేహితుడిని చేసుకోవడం",
+          "channel": "SproutPath Telugu",
+          "category": "Telugu Social Stories",
+          "language": "telugu",
+          "duration": "4:45",
+          "duration_seconds": 285,
+          "description": "కొత్త స్నేహితులు చేసుకోవడం గురించి కథ",
+          "tags": [
+            "social story",
+            "friendship",
+            "telugu",
+            "autism"
+          ],
+          "age_range": "3-12"
+        },
+        {
+          "id": "hR8AoJH_2rI",
+          "title": "కోపం అనుభవించడం — సోషల్ స్టోరీ",
+          "channel": "SproutPath Telugu",
+          "category": "Telugu Social Stories",
+          "language": "telugu",
+          "duration": "4:30",
+          "duration_seconds": 270,
+          "description": "కోపాన్ని నిర్వహించడం గురించి కథ",
+          "tags": [
+            "social story",
+            "anger",
+            "telugu",
+            "autism"
+          ],
+          "age_range": "3-12"
+        },
+        {
+          "id": "8bKhxP08RFk",
+          "title": "పాఠశాలకు వెళ్ళడం — సోషల్ స్టోరీ",
+          "channel": "SproutPath Telugu",
+          "category": "Telugu Social Stories",
+          "language": "telugu",
+          "duration": "5:30",
+          "duration_seconds": 330,
+          "description": "పాఠశాలకు వెళ్ళడం గురించి కథ",
+          "tags": [
+            "social story",
+            "school",
+            "telugu",
+            "autism"
+          ],
+          "age_range": "3-12"
+        },
+        {
+          "id": "tJMsyBH_Mvk",
+          "title": "నా వంతు కోసం వేచి ఉండటం",
+          "channel": "SproutPath Telugu",
+          "category": "Telugu Social Stories",
+          "language": "telugu",
+          "duration": "4:15",
+          "duration_seconds": 255,
+          "description": "వేచి ఉండటం మరియు ఓర్పు గురించి కథ",
+          "tags": [
+            "social story",
+            "waiting",
+            "telugu",
+            "autism"
+          ],
+          "age_range": "3-12"
+        },
+        {
+          "id": "E2X8urRLHLk",
+          "title": "సహాయం అడగడం — సోషల్ స్టోరీ",
+          "channel": "SproutPath Telugu",
+          "category": "Telugu Social Stories",
+          "language": "telugu",
+          "duration": "4:00",
+          "duration_seconds": 240,
+          "description": "సహాయం అడగడం గురించి కథ",
+          "tags": [
+            "social story",
+            "asking help",
+            "telugu",
+            "autism"
+          ],
+          "age_range": "3-12"
+        },
+        {
+          "id": "wPD4fREjEiU",
+          "title": "ఆట స్థలంలో ఆడటం",
+          "channel": "SproutPath Telugu",
+          "category": "Telugu Social Stories",
+          "language": "telugu",
+          "duration": "4:45",
+          "duration_seconds": 285,
+          "description": "ఆట స్థలంలో నియమాలు మరియు వంతు తీసుకోవడం",
+          "tags": [
+            "social story",
+            "playground",
+            "telugu",
+            "autism"
+          ],
+          "age_range": "3-12"
+        },
+        {
+          "id": "J1CWMU9Oo6s",
+          "title": "పంచుకోవడం నేర్చుకోవడం",
+          "channel": "SproutPath Telugu",
+          "category": "Telugu Social Stories",
+          "language": "telugu",
+          "duration": "4:20",
+          "duration_seconds": 260,
+          "description": "పంచుకోవడం మరియు సహకారం గురించి కథ",
+          "tags": [
+            "social story",
+            "sharing",
+            "telugu",
+            "autism"
+          ],
+          "age_range": "3-12"
+        },
+        {
+          "id": "NnxJDJcDxTQ",
+          "title": "నా భావాలను అర్థం చేసుకోవడం",
+          "channel": "SproutPath Telugu",
+          "category": "Telugu Social Stories",
+          "language": "telugu",
+          "duration": "4:30",
+          "duration_seconds": 270,
+          "description": "భావాలను గుర్తించడం గురించి కథ",
+          "tags": [
+            "social story",
+            "feelings",
+            "telugu",
+            "autism"
+          ],
+          "age_range": "3-12"
+        },
+        {
+          "id": "Ezv85LMFx2E",
+          "title": "కొట్టుబడిలో కొనుగోలు",
+          "channel": "SproutPath Telugu",
+          "category": "Telugu Social Stories",
+          "language": "telugu",
+          "duration": "5:00",
+          "duration_seconds": 300,
+          "description": "షాపింగ్ గురించి సోషల్ స్టోరీ",
+          "tags": [
+            "social story",
+            "shopping",
+            "telugu",
+            "autism"
           ],
           "age_range": "3-12"
         }
