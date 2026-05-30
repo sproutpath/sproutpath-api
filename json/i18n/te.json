@@ -1,0 +1,3001 @@
+{
+  "_meta": {
+    "language_id": "te",
+    "name": "Telugu",
+    "nativeName": "తెలుగు",
+    "flag": "🇮🇳",
+    "script": "నమస్కారం! మీరు ఎలా ఉన్నారు?",
+    "ttsCode": "te-IN",
+    "lm_key_count": 745,
+    "tm_key_count": 0,
+    "notes": "Telugu translation. Translations preserve format specifiers (%@, %d, %d%%), escape sequences, and emojis from the English source. Brand name 'SproutPath' kept as-is."
+  },
+  "lm_keys": {
+    "app_name": {
+      "en": "SproutPath",
+      "translation": "SproutPath"
+    },
+    "tagline": {
+      "en": "Grow with joy, learn with love",
+      "translation": "ఆనందంగా ఎదగండి, ప్రేమతో నేర్చుకోండి"
+    },
+    "launch_tagline": {
+      "en": "Grow with joy, learn with love",
+      "translation": "ఆనందంగా ఎదగండి, ప్రేమతో నేర్చుకోండి"
+    },
+    "set_up_your_profile": {
+      "en": "Set up your profile",
+      "translation": "మీ ప్రొఫైల్‌ను సెటప్ చేయండి"
+    },
+    "tap_to_add_name_photo": {
+      "en": "Tap to add your name and photo",
+      "translation": "మీ పేరు మరియు ఫోటోను జోడించడానికి నొక్కండి"
+    },
+    "hi_greeting": {
+      "en": "Hi, %@! 👋",
+      "translation": "హాయ్, %@! 👋"
+    },
+    "age_stars_today": {
+      "en": "Age %d · %d ⭐ today",
+      "translation": "వయసు %d · ఈరోజు %d ⭐"
+    },
+    "child_tab": {
+      "en": "Child",
+      "translation": "పిల్లలు"
+    },
+    "parent_tab": {
+      "en": "Parents",
+      "translation": "తల్లిదండ్రులు"
+    },
+    "sidebar_dashboard": {
+      "en": "Dashboard",
+      "translation": "డాష్‌బోర్డ్"
+    },
+    "sidebar_emotions": {
+      "en": "Emotions",
+      "translation": "భావాలు"
+    },
+    "sidebar_study": {
+      "en": "Study",
+      "translation": "చదువు"
+    },
+    "sidebar_activities": {
+      "en": "Activities",
+      "translation": "కార్యకలాపాలు"
+    },
+    "sidebar_explore": {
+      "en": "Explore",
+      "translation": "అన్వేషించండి"
+    },
+    "sidebar_daily_life": {
+      "en": "Daily Life",
+      "translation": "రోజువారీ జీవితం"
+    },
+    "sidebar_parents": {
+      "en": "Parents",
+      "translation": "తల్లిదండ్రులు"
+    },
+    "telugu_devotional": {
+      "en": "Telugu Devotional 🙏",
+      "translation": "తెలుగు భక్తి 🙏"
+    },
+    "transport_walk": {
+      "en": "Walk",
+      "translation": "నడక"
+    },
+    "transport_drive": {
+      "en": "Drive",
+      "translation": "డ్రైవ్"
+    },
+    "transport_bus": {
+      "en": "Bus",
+      "translation": "బస్సు"
+    },
+    "transport_train": {
+      "en": "Train",
+      "translation": "రైలు"
+    },
+    "transport_mode": {
+      "en": "How to go",
+      "translation": "ఎలా వెళ్ళాలి"
+    },
+    "open_in_maps": {
+      "en": "Open in Maps",
+      "translation": "మ్యాప్స్‌లో తెరవండి"
+    },
+    "add_destination": {
+      "en": "Add Destination",
+      "translation": "గమ్యస్థానం జోడించండి"
+    },
+    "edit_destination": {
+      "en": "Edit Destination",
+      "translation": "గమ్యస్థానాన్ని సవరించండి"
+    },
+    "no_destinations_yet": {
+      "en": "No destinations yet",
+      "translation": "ఇంకా గమ్యస్థానాలు లేవు"
+    },
+    "add_first_destination": {
+      "en": "Add First Destination",
+      "translation": "మొదటి గమ్యస్థానం జోడించండి"
+    },
+    "find_on_map": {
+      "en": "Find on Map",
+      "translation": "మ్యాప్‌లో కనుగొనండి"
+    },
+    "location_found": {
+      "en": "Location found ✓",
+      "translation": "స్థానం దొరికింది ✓"
+    },
+    "address_not_found": {
+      "en": "Address not found. Try a more specific address.",
+      "translation": "చిరునామా కనుగొనబడలేదు. మరింత నిర్దిష్ట చిరునామాను ప్రయత్నించండి."
+    },
+    "address_resolved": {
+      "en": "Address will be resolved when you start navigation",
+      "translation": "మీరు నావిగేషన్ ప్రారంభించినప్పుడు చిరునామా పరిష్కరించబడుతుంది"
+    },
+    "dest_name_placeholder": {
+      "en": "e.g. School, Park, Grandma's House",
+      "translation": "ఉదా. స్కూల్, పార్క్, అమ్మమ్మ ఇల్లు"
+    },
+    "dest_address_placeholder": {
+      "en": "e.g. 123 Main St, Chennai",
+      "translation": "ఉదా. 123 మెయిన్ స్ట్రీట్, చెన్నై"
+    },
+    "dest_icon": {
+      "en": "Icon",
+      "translation": "ఐకాన్"
+    },
+    "dest_colour": {
+      "en": "Colour",
+      "translation": "రంగు"
+    },
+    "add_place": {
+      "en": "Add Place",
+      "translation": "స్థలాన్ని జోడించండి"
+    },
+    "very_mild": {
+      "en": "Very mild",
+      "translation": "చాలా తేలికపాటి"
+    },
+    "mild": {
+      "en": "Mild",
+      "translation": "తేలికపాటి"
+    },
+    "moderate": {
+      "en": "Moderate",
+      "translation": "మధ్యస్థం"
+    },
+    "severe": {
+      "en": "Severe",
+      "translation": "తీవ్రం"
+    },
+    "very_severe": {
+      "en": "Very severe",
+      "translation": "చాలా తీవ్రం"
+    },
+    "trigger_loud_noise": {
+      "en": "Loud noise",
+      "translation": "పెద్ద శబ్దం"
+    },
+    "trigger_transition": {
+      "en": "Transition",
+      "translation": "మార్పు"
+    },
+    "trigger_routine_change": {
+      "en": "Routine change",
+      "translation": "దినచర్య మార్పు"
+    },
+    "trigger_hunger": {
+      "en": "Hunger",
+      "translation": "ఆకలి"
+    },
+    "trigger_tiredness": {
+      "en": "Tiredness",
+      "translation": "అలసట"
+    },
+    "trigger_sensory_overload": {
+      "en": "Sensory overload",
+      "translation": "ఇంద్రియ ఓవర్‌లోడ్"
+    },
+    "trigger_social_conflict": {
+      "en": "Social conflict",
+      "translation": "సామాజిక సంఘర్షణ"
+    },
+    "trigger_frustration": {
+      "en": "Frustration",
+      "translation": "నిరాశ"
+    },
+    "resolution_breathing": {
+      "en": "Deep breathing",
+      "translation": "లోతైన శ్వాస"
+    },
+    "resolution_quiet_space": {
+      "en": "Quiet space",
+      "translation": "నిశ్శబ్ద స్థలం"
+    },
+    "resolution_weighted_blanket": {
+      "en": "Weighted blanket",
+      "translation": "బరువైన దుప్పటి"
+    },
+    "resolution_fidget": {
+      "en": "Fidget toy",
+      "translation": "ఫిడ్జెట్ బొమ్మ"
+    },
+    "resolution_music": {
+      "en": "Music / headphones",
+      "translation": "సంగీతం / హెడ్‌ఫోన్లు"
+    },
+    "resolution_snack": {
+      "en": "Favourite snack",
+      "translation": "ఇష్టమైన చిరుతిండి"
+    },
+    "resolution_exercise": {
+      "en": "Physical exercise",
+      "translation": "శారీరక వ్యాయామం"
+    },
+    "resolution_hugs": {
+      "en": "Hugs",
+      "translation": "కౌగిలింతలు"
+    },
+    "resolution_screen_break": {
+      "en": "Screen break",
+      "translation": "స్క్రీన్ విరామం"
+    },
+    "resolution_changed_env": {
+      "en": "Changed environment",
+      "translation": "మారిన వాతావరణం"
+    },
+    "resolution_verbal_reassurance": {
+      "en": "Verbal reassurance",
+      "translation": "మాటల ద్వారా భరోసా"
+    },
+    "time_of_day_label": {
+      "en": "Time of day",
+      "translation": "రోజు సమయం"
+    },
+    "day_of_week_label": {
+      "en": "Day of week",
+      "translation": "వారం రోజు"
+    },
+    "default_diagnosis": {
+      "en": "Autism Spectrum Condition",
+      "translation": "ఆటిజం స్పెక్ట్రమ్ కండిషన్"
+    },
+    "default_comm_style": {
+      "en": "Limited verbal",
+      "translation": "పరిమిత మాటలు"
+    },
+    "comm_style_verbal": {
+      "en": "Verbal",
+      "translation": "మాటలతో"
+    },
+    "comm_style_limited_verbal": {
+      "en": "Limited verbal",
+      "translation": "పరిమిత మాటలు"
+    },
+    "comm_style_aac": {
+      "en": "AAC device",
+      "translation": "AAC పరికరం"
+    },
+    "comm_style_pointing": {
+      "en": "Pointing / gestures",
+      "translation": "చూపడం / సంజ్ఞలు"
+    },
+    "comm_style_non_verbal": {
+      "en": "Non-verbal",
+      "translation": "మాటలు లేకుండా"
+    },
+    "calm_suggestion_quiet": {
+      "en": "Quiet space",
+      "translation": "నిశ్శబ్ద స్థలం"
+    },
+    "calm_suggestion_deep_pressure": {
+      "en": "Deep pressure",
+      "translation": "లోతైన ఒత్తిడి"
+    },
+    "calm_suggestion_headphones": {
+      "en": "Noise-cancelling headphones",
+      "translation": "శబ్దాన్ని తగ్గించే హెడ్‌ఫోన్లు"
+    },
+    "calm_suggestion_fidget2": {
+      "en": "Fidget toy",
+      "translation": "ఫిడ్జెట్ బొమ్మ"
+    },
+    "calm_suggestion_routine": {
+      "en": "Routine reminder",
+      "translation": "దినచర్య రిమైండర్"
+    },
+    "calm_suggestion_visual_schedule": {
+      "en": "Visual schedule",
+      "translation": "దృశ్య షెడ్యూల్"
+    },
+    "how_i_communicate": {
+      "en": "How I communicate",
+      "translation": "నేను ఎలా మాట్లాడతాను"
+    },
+    "sens_ex_sound_music": {
+      "en": "Music",
+      "translation": "సంగీతం"
+    },
+    "sens_ex_sound_traffic": {
+      "en": "Traffic noise",
+      "translation": "ట్రాఫిక్ శబ్దం"
+    },
+    "sens_ex_sound_classroom": {
+      "en": "Classroom chatter",
+      "translation": "తరగతి గది గోల"
+    },
+    "sens_ex_touch_clothing": {
+      "en": "Clothing textures",
+      "translation": "బట్టల ఆకృతులు"
+    },
+    "sens_ex_touch_hugs": {
+      "en": "Hugs",
+      "translation": "కౌగిలింతలు"
+    },
+    "sens_ex_touch_wet_hands": {
+      "en": "Wet hands",
+      "translation": "తడి చేతులు"
+    },
+    "sens_ex_vision_lights": {
+      "en": "Bright lights",
+      "translation": "ప్రకాశవంతమైన లైట్లు"
+    },
+    "sens_ex_vision_patterns": {
+      "en": "Busy patterns",
+      "translation": "రద్దీగా ఉండే నమూనాలు"
+    },
+    "sens_ex_vision_screen": {
+      "en": "Screen time",
+      "translation": "స్క్రీన్ సమయం"
+    },
+    "sensory_sound": {
+      "en": "Sound",
+      "translation": "శబ్దం"
+    },
+    "sensory_touch": {
+      "en": "Touch",
+      "translation": "స్పర్శ"
+    },
+    "sensory_sight": {
+      "en": "Sight",
+      "translation": "దృష్టి"
+    },
+    "sensory_smell": {
+      "en": "Smell",
+      "translation": "వాసన"
+    },
+    "sensory_taste": {
+      "en": "Taste",
+      "translation": "రుచి"
+    },
+    "sensory_movement": {
+      "en": "Movement",
+      "translation": "కదలిక"
+    },
+    "sensory_body": {
+      "en": "Body Awareness",
+      "translation": "శరీర అవగాహన"
+    },
+    "dest_school": {
+      "en": "School",
+      "translation": "స్కూల్"
+    },
+    "dest_park": {
+      "en": "Park",
+      "translation": "పార్క్"
+    },
+    "dest_library": {
+      "en": "Library",
+      "translation": "లైబ్రరీ"
+    },
+    "dest_hospital": {
+      "en": "Hospital",
+      "translation": "ఆసుపత్రి"
+    },
+    "dest_supermarket": {
+      "en": "Supermarket",
+      "translation": "సూపర్‌మార్కెట్"
+    },
+    "dest_playground": {
+      "en": "Playground",
+      "translation": "ఆట స్థలం"
+    },
+    "dest_bus_stop": {
+      "en": "Bus Stop",
+      "translation": "బస్ స్టాప్"
+    },
+    "dest_pool": {
+      "en": "Swimming Pool",
+      "translation": "స్విమ్మింగ్ పూల్"
+    },
+    "dest_temple": {
+      "en": "Temple",
+      "translation": "గుడి"
+    },
+    "dest_doctor": {
+      "en": "Doctor",
+      "translation": "డాక్టర్"
+    },
+    "dest_home": {
+      "en": "Home",
+      "translation": "ఇల్లు"
+    },
+    "dest_grandma": {
+      "en": "Grandma's House",
+      "translation": "అమ్మమ్మ ఇల్లు"
+    },
+    "getting_directions": {
+      "en": "Getting directions…",
+      "translation": "దిశలు పొందుతోంది…"
+    },
+    "navigating_to": {
+      "en": "Navigate to %@",
+      "translation": "%@కి నావిగేట్ చేయండి"
+    },
+    "arrived_at": {
+      "en": "You have arrived at %@! 🎉",
+      "translation": "మీరు %@కి చేరుకున్నారు! 🎉"
+    },
+    "address_for_map_directions": {
+      "en": "Address (for map directions)",
+      "translation": "చిరునామా (మ్యాప్ దిశల కోసం)"
+    },
+    "open_in_apple_maps": {
+      "en": "Open in Maps",
+      "translation": "మ్యాప్స్‌లో తెరవండి"
+    },
+    "edit_quick_access": {
+      "en": "Edit Quick Access",
+      "translation": "త్వరిత యాక్సెస్‌ను సవరించండి"
+    },
+    "quick_access_hint": {
+      "en": "Tap to select your favourite features",
+      "translation": "మీ ఇష్టమైన ఫీచర్లను ఎంచుకోవడానికి నొక్కండి"
+    },
+    "done_editing": {
+      "en": "Done",
+      "translation": "పూర్తయింది"
+    },
+    "select_features": {
+      "en": "Select Features",
+      "translation": "ఫీచర్లను ఎంచుకోండి"
+    },
+    "goal_section_emotions": {
+      "en": "Emotions",
+      "translation": "భావాలు"
+    },
+    "goal_section_math": {
+      "en": "Math",
+      "translation": "గణితం"
+    },
+    "goal_section_english": {
+      "en": "English",
+      "translation": "ఇంగ్లీష్"
+    },
+    "goal_section_science": {
+      "en": "Science",
+      "translation": "విజ్ఞానం"
+    },
+    "goal_section_routine": {
+      "en": "Routine",
+      "translation": "దినచర్య"
+    },
+    "goal_section_calm": {
+      "en": "Calm",
+      "translation": "ప్రశాంతత"
+    },
+    "goal_section_videos": {
+      "en": "Videos",
+      "translation": "వీడియోలు"
+    },
+    "goal_section_stories": {
+      "en": "Social Stories",
+      "translation": "సామాజిక కథలు"
+    },
+    "goal_practise_emotions": {
+      "en": "Practise emotions",
+      "translation": "భావాలను ప్రాక్టీస్ చేయండి"
+    },
+    "goal_morning_routine": {
+      "en": "Complete morning routine",
+      "translation": "ఉదయపు దినచర్యను పూర్తి చేయండి"
+    },
+    "goal_calming_exercise": {
+      "en": "Try a calming exercise",
+      "translation": "ప్రశాంతత వ్యాయామాన్ని ప్రయత్నించండి"
+    },
+    "goal_learning_video": {
+      "en": "Watch a learning video",
+      "translation": "నేర్చుకునే వీడియోను చూడండి"
+    },
+    "goal_practise_maths": {
+      "en": "Practise maths",
+      "translation": "గణితాన్ని ప్రాక్టీస్ చేయండి"
+    },
+    "goal_english_lesson": {
+      "en": "Do an English lesson",
+      "translation": "ఇంగ్లీష్ పాఠం చేయండి"
+    },
+    "sens_sound_sensitive1": {
+      "en": "Covers ears often",
+      "translation": "తరచుగా చెవులు మూసుకుంటారు"
+    },
+    "sens_sound_sensitive2": {
+      "en": "Upset by hand dryers",
+      "translation": "హ్యాండ్ డ్రయ్యర్ల వల్ల కలత చెందుతారు"
+    },
+    "sens_sound_sensitive3": {
+      "en": "Startles at sudden noises",
+      "translation": "ఆకస్మిక శబ్దాలకు ఉలిక్కిపడతారు"
+    },
+    "sens_sound_seeking1": {
+      "en": "Loves loud music",
+      "translation": "పెద్ద శబ్దంలో సంగీతాన్ని ఇష్టపడతారు"
+    },
+    "sens_sound_seeking2": {
+      "en": "Makes repetitive sounds",
+      "translation": "పునరావృత శబ్దాలు చేస్తారు"
+    },
+    "sens_sound_seeking3": {
+      "en": "Seeks noisy environments",
+      "translation": "శబ్దమయ వాతావరణాలను కోరుకుంటారు"
+    },
+    "sense_touch_sensitive1": {
+      "en": "Hates tags in clothes",
+      "translation": "బట్టల ట్యాగ్‌లను అసహ్యించుకుంటారు"
+    },
+    "sense_touch_sensitive2": {
+      "en": "Avoids messy play",
+      "translation": "మెస్సీ ఆటను దూరంగా ఉంచుతారు"
+    },
+    "sense_touch_sensitive3": {
+      "en": "Dislikes unexpected touch",
+      "translation": "ఊహించని స్పర్శను ఇష్టపడరు"
+    },
+    "sense_touch_seeking1": {
+      "en": "Loves deep pressure",
+      "translation": "లోతైన ఒత్తిడిని ఇష్టపడతారు"
+    },
+    "sense_touch_seeking2": {
+      "en": "Seeks hugs",
+      "translation": "కౌగిలింతలను కోరుకుంటారు"
+    },
+    "sense_touch_seeking3": {
+      "en": "Enjoys heavy blankets",
+      "translation": "బరువైన దుప్పట్లను ఆస్వాదిస్తారు"
+    },
+    "sense_sight_sensitive1": {
+      "en": "Bothered by bright lights",
+      "translation": "ప్రకాశవంతమైన లైట్ల వల్ల ఇబ్బందిపడతారు"
+    },
+    "sense_sight_sensitive2": {
+      "en": "Avoids busy visual spaces",
+      "translation": "రద్దీగా ఉన్న దృశ్య స్థలాలను దూరంగా ఉంచుతారు"
+    },
+    "sense_sight_sensitive3": {
+      "en": "Squints often",
+      "translation": "తరచుగా కళ్ళు మూసుకుని చూస్తారు"
+    },
+    "sense_sight_seeking1": {
+      "en": "Watches spinning objects",
+      "translation": "తిరిగే వస్తువులను చూస్తారు"
+    },
+    "sense_sight_seeking2": {
+      "en": "Stares at lights",
+      "translation": "లైట్లను తదేకంగా చూస్తారు"
+    },
+    "sense_sight_seeking3": {
+      "en": "Seeks visual stimulation",
+      "translation": "దృశ్య ఉత్తేజాన్ని కోరుకుంటారు"
+    },
+    "dashboard": {
+      "en": "Dashboard",
+      "translation": "డాష్‌బోర్డ్"
+    },
+    "study": {
+      "en": "Study",
+      "translation": "చదువు"
+    },
+    "activities": {
+      "en": "Activities",
+      "translation": "కార్యకలాపాలు"
+    },
+    "schedule": {
+      "en": "Schedule",
+      "translation": "షెడ్యూల్"
+    },
+    "more": {
+      "en": "More",
+      "translation": "మరిన్ని"
+    },
+    "emotions": {
+      "en": "Emotions",
+      "translation": "భావాలు"
+    },
+    "mirrorMode": {
+      "en": "Mirror Mode",
+      "translation": "మిర్రర్ మోడ్"
+    },
+    "identifyEmotions": {
+      "en": "Identify Emotions",
+      "translation": "భావాలను గుర్తించండి"
+    },
+    "socialStories": {
+      "en": "Social Stories",
+      "translation": "సామాజిక కథలు"
+    },
+    "sixSecondRule": {
+      "en": "6-Second Rule",
+      "translation": "6-సెకన్ల నియమం"
+    },
+    "mathNumbers": {
+      "en": "Math & Numbers",
+      "translation": "గణితం & సంఖ్యలు"
+    },
+    "english": {
+      "en": "English",
+      "translation": "ఇంగ్లీష్"
+    },
+    "science": {
+      "en": "Science",
+      "translation": "విజ్ఞానం"
+    },
+    "currency": {
+      "en": "Currency",
+      "translation": "కరెన్సీ"
+    },
+    "measurements": {
+      "en": "Measurements",
+      "translation": "కొలతలు"
+    },
+    "yogaExercise": {
+      "en": "Yoga & Exercise",
+      "translation": "యోగా & వ్యాయామం"
+    },
+    "socialSkills": {
+      "en": "Social Skills",
+      "translation": "సామాజిక నైపుణ్యాలు"
+    },
+    "cooking": {
+      "en": "Cooking",
+      "translation": "వంట"
+    },
+    "sports": {
+      "en": "Sports",
+      "translation": "క్రీడలు"
+    },
+    "physicalActivities": {
+      "en": "Physical Activities",
+      "translation": "శారీరక కార్యకలాపాలు"
+    },
+    "videos": {
+      "en": "Videos",
+      "translation": "వీడియోలు"
+    },
+    "virtualExplore": {
+      "en": "Virtual Explore",
+      "translation": "వర్చువల్ అన్వేషణ"
+    },
+    "places": {
+      "en": "Places",
+      "translation": "స్థలాలు"
+    },
+    "videoModeling": {
+      "en": "Video Modeling",
+      "translation": "వీడియో మోడలింగ్"
+    },
+    "dailyRoutine": {
+      "en": "Daily Routine",
+      "translation": "రోజువారీ దినచర్య"
+    },
+    "calmCorner": {
+      "en": "Calm Corner",
+      "translation": "ప్రశాంత మూల"
+    },
+    "myStars": {
+      "en": "My Stars",
+      "translation": "నా నక్షత్రాలు"
+    },
+    "memories": {
+      "en": "Memories",
+      "translation": "జ్ఞాపకాలు"
+    },
+    "myProfile": {
+      "en": "My Profile",
+      "translation": "నా ప్రొఫైల్"
+    },
+    "voiceChat": {
+      "en": "Voice Chat",
+      "translation": "వాయిస్ చాట్"
+    },
+    "close": {
+      "en": "Close",
+      "translation": "మూసివేయండి"
+    },
+    "save": {
+      "en": "Save",
+      "translation": "సేవ్ చేయండి"
+    },
+    "cancel": {
+      "en": "Cancel",
+      "translation": "రద్దు చేయండి"
+    },
+    "done": {
+      "en": "Done",
+      "translation": "పూర్తయింది"
+    },
+    "next": {
+      "en": "Next",
+      "translation": "తదుపరి"
+    },
+    "back": {
+      "en": "Back",
+      "translation": "వెనుకకు"
+    },
+    "start": {
+      "en": "Start",
+      "translation": "ప్రారంభించండి"
+    },
+    "finish": {
+      "en": "Finish",
+      "translation": "ముగించండి"
+    },
+    "tryAgain": {
+      "en": "Try Again",
+      "translation": "మళ్ళీ ప్రయత్నించండి"
+    },
+    "readAloud": {
+      "en": "Read aloud",
+      "translation": "బిగ్గరగా చదవండి"
+    },
+    "add": {
+      "en": "Add",
+      "translation": "జోడించండి"
+    },
+    "edit": {
+      "en": "Edit",
+      "translation": "సవరించండి"
+    },
+    "delete": {
+      "en": "Delete",
+      "translation": "తొలగించండి"
+    },
+    "hear": {
+      "en": "Hear",
+      "translation": "వినండి"
+    },
+    "hearIt": {
+      "en": "Hear it",
+      "translation": "దీన్ని వినండి"
+    },
+    "open_settings": {
+      "en": "Open Settings",
+      "translation": "సెట్టింగ్స్ తెరవండి"
+    },
+    "open_in_app": {
+      "en": "Open in App",
+      "translation": "యాప్‌లో తెరవండి"
+    },
+    "open_in_safari": {
+      "en": "Open in Safari",
+      "translation": "Safariలో తెరవండి"
+    },
+    "open_in_youtube": {
+      "en": "Open in YouTube",
+      "translation": "YouTubeలో తెరవండి"
+    },
+    "seeAll": {
+      "en": "See All",
+      "translation": "అన్నీ చూడండి"
+    },
+    "noResults": {
+      "en": "No results",
+      "translation": "ఫలితాలు లేవు"
+    },
+    "score": {
+      "en": "Score",
+      "translation": "స్కోర్"
+    },
+    "question": {
+      "en": "Question",
+      "translation": "ప్రశ్న"
+    },
+    "today": {
+      "en": "Today",
+      "translation": "ఈరోజు"
+    },
+    "thisWeek": {
+      "en": "This Week",
+      "translation": "ఈ వారం"
+    },
+    "allTime": {
+      "en": "All Time",
+      "translation": "అన్ని కాలాలు"
+    },
+    "fun_fact": {
+      "en": "Fun fact!",
+      "translation": "ఆసక్తికరమైన విషయం!"
+    },
+    "why_it_helps": {
+      "en": "Why this helps",
+      "translation": "ఇది ఎందుకు సహాయపడుతుంది"
+    },
+    "steps": {
+      "en": "Steps",
+      "translation": "దశలు"
+    },
+    "tips": {
+      "en": "Tips",
+      "translation": "చిట్కాలు"
+    },
+    "what_you_need": {
+      "en": "What you need",
+      "translation": "మీకు ఏం కావాలి"
+    },
+    "key_facts": {
+      "en": "Key Facts",
+      "translation": "ముఖ్య విషయాలు"
+    },
+    "location": {
+      "en": "Location",
+      "translation": "స్థానం"
+    },
+    "quickAccess": {
+      "en": "Quick Access",
+      "translation": "త్వరిత యాక్సెస్"
+    },
+    "myMemories": {
+      "en": "My Memories",
+      "translation": "నా జ్ఞాపకాలు"
+    },
+    "addFirstMemory": {
+      "en": "Add your first memory 📸",
+      "translation": "మీ మొదటి జ్ఞాపకాన్ని జోడించండి 📸"
+    },
+    "starsToday": {
+      "en": "star(s) earned today!",
+      "translation": "ఈరోజు సంపాదించిన నక్షత్రాలు!"
+    },
+    "noStarsYet": {
+      "en": "No stars earned today yet",
+      "translation": "ఈరోజు ఇంకా నక్షత్రాలు సంపాదించలేదు"
+    },
+    "tapStarChart": {
+      "en": "Tap to see your star chart",
+      "translation": "మీ నక్షత్ర చార్ట్‌ను చూడటానికి నొక్కండి"
+    },
+    "emotionTrainer": {
+      "en": "Emotion Trainer",
+      "translation": "భావాల శిక్షణ"
+    },
+    "emoji_trainer": {
+      "en": "Emotion Trainer",
+      "translation": "భావాల శిక్షణ"
+    },
+    "howDoYouFeel": {
+      "en": "How do you feel?",
+      "translation": "మీరు ఎలా అనుభవిస్తున్నారు?"
+    },
+    "tapEmotion": {
+      "en": "Tap an emotion to learn about it",
+      "translation": "ఒక భావం గురించి తెలుసుకోవడానికి నొక్కండి"
+    },
+    "wellDone": {
+      "en": "Well done!",
+      "translation": "బాగా చేశారు!"
+    },
+    "keepGoing": {
+      "en": "Keep going!",
+      "translation": "కొనసాగించండి!"
+    },
+    "myProgress": {
+      "en": "My progress",
+      "translation": "నా పురోగతి"
+    },
+    "lets_learn_feelings": {
+      "en": "Let's learn about feelings",
+      "translation": "భావాల గురించి తెలుసుకుందాం"
+    },
+    "tap_face_to_learn": {
+      "en": "Tap a face to learn about that feeling",
+      "translation": "ఆ భావం గురించి తెలుసుకోవడానికి ముఖాన్ని నొక్కండి"
+    },
+    "tap_to_hear_desc": {
+      "en": "Tap to hear the description",
+      "translation": "వివరణ వినడానికి నొక్కండి"
+    },
+    "what_does_it_feel": {
+      "en": "What does it feel like?",
+      "translation": "ఇది ఎలా అనిపిస్తుంది?"
+    },
+    "try_making_face": {
+      "en": "Try making this face!",
+      "translation": "ఈ ముఖం చేయడానికి ప్రయత్నించండి!"
+    },
+    "hear_description": {
+      "en": "Hear a description",
+      "translation": "వివరణ వినండి"
+    },
+    "speak_and_get_response": {
+      "en": "Speak and get a friendly response",
+      "translation": "మాట్లాడండి మరియు స్నేహపూర్వక జవాబును పొందండి"
+    },
+    "voice_chat_talk_feelings": {
+      "en": "Voice Chat — Talk About Feelings",
+      "translation": "వాయిస్ చాట్ — భావాల గురించి మాట్లాడండి"
+    },
+    "stars_earned": {
+      "en": "⭐ stars earned",
+      "translation": "⭐ నక్షత్రాలు సంపాదించారు"
+    },
+    "can_you_look": {
+      "en": "Can you look...",
+      "translation": "మీరు చూడగలరా..."
+    },
+    "next_emotion": {
+      "en": "Next emotion",
+      "translation": "తదుపరి భావం"
+    },
+    "hear_tip": {
+      "en": "Hear tip",
+      "translation": "చిట్కా వినండి"
+    },
+    "hold_it": {
+      "en": "Hold it!",
+      "translation": "ఆగండి!"
+    },
+    "camera_needed": {
+      "en": "Camera access needed",
+      "translation": "కెమెరా యాక్సెస్ అవసరం"
+    },
+    "camera_permission": {
+      "en": "Please allow camera access in Settings.",
+      "translation": "దయచేసి సెట్టింగ్స్‌లో కెమెరా యాక్సెస్‌ని అనుమతించండి."
+    },
+    "identify_mode_title": {
+      "en": "Identify Mode",
+      "translation": "గుర్తింపు మోడ్"
+    },
+    "how_does_person_feel": {
+      "en": "How does this person feel?",
+      "translation": "ఈ వ్యక్తి ఎలా అనుభవిస్తున్నారు?"
+    },
+    "hear_story": {
+      "en": "Hear the story",
+      "translation": "కథ వినండి"
+    },
+    "by_emotion": {
+      "en": "By emotion",
+      "translation": "భావం ప్రకారం"
+    },
+    "recent_attempts": {
+      "en": "Recent attempts",
+      "translation": "ఇటీవలి ప్రయత్నాలు"
+    },
+    "by_operation": {
+      "en": "By operation",
+      "translation": "ఆపరేషన్ ప్రకారం"
+    },
+    "recent_problems": {
+      "en": "Recent problems",
+      "translation": "ఇటీవలి సమస్యలు"
+    },
+    "progress_title": {
+      "en": "Progress",
+      "translation": "పురోగతి"
+    },
+    "math_progress": {
+      "en": "Math Progress",
+      "translation": "గణిత పురోగతి"
+    },
+    "math_subtitle": {
+      "en": "Maths, Money & Measurements",
+      "translation": "గణితం, డబ్బు & కొలతలు"
+    },
+    "math_videos": {
+      "en": "Videos + practice for every topic",
+      "translation": "ప్రతి అంశానికి వీడియోలు + ప్రాక్టీస్"
+    },
+    "hear_problem": {
+      "en": "Hear the problem",
+      "translation": "సమస్యను వినండి"
+    },
+    "englishLessons": {
+      "en": "English Lessons",
+      "translation": "ఇంగ్లీష్ పాఠాలు"
+    },
+    "tapToHearWord": {
+      "en": "Tap any card to hear the word spoken",
+      "translation": "మాట్లాడిన పదాన్ని వినడానికి ఏదైనా కార్డుని నొక్కండి"
+    },
+    "pronunciation": {
+      "en": "Pronunciation",
+      "translation": "ఉచ్చారణ"
+    },
+    "what_word_matches": {
+      "en": "What word matches this?",
+      "translation": "దీనికి ఏ పదం సరిపోతుంది?"
+    },
+    "scienceLab": {
+      "en": "Science Lab",
+      "translation": "విజ్ఞాన ప్రయోగశాల"
+    },
+    "funExperiments": {
+      "en": "Fun experiments!",
+      "translation": "ఆనందకరమైన ప్రయోగాలు!"
+    },
+    "safe_at_home": {
+      "en": "Safe to try at home with a grown-up",
+      "translation": "పెద్దవారితో ఇంట్లో ప్రయత్నించడానికి సురక్షితం"
+    },
+    "why_it_works": {
+      "en": "Why it works",
+      "translation": "ఇది ఎలా పనిచేస్తుంది"
+    },
+    "you_need": {
+      "en": "You need",
+      "translation": "మీకు అవసరం"
+    },
+    "measurements_subtitle": {
+      "en": "Watch, learn & practise!",
+      "translation": "చూడండి, నేర్చుకోండి & ప్రాక్టీస్ చేయండి!"
+    },
+    "tap_scenario": {
+      "en": "Tap a scenario to learn about paying and getting change",
+      "translation": "చెల్లించడం మరియు చిల్లర పొందడం గురించి తెలుసుకోవడానికి దృశ్యాన్ని నొక్కండి"
+    },
+    "shopkeeper_gives_change": {
+      "en": "The shopkeeper gives you change.",
+      "translation": "షాపు యజమాని మీకు చిల్లర ఇస్తారు."
+    },
+    "hear_it_explained": {
+      "en": "Hear it explained",
+      "translation": "వివరణ వినండి"
+    },
+    "shopping_title": {
+      "en": "Shopping",
+      "translation": "షాపింగ్"
+    },
+    "enter_amounts": {
+      "en": "Enter amounts",
+      "translation": "మొత్తాలను నమోదు చేయండి"
+    },
+    "quick_examples": {
+      "en": "Quick examples",
+      "translation": "త్వరిత ఉదాహరణలు"
+    },
+    "converter": {
+      "en": "Converter",
+      "translation": "కన్వర్టర్"
+    },
+    "activities_subtitle": {
+      "en": "Skating, painting, drawing and swimming",
+      "translation": "స్కేటింగ్, పెయింటింగ్, డ్రాయింగ్ మరియు స్విమ్మింగ్"
+    },
+    "what_you_need_title": {
+      "en": "What you need",
+      "translation": "మీకు ఏం కావాలి"
+    },
+    "calm_my_body": {
+      "en": "Calm my Body",
+      "translation": "నా శరీరాన్ని శాంతపరచు"
+    },
+    "breathing_and_calming": {
+      "en": "Breathing and calming exercises",
+      "translation": "శ్వాస మరియు ప్రశాంతత వ్యాయామాలు"
+    },
+    "breathing_exercises": {
+      "en": "Breathing Exercises",
+      "translation": "శ్వాస వ్యాయామాలు"
+    },
+    "calming_activities": {
+      "en": "Calming Activities",
+      "translation": "ప్రశాంతత కార్యకలాపాలు"
+    },
+    "tap_or_swipe_to_spin": {
+      "en": "Tap or swipe to spin",
+      "translation": "తిప్పడానికి నొక్కండి లేదా స్వైప్ చేయండి"
+    },
+    "pop_bubbles": {
+      "en": "Pop Bubbles",
+      "translation": "బుడగలు పగలగొట్టండి"
+    },
+    "dailyRoutineTitle": {
+      "en": "Daily Routine",
+      "translation": "రోజువారీ దినచర్య"
+    },
+    "allDone": {
+      "en": "All done! Great job! 🎉",
+      "translation": "అన్నీ పూర్తయ్యాయి! బాగా చేశారు! 🎉"
+    },
+    "tasksCompleted": {
+      "en": "tasks completed",
+      "translation": "పనులు పూర్తయ్యాయి"
+    },
+    "no_tasks_yet": {
+      "en": "No tasks yet",
+      "translation": "ఇంకా పనులు లేవు"
+    },
+    "add_task_to_build": {
+      "en": "Tap \\\\\"Add Task\\\\\" to build your daily routine",
+      "translation": "మీ రోజువారీ దినచర్యను నిర్మించడానికి \\\"పని జోడించండి\\\" నొక్కండి"
+    },
+    "add_task_button": {
+      "en": "Add Task",
+      "translation": "పని జోడించండి"
+    },
+    "celebration_message": {
+      "en": "You finished all your tasks.\\\\nAmazing work today!",
+      "translation": "మీరు మీ పనులన్నీ పూర్తి చేశారు.\\nఈరోజు అద్భుతమైన పని!"
+    },
+    "todaySchedule": {
+      "en": "Today's Schedule",
+      "translation": "ఈరోజు షెడ్యూల్"
+    },
+    "addActivity": {
+      "en": "Add Activity",
+      "translation": "కార్యకలాపం జోడించండి"
+    },
+    "noActivities": {
+      "en": "No activities scheduled",
+      "translation": "షెడ్యూల్ చేసిన కార్యకలాపాలు లేవు"
+    },
+    "festivals": {
+      "en": "Festivals",
+      "translation": "పండుగలు"
+    },
+    "calendar": {
+      "en": "Calendar",
+      "translation": "క్యాలెండర్"
+    },
+    "no_activities_scheduled": {
+      "en": "No activities scheduled. Tap + to add.",
+      "translation": "షెడ్యూల్ చేసిన కార్యకలాపాలు లేవు. జోడించడానికి + నొక్కండి."
+    },
+    "this_months_festivals": {
+      "en": "This month's festivals",
+      "translation": "ఈ నెల పండుగలు"
+    },
+    "coming_up_soon": {
+      "en": "Coming up soon",
+      "translation": "త్వరలో రాబోతున్నవి"
+    },
+    "how_it_is_celebrated": {
+      "en": "How it is celebrated",
+      "translation": "దీన్ని ఎలా జరుపుకుంటారు"
+    },
+    "hear_about_it": {
+      "en": "Hear about it",
+      "translation": "దీని గురించి వినండి"
+    },
+    "add_time_slot": {
+      "en": "Add Time Slot",
+      "translation": "సమయ స్లాట్ జోడించండి"
+    },
+    "every_day": {
+      "en": "Every day",
+      "translation": "ప్రతి రోజు"
+    },
+    "myStarsTitle": {
+      "en": "My Stars ⭐️",
+      "translation": "నా నక్షత్రాలు ⭐️"
+    },
+    "earnedToday": {
+      "en": "Earned today",
+      "translation": "ఈరోజు సంపాదించినవి"
+    },
+    "totalStars": {
+      "en": "Total stars",
+      "translation": "మొత్తం నక్షత్రాలు"
+    },
+    "today_stars": {
+      "en": "Today's Stars",
+      "translation": "ఈరోజు నక్షత్రాలు"
+    },
+    "recent_stars": {
+      "en": "Recent Stars",
+      "translation": "ఇటీవలి నక్షత్రాలు"
+    },
+    "this_week_chart": {
+      "en": "This Week",
+      "translation": "ఈ వారం"
+    },
+    "memories_subtitle": {
+      "en": "Photos and videos of my favourite moments",
+      "translation": "నా ఇష్టమైన క్షణాల ఫోటోలు మరియు వీడియోలు"
+    },
+    "add_memory": {
+      "en": "Add a Memory",
+      "translation": "జ్ఞాపకం జోడించండి"
+    },
+    "no_memories_yet": {
+      "en": "No memories yet!",
+      "translation": "ఇంకా జ్ఞాపకాలు లేవు!"
+    },
+    "tap_to_add_memory": {
+      "en": "Tap \\\\\"+\\\\\" to add your first memory",
+      "translation": "మీ మొదటి జ్ఞాపకాన్ని జోడించడానికి \\\"+\\\" నొక్కండి"
+    },
+    "add_memory_title": {
+      "en": "Add Memory",
+      "translation": "జ్ఞాపకం జోడించండి"
+    },
+    "choose_from_library": {
+      "en": "Choose from Library",
+      "translation": "లైబ్రరీ నుండి ఎంచుకోండి"
+    },
+    "youtube_video_link": {
+      "en": "YouTube Video Link (optional)",
+      "translation": "YouTube వీడియో లింక్ (ఐచ్ఛికం)"
+    },
+    "about_me": {
+      "en": "About Me",
+      "translation": "నా గురించి"
+    },
+    "photo_tab": {
+      "en": "Photos",
+      "translation": "ఫోటోలు"
+    },
+    "recordings_tab": {
+      "en": "Recordings",
+      "translation": "రికార్డింగ్‌లు"
+    },
+    "interests": {
+      "en": "Interests",
+      "translation": "ఆసక్తులు"
+    },
+    "edit_profile": {
+      "en": "Edit Profile",
+      "translation": "ప్రొఫైల్‌ను సవరించండి"
+    },
+    "no_photos_yet": {
+      "en": "No photos yet",
+      "translation": "ఇంకా ఫోటోలు లేవు"
+    },
+    "no_recordings_yet": {
+      "en": "No recordings yet",
+      "translation": "ఇంకా రికార్డింగ్‌లు లేవు"
+    },
+    "add_media": {
+      "en": "Add",
+      "translation": "జోడించండి"
+    },
+    "video_stories_subtitle": {
+      "en": "Video stories that teach life skills",
+      "translation": "జీవిత నైపుణ్యాలను నేర్పే వీడియో కథలు"
+    },
+    "story_summary": {
+      "en": "Story Summary",
+      "translation": "కథ సారాంశం"
+    },
+    "video_modeling_subtitle": {
+      "en": "Watch a task to learn how to do it",
+      "translation": "ఒక పనిని ఎలా చేయాలో నేర్చుకోవడానికి చూడండి"
+    },
+    "task_video_examples": {
+      "en": "Task Video Examples",
+      "translation": "పని వీడియో ఉదాహరణలు"
+    },
+    "record_new": {
+      "en": "Record New",
+      "translation": "కొత్తగా రికార్డ్ చేయండి"
+    },
+    "hear_description_btn": {
+      "en": "Hear description",
+      "translation": "వివరణ వినండి"
+    },
+    "step_checklist": {
+      "en": "Step checklist (optional)",
+      "translation": "దశ చెక్‌లిస్ట్ (ఐచ్ఛికం)"
+    },
+    "refreshes_daily": {
+      "en": "Refreshes daily",
+      "translation": "రోజువారీగా రిఫ్రెష్ అవుతుంది"
+    },
+    "continue_watching": {
+      "en": "Continue Watching",
+      "translation": "చూడటం కొనసాగించండి"
+    },
+    "learning_videos": {
+      "en": "Learning Videos",
+      "translation": "నేర్చుకునే వీడియోలు"
+    },
+    "explore_and_learn": {
+      "en": "Explore & learn",
+      "translation": "అన్వేషించండి & నేర్చుకోండి"
+    },
+    "watch_history": {
+      "en": "Watch History",
+      "translation": "చూసిన చరిత్ర"
+    },
+    "video_unavailable": {
+      "en": "Video unavailable",
+      "translation": "వీడియో అందుబాటులో లేదు"
+    },
+    "virtual_tours_subtitle": {
+      "en": "Explore the world from your screen",
+      "translation": "మీ స్క్రీన్ నుండి ప్రపంచాన్ని అన్వేషించండి"
+    },
+    "interactive": {
+      "en": "Interactive",
+      "translation": "ఇంటరాక్టివ్"
+    },
+    "explore_from_screen": {
+      "en": "Explore the world from your screen",
+      "translation": "మీ స్క్రీన్ నుండి ప్రపంచాన్ని అన్వేషించండి"
+    },
+    "explore_world": {
+      "en": "Explore the World",
+      "translation": "ప్రపంచాన్ని అన్వేషించండి"
+    },
+    "famous_places": {
+      "en": "Famous places!",
+      "translation": "ప్రసిద్ధ స్థలాలు!"
+    },
+    "tap_to_learn": {
+      "en": "Tap any place to learn about it",
+      "translation": "ఏ స్థలం గురించి అయినా తెలుసుకోవడానికి దాన్ని నొక్కండి"
+    },
+    "hear_about_place": {
+      "en": "Hear about this place",
+      "translation": "ఈ స్థలం గురించి వినండి"
+    },
+    "six_second_title": {
+      "en": "6-Second Rule",
+      "translation": "6-సెకన్ల నియమం"
+    },
+    "six_second_subtitle": {
+      "en": "A communication strategy for autism",
+      "translation": "ఆటిజం కోసం కమ్యూనికేషన్ వ్యూహం"
+    },
+    "six_second_explain": {
+      "en": "After asking a question or giving an instruction, wait silently for 6 seconds before repeating.",
+      "translation": "ప్రశ్న అడిగిన తర్వాత లేదా సూచన ఇచ్చిన తర్వాత, మళ్ళీ చెప్పే ముందు 6 సెకన్లు నిశ్శబ్దంగా వేచి ఉండండి."
+    },
+    "hear_explanation": {
+      "en": "Hear explanation",
+      "translation": "వివరణ వినండి"
+    },
+    "seconds": {
+      "en": "seconds",
+      "translation": "సెకన్లు"
+    },
+    "question_or_instruction": {
+      "en": "Question or instruction",
+      "translation": "ప్రశ్న లేదా సూచన"
+    },
+    "holdToTalk": {
+      "en": "Hold to talk",
+      "translation": "మాట్లాడటానికి పట్టుకోండి"
+    },
+    "listening": {
+      "en": "Listening…",
+      "translation": "వింటోంది…"
+    },
+    "autiSpeaking": {
+      "en": "Auti is speaking…",
+      "translation": "ఔటి మాట్లాడుతోంది…"
+    },
+    "mic_permission": {
+      "en": "Please allow microphone and speech recognition access in Settings.",
+      "translation": "దయచేసి సెట్టింగ్స్‌లో మైక్రోఫోన్ మరియు స్పీచ్ గుర్తింపు యాక్సెస్‌ని అనుమతించండి."
+    },
+    "talk_about_feelings": {
+      "en": "Tap the mic and talk about how you feel!",
+      "translation": "మైక్‌ను నొక్కి మీరు ఎలా అనుభవిస్తున్నారో మాట్లాడండి!"
+    },
+    "lock_app_now": {
+      "en": "Lock App Now",
+      "translation": "ఇప్పుడే యాప్‌ను లాక్ చేయండి"
+    },
+    "requires_pin": {
+      "en": "Requires PIN to exit",
+      "translation": "నిష్క్రమించడానికి PIN అవసరం"
+    },
+    "change_unlock_pin": {
+      "en": "Change Unlock PIN",
+      "translation": "అన్‌లాక్ PINని మార్చండి"
+    },
+    "app_lock_kiosk": {
+      "en": "App Lock & Kiosk Mode",
+      "translation": "యాప్ లాక్ & కియోస్క్ మోడ్"
+    },
+    "app_lock_desc": {
+      "en": "When locked, the child cannot switch to other apps.",
+      "translation": "లాక్ చేసినప్పుడు, పిల్లవాడు ఇతర యాప్‌లకు మారలేరు."
+    },
+    "setup_guided_access": {
+      "en": "Set Up iOS Guided Access",
+      "translation": "iOS గైడెడ్ యాక్సెస్‌ని సెటప్ చేయండి"
+    },
+    "parent_mode_title": {
+      "en": "Parents Mode",
+      "translation": "తల్లిదండ్రుల మోడ్"
+    },
+    "parent_mode": {
+      "en": "Parents Mode",
+      "translation": "తల్లిదండ్రుల మోడ్"
+    },
+    "position_face": {
+      "en": "Position your face here",
+      "translation": "మీ ముఖాన్ని ఇక్కడ ఉంచండి"
+    },
+    "app_is_locked": {
+      "en": "SproutPath is locked",
+      "translation": "SproutPath లాక్ చేయబడింది"
+    },
+    "ask_parent_to_unlock": {
+      "en": "Ask a parent or carer to unlock",
+      "translation": "అన్‌లాక్ చేయడానికి తల్లిదండ్రులు లేదా సంరక్షకుడిని అడగండి"
+    },
+    "language": {
+      "en": "Language",
+      "translation": "భాష"
+    },
+    "selectLanguage": {
+      "en": "Select Language",
+      "translation": "భాషను ఎంచుకోండి"
+    },
+    "changeLanguage": {
+      "en": "Change Language",
+      "translation": "భాషను మార్చండి"
+    },
+    "currentLanguage": {
+      "en": "Current Language",
+      "translation": "ప్రస్తుత భాష"
+    },
+    "appLanguage": {
+      "en": "App Language",
+      "translation": "యాప్ భాష"
+    },
+    "better_voice_available": {
+      "en": "Better voice available",
+      "translation": "మెరుగైన వాయిస్ అందుబాటులో ఉంది"
+    },
+    "download_neural_voice": {
+      "en": "Download Apple's free neural voice for a much more natural sound.",
+      "translation": "మరింత సహజమైన ధ్వని కోసం Apple యొక్క ఉచిత న్యూరల్ వాయిస్‌ని డౌన్‌లోడ్ చేయండి."
+    },
+    "parent_hub": {
+      "en": "Parents Hub",
+      "translation": "తల్లిదండ్రుల హబ్"
+    },
+    "behavior_journal": {
+      "en": "Behavior Journal",
+      "translation": "ప్రవర్తన జర్నల్"
+    },
+    "emergency_card": {
+      "en": "Emergency Card",
+      "translation": "అత్యవసర కార్డ్"
+    },
+    "sensory_profile": {
+      "en": "Sensory Profile",
+      "translation": "ఇంద్రియ ప్రొఫైల్"
+    },
+    "handoff_notes": {
+      "en": "Handoff Notes",
+      "translation": "హ్యాండ్‌ఆఫ్ నోట్స్"
+    },
+    "progress_summary": {
+      "en": "Progress Summary",
+      "translation": "పురోగతి సారాంశం"
+    },
+    "therapist_report": {
+      "en": "Therapist Report",
+      "translation": "థెరపిస్ట్ నివేదిక"
+    },
+    "goals_tab": {
+      "en": "Goals",
+      "translation": "లక్ష్యాలు"
+    },
+    "export_report": {
+      "en": "Export Report",
+      "translation": "నివేదికను ఎగుమతి చేయండి"
+    },
+    "no_entries": {
+      "en": "No entries yet",
+      "translation": "ఇంకా ఎంట్రీలు లేవు"
+    },
+    "add_entry": {
+      "en": "Add Entry",
+      "translation": "ఎంట్రీ జోడించండి"
+    },
+    "patterns": {
+      "en": "Patterns",
+      "translation": "నమూనాలు"
+    },
+    "history": {
+      "en": "History",
+      "translation": "చరిత్ర"
+    },
+    "math_tables": {
+      "en": "Times Tables",
+      "translation": "ఎక్కాలు"
+    },
+    "multiplication_tables": {
+      "en": "Multiplication Tables",
+      "translation": "గుణకార పట్టికలు"
+    },
+    "tables_subtitle": {
+      "en": "Learn 1 to 20 times tables with fun!",
+      "translation": "1 నుండి 20 ఎక్కాలను ఆనందంగా నేర్చుకోండి!"
+    },
+    "select_table": {
+      "en": "Pick a table to learn",
+      "translation": "నేర్చుకోవడానికి ఒక ఎక్కం ఎంచుకోండి"
+    },
+    "table_of": {
+      "en": "Table of",
+      "translation": "ఎక్కం"
+    },
+    "practice_mode": {
+      "en": "Practice",
+      "translation": "ప్రాక్టీస్"
+    },
+    "reference_mode": {
+      "en": "Reference",
+      "translation": "రిఫరెన్స్"
+    },
+    "tables_quiz": {
+      "en": "Quiz Me!",
+      "translation": "నన్ను అడగండి!"
+    },
+    "kids_navigation": {
+      "en": "My Map",
+      "translation": "నా మ్యాప్"
+    },
+    "where_are_you_going": {
+      "en": "Where are you going?",
+      "translation": "మీరు ఎక్కడికి వెళ్తున్నారు?"
+    },
+    "choose_destination": {
+      "en": "Choose a place to go",
+      "translation": "వెళ్ళడానికి ఒక స్థలాన్ని ఎంచుకోండి"
+    },
+    "start_navigation": {
+      "en": "Let's Go! 🚀",
+      "translation": "వెళ్దాం! 🚀"
+    },
+    "you_are_here": {
+      "en": "You are here! 📍",
+      "translation": "మీరు ఇక్కడ ఉన్నారు! 📍"
+    },
+    "destination": {
+      "en": "Destination",
+      "translation": "గమ్యస్థానం"
+    },
+    "tap_to_navigate": {
+      "en": "Tap a place to get directions",
+      "translation": "దిశలు పొందడానికి ఒక స్థలాన్ని నొక్కండి"
+    },
+    "nearby_places": {
+      "en": "Nearby Places",
+      "translation": "సమీప స్థలాలు"
+    },
+    "kids_map": {
+      "en": "My Map",
+      "translation": "నా మ్యాప్"
+    },
+    "favorite_places": {
+      "en": "Favourite Places",
+      "translation": "ఇష్టమైన స్థలాలు"
+    },
+    "where_are_we_going": {
+      "en": "Where are we going?",
+      "translation": "మనం ఎక్కడికి వెళ్తున్నాం?"
+    },
+    "where_are_we_now": {
+      "en": "Where are we now?",
+      "translation": "మనం ఇప్పుడు ఎక్కడ ఉన్నాం?"
+    },
+    "get_directions": {
+      "en": "Get Directions",
+      "translation": "దిశలను పొందండి"
+    },
+    "parent_hub_title": {
+      "en": "Parents Hub",
+      "translation": "తల్లిదండ్రుల హబ్"
+    },
+    "handoff_tab": {
+      "en": "Handoff",
+      "translation": "హ్యాండ్‌ఆఫ్"
+    },
+    "progress_tab": {
+      "en": "Progress",
+      "translation": "పురోగతి"
+    },
+    "goals_tab_label": {
+      "en": "Goals",
+      "translation": "లక్ష్యాలు"
+    },
+    "report_tab": {
+      "en": "Report",
+      "translation": "నివేదిక"
+    },
+    "todays_handoff_note": {
+      "en": "Today's Handoff Note",
+      "translation": "ఈరోజు హ్యాండ్‌ఆఫ్ నోట్"
+    },
+    "write_todays_note": {
+      "en": "Write today's handoff note",
+      "translation": "ఈరోజు హ్యాండ్‌ఆఫ్ నోట్ రాయండి"
+    },
+    "previous_notes": {
+      "en": "Previous notes",
+      "translation": "మునుపటి నోట్స్"
+    },
+    "mood_today": {
+      "en": "Mood today",
+      "translation": "ఈరోజు మూడ్"
+    },
+    "tonight_works": {
+      "en": "Tonight",
+      "translation": "ఈ రాత్రి"
+    },
+    "how_was_their_day": {
+      "en": "How was their day?",
+      "translation": "వారి రోజు ఎలా ఉంది?"
+    },
+    "note_for_caregiver": {
+      "en": "Note for caregiver",
+      "translation": "సంరక్షకుని కోసం నోట్"
+    },
+    "what_works_tonight": {
+      "en": "What works tonight",
+      "translation": "ఈ రాత్రి ఏది పని చేస్తుంది"
+    },
+    "handoff_note_title": {
+      "en": "Handoff Note",
+      "translation": "హ్యాండ్‌ఆఫ్ నోట్"
+    },
+    "todays_summary": {
+      "en": "Today's summary",
+      "translation": "ఈరోజు సారాంశం"
+    },
+    "videos_watched_today": {
+      "en": "Videos watched today",
+      "translation": "ఈరోజు చూసిన వీడియోలు"
+    },
+    "suggested_goals": {
+      "en": "Suggested goals for this week",
+      "translation": "ఈ వారం కోసం సూచించిన లక్ష్యాలు"
+    },
+    "goal_achieved": {
+      "en": "Goal achieved this week! 🎉",
+      "translation": "ఈ వారం లక్ష్యం సాధించారు! 🎉"
+    },
+    "per_week": {
+      "en": "× per week",
+      "translation": "× వారానికి"
+    },
+    "new_goal": {
+      "en": "New Goal",
+      "translation": "కొత్త లక్ష్యం"
+    },
+    "goal_label": {
+      "en": "Goal",
+      "translation": "లక్ష్యం"
+    },
+    "target_label": {
+      "en": "Target",
+      "translation": "లక్ష్యం"
+    },
+    "section_label": {
+      "en": "Section",
+      "translation": "విభాగం"
+    },
+    "report_period": {
+      "en": "Report period",
+      "translation": "నివేదిక కాలం"
+    },
+    "last_week": {
+      "en": "Last week",
+      "translation": "గత వారం"
+    },
+    "last_2_weeks": {
+      "en": "Last 2 weeks",
+      "translation": "గత 2 వారాలు"
+    },
+    "last_month": {
+      "en": "Last month",
+      "translation": "గత నెల"
+    },
+    "last_3_months": {
+      "en": "Last 3 months",
+      "translation": "గత 3 నెలలు"
+    },
+    "emotion_attempts": {
+      "en": "Emotion attempts",
+      "translation": "భావ ప్రయత్నాలు"
+    },
+    "math_attempts": {
+      "en": "Math attempts",
+      "translation": "గణిత ప్రయత్నాలు"
+    },
+    "stars_earned_label": {
+      "en": "Stars earned",
+      "translation": "సంపాదించిన నక్షత్రాలు"
+    },
+    "difficult_moments": {
+      "en": "Difficult moments",
+      "translation": "కష్టమైన క్షణాలు"
+    },
+    "emotion_by_type": {
+      "en": "Emotion recognition by type",
+      "translation": "రకం వారీగా భావ గుర్తింపు"
+    },
+    "behavior_summary": {
+      "en": "Behavior summary",
+      "translation": "ప్రవర్తన సారాంశం"
+    },
+    "avg_severity": {
+      "en": "Average severity",
+      "translation": "సగటు తీవ్రత"
+    },
+    "export_report_btn": {
+      "en": "Export Report",
+      "translation": "నివేదికను ఎగుమతి చేయండి"
+    },
+    "log_tab": {
+      "en": "Log",
+      "translation": "లాగ్"
+    },
+    "patterns_tab": {
+      "en": "Patterns",
+      "translation": "నమూనాలు"
+    },
+    "history_tab": {
+      "en": "History",
+      "translation": "చరిత్ర"
+    },
+    "behavior_journal_title": {
+      "en": "Behavior Journal",
+      "translation": "ప్రవర్తన జర్నల్"
+    },
+    "today_entries": {
+      "en": "Today",
+      "translation": "ఈరోజు"
+    },
+    "quick_log": {
+      "en": "Quick log",
+      "translation": "త్వరిత లాగ్"
+    },
+    "no_patterns_yet": {
+      "en": "No patterns yet",
+      "translation": "ఇంకా నమూనాలు లేవు"
+    },
+    "add_behavior_entries": {
+      "en": "Add behavior entries to see patterns here.",
+      "translation": "ఇక్కడ నమూనాలను చూడటానికి ప్రవర్తన ఎంట్రీలను జోడించండి."
+    },
+    "add_first_entry": {
+      "en": "Add First Entry",
+      "translation": "మొదటి ఎంట్రీ జోడించండి"
+    },
+    "time_of_day": {
+      "en": "Time of day",
+      "translation": "రోజు సమయం"
+    },
+    "day_of_week": {
+      "en": "Day of week",
+      "translation": "వారం రోజు"
+    },
+    "most_common_triggers": {
+      "en": "Most common triggers",
+      "translation": "అత్యంత సాధారణ ట్రిగ్గర్లు"
+    },
+    "what_helped_most": {
+      "en": "What helped most",
+      "translation": "ఏది ఎక్కువగా సహాయపడింది"
+    },
+    "no_resolutions_yet": {
+      "en": "No resolutions logged yet — add some in your entries!",
+      "translation": "ఇంకా పరిష్కారాలు లాగ్ చేయలేదు — మీ ఎంట్రీలలో కొన్నింటిని జోడించండి!"
+    },
+    "no_history_yet": {
+      "en": "No history yet",
+      "translation": "ఇంకా చరిత్ర లేదు"
+    },
+    "history_over_time": {
+      "en": "Your logged entries will appear here over time.",
+      "translation": "మీరు లాగ్ చేసిన ఎంట్రీలు కాలక్రమేణా ఇక్కడ కనిపిస్తాయి."
+    },
+    "no_entries_today": {
+      "en": "No entries today",
+      "translation": "ఈరోజు ఎంట్రీలు లేవు"
+    },
+    "tap_to_log_moment": {
+      "en": "Tap + to log a difficult moment, or use Quick Log above",
+      "translation": "కష్టమైన క్షణాన్ని లాగ్ చేయడానికి + నొక్కండి, లేదా పైన త్వరిత లాగ్‌ని ఉపయోగించండి"
+    },
+    "what_happened": {
+      "en": "What happened?",
+      "translation": "ఏం జరిగింది?"
+    },
+    "trigger_placeholder": {
+      "en": "Trigger (e.g. loud noise, routine change)",
+      "translation": "ట్రిగ్గర్ (ఉదా. పెద్ద శబ్దం, దినచర్య మార్పు)"
+    },
+    "how_bad_was_it": {
+      "en": "How bad was it?",
+      "translation": "ఇది ఎంత చెడ్డగా ఉంది?"
+    },
+    "details_section": {
+      "en": "Details",
+      "translation": "వివరాలు"
+    },
+    "location_label": {
+      "en": "Location",
+      "translation": "స్థానం"
+    },
+    "duration_label": {
+      "en": "Duration",
+      "translation": "వ్యవధి"
+    },
+    "what_helped": {
+      "en": "What helped resolve it?",
+      "translation": "దీన్ని పరిష్కరించడానికి ఏది సహాయపడింది?"
+    },
+    "resolution_placeholder": {
+      "en": "e.g. quiet room, deep pressure",
+      "translation": "ఉదా. నిశ్శబ్ద గది, లోతైన ఒత్తిడి"
+    },
+    "additional_notes": {
+      "en": "Additional notes (optional)",
+      "translation": "అదనపు నోట్స్ (ఐచ్ఛికం)"
+    },
+    "log_entry_title": {
+      "en": "Log Entry",
+      "translation": "ఎంట్రీని లాగ్ చేయండి"
+    },
+    "darker_more": {
+      "en": "Darker = more entries in that time window",
+      "translation": "ముదురు = ఆ సమయ విండోలో ఎక్కువ ఎంట్రీలు"
+    },
+    "trigger_label": {
+      "en": "Trigger",
+      "translation": "ట్రిగ్గర్"
+    },
+    "severity_label": {
+      "en": "Severity",
+      "translation": "తీవ్రత"
+    },
+    "emergency_card_title": {
+      "en": "Emergency Card",
+      "translation": "అత్యవసర కార్డ్"
+    },
+    "emergency_card_info": {
+      "en": "Fill in your child's details below. In an emergency, tap Share to show this card to anyone who needs to help.",
+      "translation": "మీ పిల్లల వివరాలను క్రింద పూరించండి. అత్యవసర సమయంలో, సహాయం చేయవలసిన ఎవరికైనా ఈ కార్డుని చూపించడానికి షేర్ నొక్కండి."
+    },
+    "edit_card": {
+      "en": "Edit Card",
+      "translation": "కార్డ్‌ను సవరించండి"
+    },
+    "share_card": {
+      "en": "Share",
+      "translation": "షేర్ చేయండి"
+    },
+    "your_childs_name": {
+      "en": "Your child's name",
+      "translation": "మీ పిల్లల పేరు"
+    },
+    "how_they_comm": {
+      "en": "How I communicate",
+      "translation": "నేను ఎలా మాట్లాడతాను"
+    },
+    "add_emergency_contacts": {
+      "en": "Add emergency contacts by editing the card",
+      "translation": "కార్డ్‌ను సవరించడం ద్వారా అత్యవసర సంప్రదింపులను జోడించండి"
+    },
+    "edit_emergency_card": {
+      "en": "Edit Emergency Card",
+      "translation": "అత్యవసర కార్డ్‌ను సవరించండి"
+    },
+    "child_section": {
+      "en": "Child",
+      "translation": "పిల్లలు"
+    },
+    "full_name": {
+      "en": "Full name",
+      "translation": "పూర్తి పేరు"
+    },
+    "age_label": {
+      "en": "Age",
+      "translation": "వయసు"
+    },
+    "diagnosis_label": {
+      "en": "Diagnosis",
+      "translation": "నిర్ధారణ"
+    },
+    "communication_section": {
+      "en": "Communication",
+      "translation": "కమ్యూనికేషన్"
+    },
+    "how_they_communicate": {
+      "en": "How they communicate",
+      "translation": "వారు ఎలా మాట్లాడతారు"
+    },
+    "calming_section": {
+      "en": "What helps calm them down — comma separated",
+      "translation": "వారిని ప్రశాంతపరచడానికి ఏది సహాయపడుతుంది — కామాతో వేరు చేయండి"
+    },
+    "calming_placeholder": {
+      "en": "e.g. quiet space, music, blanket",
+      "translation": "ఉదా. నిశ్శబ్ద స్థలం, సంగీతం, దుప్పటి"
+    },
+    "do_not_section": {
+      "en": "Please do NOT — comma separated",
+      "translation": "దయచేసి చేయవద్దు — కామాతో వేరు చేయండి"
+    },
+    "do_not_placeholder": {
+      "en": "e.g. raise voice, touch without warning",
+      "translation": "ఉదా. గొంతు పెంచవద్దు, హెచ్చరిక లేకుండా తాకవద్దు"
+    },
+    "emergency_contact_1": {
+      "en": "Emergency contact 1",
+      "translation": "అత్యవసర సంప్రదింపు 1"
+    },
+    "emergency_contact_2": {
+      "en": "Emergency contact 2 (optional)",
+      "translation": "అత్యవసర సంప్రదింపు 2 (ఐచ్ఛికం)"
+    },
+    "doctor_section": {
+      "en": "Doctor / therapist",
+      "translation": "డాక్టర్ / థెరపిస్ట్"
+    },
+    "medical_section": {
+      "en": "Medical notes (optional)",
+      "translation": "వైద్య నోట్స్ (ఐచ్ఛికం)"
+    },
+    "medical_placeholder": {
+      "en": "Allergies, medication, conditions...",
+      "translation": "అలెర్జీలు, మందులు, పరిస్థితులు..."
+    },
+    "name_placeholder": {
+      "en": "Name",
+      "translation": "పేరు"
+    },
+    "phone_label": {
+      "en": "Phone number",
+      "translation": "ఫోన్ నంబర్"
+    },
+    "sensory_profile_title": {
+      "en": "Sensory Profile",
+      "translation": "ఇంద్రియ ప్రొఫైల్"
+    },
+    "sensory_profile_info": {
+      "en": "This profile helps anyone caring for your child understand their sensory needs at a glance.",
+      "translation": "ఈ ప్రొఫైల్ మీ పిల్లల ఇంద్రియ అవసరాలను ఒక్క చూపులో అర్థం చేసుకోవడానికి సంరక్షకులకు సహాయపడుతుంది."
+    },
+    "sensory_share_btn": {
+      "en": "Share",
+      "translation": "షేర్ చేయండి"
+    },
+    "sensitive_label": {
+      "en": "Sensitive",
+      "translation": "సున్నితం"
+    },
+    "neutral_label": {
+      "en": "Neutral",
+      "translation": "తటస్థం"
+    },
+    "seeking_label": {
+      "en": "Seeking",
+      "translation": "కోరుకోవడం"
+    },
+    "sensitive_meaning": {
+      "en": "Avoids / bothered by",
+      "translation": "దూరంగా ఉంటారు / ఇబ్బందిపడతారు"
+    },
+    "neutral_meaning": {
+      "en": "Comfortable with",
+      "translation": "ఇబ్బంది లేకుండా ఉంటారు"
+    },
+    "seeking_meaning": {
+      "en": "Seeks out / craves",
+      "translation": "కోరుకుంటారు / ఇష్టపడతారు"
+    },
+    "examples_label": {
+      "en": "Examples:",
+      "translation": "ఉదాహరణలు:"
+    },
+    "additional_notes_placeholder": {
+      "en": "Additional notes...",
+      "translation": "అదనపు నోట్స్..."
+    },
+    "edit_sensory_profile": {
+      "en": "Edit Sensory Profile",
+      "translation": "ఇంద్రియ ప్రొఫైల్‌ను సవరించండి"
+    },
+    "visual_timer": {
+      "en": "Visual Timer",
+      "translation": "దృశ్య టైమర్"
+    },
+    "visual_timer_hint": {
+      "en": "Time until we leave",
+      "translation": "మనం బయలుదేరే వరకు సమయం"
+    },
+    "timer_done": {
+      "en": "Time's up!",
+      "translation": "సమయం అయిపోయింది!"
+    },
+    "custom_time": {
+      "en": "Custom",
+      "translation": "కస్టమ్"
+    },
+    "enter_label": {
+      "en": "Label this timer",
+      "translation": "ఈ టైమర్‌ను లేబుల్ చేయండి"
+    },
+    "my_stories": {
+      "en": "My Stories",
+      "translation": "నా కథలు"
+    },
+    "my_stories_hint": {
+      "en": "Create personal social stories with your child's name and places",
+      "translation": "మీ పిల్లల పేరు మరియు స్థలాలతో వ్యక్తిగత సామాజిక కథలను సృష్టించండి"
+    },
+    "no_stories_yet": {
+      "en": "No stories yet",
+      "translation": "ఇంకా కథలు లేవు"
+    },
+    "create_first_story": {
+      "en": "Tap + to create your first personalised story",
+      "translation": "మీ మొదటి వ్యక్తిగతీకరించిన కథను సృష్టించడానికి + నొక్కండి"
+    },
+    "create_story": {
+      "en": "Create Story",
+      "translation": "కథను సృష్టించండి"
+    },
+    "pages": {
+      "en": "pages",
+      "translation": "పేజీలు"
+    },
+    "no_pages_yet": {
+      "en": "No pages yet. Tap + to add pages.",
+      "translation": "ఇంకా పేజీలు లేవు. పేజీలను జోడించడానికి + నొక్కండి."
+    },
+    "the_end": {
+      "en": "The End! 🌟",
+      "translation": "ముగింపు! 🌟"
+    },
+    "story_details": {
+      "en": "Story Details",
+      "translation": "కథ వివరాలు"
+    },
+    "story_title": {
+      "en": "Story title",
+      "translation": "కథ శీర్షిక"
+    },
+    "add_page": {
+      "en": "Add Page",
+      "translation": "పేజీ జోడించండి"
+    },
+    "page_text": {
+      "en": "Page Text",
+      "translation": "పేజీ టెక్స్ట్"
+    },
+    "what_happened_here": {
+      "en": "What happens on this page?",
+      "translation": "ఈ పేజీలో ఏం జరుగుతుంది?"
+    },
+    "page_icon": {
+      "en": "Icon",
+      "translation": "ఐకాన్"
+    },
+    "page_background": {
+      "en": "Background",
+      "translation": "నేపథ్యం"
+    },
+    "mother_tongue": {
+      "en": "Mother Tongue",
+      "translation": "మాతృభాష"
+    },
+    "mother_tongue_hint": {
+      "en": "Learn words in your language",
+      "translation": "మీ భాషలో పదాలను నేర్చుకోండి"
+    },
+    "learn_language_format": {
+      "en": "Learn %@",
+      "translation": "%@ నేర్చుకోండి"
+    },
+    "switch_profile": {
+      "en": "Switch Profile",
+      "translation": "ప్రొఫైల్‌ను మార్చండి"
+    },
+    "guided_access_active": {
+      "en": "iOS Guided Access: Active",
+      "translation": "iOS గైడెడ్ యాక్సెస్: యాక్టివ్"
+    },
+    "guided_access_off": {
+      "en": "iOS Guided Access: Off",
+      "translation": "iOS గైడెడ్ యాక్సెస్: ఆఫ్"
+    },
+    "set_unlock_pin": {
+      "en": "Set Unlock PIN",
+      "translation": "అన్‌లాక్ PINని సెట్ చేయండి"
+    },
+    "locked_explain": {
+      "en": "When locked, the child cannot switch to other apps or access the home screen without entering your PIN.",
+      "translation": "లాక్ చేసినప్పుడు, పిల్లవాడు మీ PIN నమోదు చేయకుండా ఇతర యాప్‌లకు మారలేరు లేదా హోమ్ స్క్రీన్‌ని యాక్సెస్ చేయలేరు."
+    },
+    "need_pin_first": {
+      "en": "You must set a 4-digit unlock PIN before App Lock can be enabled. Choose a PIN your child does not know.",
+      "translation": "యాప్ లాక్‌ను ప్రారంభించే ముందు మీరు 4-అంకెల అన్‌లాక్ PINని సెట్ చేయాలి. మీ పిల్లలకు తెలియని PINని ఎంచుకోండి."
+    },
+    "display": {
+      "en": "Display",
+      "translation": "డిస్‌ప్లే"
+    },
+    "voice_and_audio": {
+      "en": "Voice & Audio",
+      "translation": "వాయిస్ & ఆడియో"
+    },
+    "parent_tools": {
+      "en": "Parent Tools",
+      "translation": "తల్లిదండ్రుల టూల్స్"
+    },
+    "emergency_info_card": {
+      "en": "Emergency Info Card",
+      "translation": "అత్యవసర సమాచార కార్డ్"
+    },
+    "delete_symbol_title": {
+      "en": "Delete Symbol?",
+      "translation": "చిహ్నాన్ని తొలగించాలా?"
+    },
+    "remove_from_board": {
+      "en": "Remove \"%@\" from the board?",
+      "translation": "బోర్డు నుండి \"%@\" తీసివేయాలా?"
+    },
+    "change_pin_title": {
+      "en": "Change PIN",
+      "translation": "PINని మార్చండి"
+    },
+    "new_pin_section": {
+      "en": "New 4-Digit PIN",
+      "translation": "కొత్త 4-అంకెల PIN"
+    },
+    "new_pin_field": {
+      "en": "New PIN",
+      "translation": "కొత్త PIN"
+    },
+    "confirm_pin_field": {
+      "en": "Confirm PIN",
+      "translation": "PINని నిర్ధారించండి"
+    },
+    "pin_advice": {
+      "en": "Choose a PIN your child can't guess. Avoid 1234, 0000, or any 4 of the same digit.",
+      "translation": "మీ పిల్లలు ఊహించలేని PINని ఎంచుకోండి. 1234, 0000, లేదా ఒకే అంకె 4 సార్లు ఉన్న వాటిని నివారించండి."
+    },
+    "pin_mismatch": {
+      "en": "PINs don't match or aren't 4 digits",
+      "translation": "PINలు సరిపోలడం లేదు లేదా 4 అంకెలు లేవు"
+    },
+    "pin_too_easy": {
+      "en": "PIN too easy to guess — choose another",
+      "translation": "PIN ఊహించడం చాలా సులభం — మరొకటి ఎంచుకోండి"
+    },
+    "used_n_times": {
+      "en": "Used %d times",
+      "translation": "%d సార్లు ఉపయోగించారు"
+    },
+    "quick_places": {
+      "en": "Quick places 📍",
+      "translation": "త్వరిత స్థలాలు 📍"
+    },
+    "pick_start_and_end": {
+      "en": "Pick a start and end place!",
+      "translation": "ప్రారంభ మరియు ముగింపు స్థలాన్ని ఎంచుకోండి!"
+    },
+    "quick_destinations": {
+      "en": "Quick destinations",
+      "translation": "త్వరిత గమ్యస్థానాలు"
+    },
+    "save_places_hint": {
+      "en": "Save places you visit often",
+      "translation": "మీరు తరచుగా సందర్శించే స్థలాలను సేవ్ చేయండి"
+    },
+    "no_favourite_places": {
+      "en": "No favourite places yet!",
+      "translation": "ఇంకా ఇష్టమైన స్థలాలు లేవు!"
+    },
+    "tap_plus_to_add": {
+      "en": "Tap + to add home, school, or your favourite park.",
+      "translation": "ఇల్లు, స్కూల్, లేదా మీ ఇష్టమైన పార్కును జోడించడానికి + నొక్కండి."
+    },
+    "journey_info": {
+      "en": "🗺️ Journey Info",
+      "translation": "🗺️ ప్రయాణ సమాచారం"
+    },
+    "distance_label": {
+      "en": "Distance",
+      "translation": "దూరం"
+    },
+    "travel_time": {
+      "en": "Travel time",
+      "translation": "ప్రయాణ సమయం"
+    },
+    "add_favourite_place": {
+      "en": "Add a Favourite Place",
+      "translation": "ఇష్టమైన స్థలాన్ని జోడించండి"
+    },
+    "choose_emoji": {
+      "en": "Choose an emoji",
+      "translation": "ఎమోజీని ఎంచుకోండి"
+    },
+    "current_location_warning": {
+      "en": "⚠️ Your current location will be saved for this place.",
+      "translation": "⚠️ ఈ స్థలం కోసం మీ ప్రస్తుత స్థానం సేవ్ చేయబడుతుంది."
+    },
+    "save_place": {
+      "en": "Save Place ⭐",
+      "translation": "స్థలాన్ని సేవ్ చేయండి ⭐"
+    },
+    "explore_tab": {
+      "en": "Explore",
+      "translation": "అన్వేషించండి"
+    },
+    "navigate_tab": {
+      "en": "Navigate",
+      "translation": "నావిగేట్ చేయండి"
+    },
+    "favourites_tab": {
+      "en": "Favourites",
+      "translation": "ఇష్టమైనవి"
+    },
+    "first_then_title": {
+      "en": "First ... Then ...",
+      "translation": "మొదట ... తరువాత ..."
+    },
+    "first_then_subtitle": {
+      "en": "Do this first, then you get that!",
+      "translation": "ముందుగా ఇది చేయండి, తరువాత మీకు అది లభిస్తుంది!"
+    },
+    "feelings_check_in": {
+      "en": "Feelings Check-In",
+      "translation": "భావాల చెక్-ఇన్"
+    },
+    "feelings_check_in_sub": {
+      "en": "How am I feeling right now?",
+      "translation": "నేను ఇప్పుడు ఎలా అనుభవిస్తున్నాను?"
+    },
+    "my_worries_box": {
+      "en": "My Worries Box",
+      "translation": "నా చింతల పెట్టె"
+    },
+    "my_worries_box_sub": {
+      "en": "Write a worry and let it go",
+      "translation": "ఒక చింతను రాసి దానిని వదలండి"
+    },
+    "choice_board": {
+      "en": "What Do I Choose?",
+      "translation": "నేను ఏమి ఎంచుకుంటాను?"
+    },
+    "choice_board_sub": {
+      "en": "Tap what you want to do",
+      "translation": "మీరు ఏమి చేయాలనుకుంటున్నారో నొక్కండి"
+    },
+    "daily_tools": {
+      "en": "Daily Tools 🌻",
+      "translation": "రోజువారీ టూల్స్ 🌻"
+    },
+    "check_in_again": {
+      "en": "Check in again",
+      "translation": "మళ్ళీ చెక్-ఇన్ చేయండి"
+    },
+    "tap_how_you_feel": {
+      "en": "Tap how you feel right now:",
+      "translation": "మీరు ఇప్పుడు ఎలా అనుభవిస్తున్నారో నొక్కండి:"
+    },
+    "how_strong_feeling": {
+      "en": "How strong is this feeling?",
+      "translation": "ఈ భావం ఎంత బలంగా ఉంది?"
+    },
+    "a_little": {
+      "en": "A little",
+      "translation": "కొంచెం"
+    },
+    "a_lot": {
+      "en": "A lot",
+      "translation": "చాలా"
+    },
+    "save_my_feeling": {
+      "en": "Save my feeling ✅",
+      "translation": "నా భావాన్ని సేవ్ చేయండి ✅"
+    },
+    "what_are_you_worried": {
+      "en": "What are you worried about?",
+      "translation": "మీరు దేని గురించి చింతిస్తున్నారు?"
+    },
+    "put_in_box": {
+      "en": "Put it in the box",
+      "translation": "దానిని పెట్టెలో పెట్టండి"
+    },
+    "worry_stored": {
+      "en": "📦 Worry stored! You did great. 🌟",
+      "translation": "📦 చింత నిల్వ చేయబడింది! మీరు బాగా చేశారు. 🌟"
+    },
+    "my_worries_count": {
+      "en": "My worries box (%@)",
+      "translation": "నా చింతల పెట్టె (%@)"
+    },
+    "choose_again": {
+      "en": "Choose again",
+      "translation": "మళ్ళీ ఎంచుకోండి"
+    },
+    "i_feel_label": {
+      "en": "I feel %@!",
+      "translation": "నేను %@ అనుభవిస్తున్నాను!"
+    },
+    "intensity_label": {
+      "en": "Intensity: %@/5",
+      "translation": "తీవ్రత: %@/5"
+    },
+    "i_choose_label": {
+      "en": "I choose: %@!",
+      "translation": "నేను ఎంచుకుంటాను: %@!"
+    },
+    "tap_add_task_hint": {
+      "en": "Tap \"Add Task\" to build your daily routine",
+      "translation": "మీ రోజువారీ దినచర్యను నిర్మించడానికి \"పని జోడించండి\" నొక్కండి"
+    },
+    "done_check": {
+      "en": "Done ✓",
+      "translation": "పూర్తయింది ✓"
+    },
+    "colour_label": {
+      "en": "Colour",
+      "translation": "రంగు"
+    },
+    "all_tasks_done": {
+      "en": "You finished all your tasks.\\nAmazing work today!",
+      "translation": "మీరు మీ పనులన్నీ పూర్తి చేశారు.\\nఈరోజు అద్భుతమైన పని!"
+    },
+    "no_stars_yet_earn": {
+      "en": "No stars yet today — earn your first one!",
+      "translation": "ఈరోజు ఇంకా నక్షత్రాలు లేవు — మీ మొదటిది సంపాదించండి!"
+    },
+    "star_label": {
+      "en": "Star",
+      "translation": "నక్షత్రం"
+    },
+    "add_star": {
+      "en": "Add Star",
+      "translation": "నక్షత్రాన్ని జోడించండి"
+    },
+    "tap_add_memory_hint": {
+      "en": "Tap \"Add a Memory\" to save a photo or video of something special.",
+      "translation": "ప్రత్యేకమైన దాని ఫోటో లేదా వీడియోను సేవ్ చేయడానికి \"జ్ఞాపకం జోడించండి\" నొక్కండి."
+    },
+    "delete_memory": {
+      "en": "Delete Memory",
+      "translation": "జ్ఞాపకాన్ని తొలగించండి"
+    },
+    "check_answer": {
+      "en": "Check ✓",
+      "translation": "తనిఖీ ✓"
+    },
+    "the_answer_is": {
+      "en": "The answer is %@.",
+      "translation": "జవాబు %@."
+    },
+    "times_table_title": {
+      "en": "Times Tables 1–20",
+      "translation": "ఎక్కాలు 1–20"
+    },
+    "times_table_subtitle": {
+      "en": "Learn & quiz yourself on all 20 tables!",
+      "translation": "మొత్తం 20 ఎక్కాలను నేర్చుకోండి & మిమ్మల్ని మీరు పరీక్షించుకోండి!"
+    },
+    "fetching_content": {
+      "en": "Fetching the latest content from the server.",
+      "translation": "సర్వర్ నుండి తాజా కంటెంట్‌ను తీసుకుంటోంది."
+    },
+    "couldnt_load_videos": {
+      "en": "Couldn't load videos",
+      "translation": "వీడియోలను లోడ్ చేయలేకపోయింది"
+    },
+    "no_videos_yet": {
+      "en": "No videos yet",
+      "translation": "ఇంకా వీడియోలు లేవు"
+    },
+    "pull_to_refresh": {
+      "en": "Pull down to refresh, or check your internet connection.",
+      "translation": "రిఫ్రెష్ చేయడానికి క్రిందికి లాగండి లేదా మీ ఇంటర్నెట్ కనెక్షన్‌ని తనిఖీ చేయండి."
+    },
+    "updating_videos": {
+      "en": "Updating videos…",
+      "translation": "వీడియోలను నవీకరిస్తోంది…"
+    },
+    "connecting_to_server": {
+      "en": "Connecting to server…",
+      "translation": "సర్వర్‌కి కనెక్ట్ అవుతోంది…"
+    },
+    "video_unavailable_in_app": {
+      "en": "Video unavailable in-app",
+      "translation": "యాప్‌లో వీడియో అందుబాటులో లేదు"
+    },
+    "video_unavailable_desc": {
+      "en": "This video cannot be played in-app. Tap below to watch it on YouTube.",
+      "translation": "ఈ వీడియోను యాప్‌లో ప్లే చేయలేరు. YouTubeలో చూడటానికి క్రింద నొక్కండి."
+    },
+    "watch_on_youtube": {
+      "en": "Watch on YouTube",
+      "translation": "YouTubeలో చూడండి"
+    },
+    "tags_label": {
+      "en": "Tags",
+      "translation": "ట్యాగ్‌లు"
+    },
+    "family_faces": {
+      "en": "My People 👨‍👩‍👧‍👦",
+      "translation": "నా వ్యక్తులు 👨‍👩‍👧‍👦"
+    },
+    "coloring_canvas": {
+      "en": "Colouring 🎨",
+      "translation": "రంగులు వేయడం 🎨"
+    },
+    "add_person": {
+      "en": "Add Person",
+      "translation": "వ్యక్తిని జోడించండి"
+    },
+    "who_is_this_person": {
+      "en": "Who is this?",
+      "translation": "ఇది ఎవరు?"
+    },
+    "face_data_privacy": {
+      "en": "Face data stays on your device — never sent to the cloud",
+      "translation": "ముఖ డేటా మీ పరికరంలోనే ఉంటుంది — క్లౌడ్‌కి ఎప్పుడూ పంపబడదు"
+    },
+    "add_family_friends": {
+      "en": "Add your family and friends!",
+      "translation": "మీ కుటుంబం మరియు స్నేహితులను జోడించండి!"
+    },
+    "tap_add_person_hint": {
+      "en": "Tap \"Add Person\" to save a photo and name for people you know.",
+      "translation": "మీకు తెలిసిన వ్యక్తుల కోసం ఫోటో మరియు పేరును సేవ్ చేయడానికి \"వ్యక్తిని జోడించండి\" నొక్కండి."
+    },
+    "i_know_this_person": {
+      "en": "👋 I know this person!",
+      "translation": "👋 నాకు ఈ వ్యక్తి తెలుసు!"
+    },
+    "take_or_upload": {
+      "en": "Take or upload a photo\\nto identify who this is",
+      "translation": "ఇది ఎవరో గుర్తించడానికి\\nఫోటో తీయండి లేదా అప్‌లోడ్ చేయండి"
+    },
+    "matching_face": {
+      "en": "Matching face…",
+      "translation": "ముఖాన్ని సరిపోల్చుతోంది…"
+    },
+    "take_a_photo": {
+      "en": "Take a Photo",
+      "translation": "ఫోటో తీయండి"
+    },
+    "upload_from_library": {
+      "en": "Upload from Library",
+      "translation": "లైబ్రరీ నుండి అప్‌లోడ్ చేయండి"
+    },
+    "match_confidence": {
+      "en": "Match confidence",
+      "translation": "సరిపోలిక విశ్వాసం"
+    },
+    "no_face_found": {
+      "en": "No face found. Try again with a clearer photo.",
+      "translation": "ముఖం కనుగొనబడలేదు. స్పష్టమైన ఫోటోతో మళ్ళీ ప్రయత్నించండి."
+    },
+    "or_separator": {
+      "en": "or",
+      "translation": "లేదా"
+    },
+    "camera_label": {
+      "en": "Camera",
+      "translation": "కెమెరా"
+    },
+    "library_label": {
+      "en": "Library",
+      "translation": "లైబ్రరీ"
+    },
+    "mic_permission_needed": {
+      "en": "Please allow microphone and speech recognition access in Settings to use Voice Chat.",
+      "translation": "వాయిస్ చాట్‌ని ఉపయోగించడానికి దయచేసి సెట్టింగ్స్‌లో మైక్రోఫోన్ మరియు స్పీచ్ గుర్తింపు యాక్సెస్‌ని అనుమతించండి."
+    },
+    "im_here_to_listen": {
+      "en": "I'm here to listen 💛",
+      "translation": "నేను వినడానికి ఇక్కడ ఉన్నాను 💛"
+    },
+    "saved_to_photos": {
+      "en": "🎉 Saved to Photos!",
+      "translation": "🎉 ఫోటోలకు సేవ్ చేయబడింది!"
+    },
+    "pick_outline_hint": {
+      "en": "Pick an outline to colour in, or start with a blank canvas.",
+      "translation": "రంగు వేయడానికి ఔట్‌లైన్‌ను ఎంచుకోండి, లేదా ఖాళీ క్యాన్వాస్‌తో ప్రారంభించండి."
+    },
+    "templates_label": {
+      "en": "Templates",
+      "translation": "టెంప్లేట్‌లు"
+    },
+    "learning_made_joyful": {
+      "en": "Learning made joyful",
+      "translation": "నేర్చుకోవడం ఆనందదాయకంగా"
+    },
+    "personalise_hint": {
+      "en": "Personalise the app so your child gets the right videos — in their language, matched to their interests.",
+      "translation": "మీ పిల్లలకు సరైన వీడియోలు లభించేలా యాప్‌ను వ్యక్తిగతీకరించండి — వారి భాషలో, వారి ఆసక్తులకు సరిపోయేలా."
+    },
+    "get_started": {
+      "en": "Get Started",
+      "translation": "ప్రారంభించండి"
+    },
+    "childs_name": {
+      "en": "Child's name",
+      "translation": "పిల్లల పేరు"
+    },
+    "prefs_saved": {
+      "en": "Your preferences are saved. SproutPath will now show videos and activities tailored just for you.",
+      "translation": "మీ ప్రాధాన్యతలు సేవ్ చేయబడ్డాయి. SproutPath ఇప్పుడు మీ కోసం ప్రత్యేకంగా రూపొందించబడిన వీడియోలు మరియు కార్యకలాపాలను చూపుతుంది."
+    },
+    "start_learning": {
+      "en": "Start Learning",
+      "translation": "నేర్చుకోవడం ప్రారంభించండి"
+    },
+    "next_question_arrow": {
+      "en": "Next question →",
+      "translation": "తదుపరి ప్రశ్న →"
+    },
+    "camera_permission_desc": {
+      "en": "Please allow camera access in Settings so the app can see your face expressions.",
+      "translation": "మీ ముఖ భావాలను యాప్ చూడగలిగేలా దయచేసి సెట్టింగ్స్‌లో కెమెరా యాక్సెస్‌ని అనుమతించండి."
+    },
+    "simulator_note": {
+      "en": "Mirror Mode uses the front camera. Run on a real device to use face detection.",
+      "translation": "మిర్రర్ మోడ్ ముందు కెమెరాను ఉపయోగిస్తుంది. ముఖ గుర్తింపును ఉపయోగించడానికి అసలు పరికరంలో రన్ చేయండి."
+    },
+    "auto_detected": {
+      "en": "Auto-detected",
+      "translation": "స్వయంచాలకంగా గుర్తించబడింది"
+    },
+    "change_label": {
+      "en": "Change",
+      "translation": "మార్చండి"
+    },
+    "these_are_notes": {
+      "en": "These are the %@ notes and coins",
+      "translation": "ఇవి %@ నోట్లు మరియు నాణేలు"
+    },
+    "facts_count": {
+      "en": "%d facts",
+      "translation": "%d వాస్తవాలు"
+    },
+    "try_it_label": {
+      "en": "Try It! 🎯",
+      "translation": "ప్రయత్నించండి! 🎯"
+    },
+    "media_label": {
+      "en": "Media",
+      "translation": "మీడియా"
+    },
+    "photos_count": {
+      "en": "Photos (%d)",
+      "translation": "ఫోటోలు (%d)"
+    },
+    "recordings_count": {
+      "en": "Recordings (%d)",
+      "translation": "రికార్డింగ్‌లు (%d)"
+    },
+    "record_label": {
+      "en": "Record",
+      "translation": "రికార్డ్"
+    },
+    "notes_label": {
+      "en": "Notes",
+      "translation": "నోట్స్"
+    },
+    "age_display": {
+      "en": "Age %d",
+      "translation": "వయసు %d"
+    },
+    "use_this_profile": {
+      "en": "Use this",
+      "translation": "దీన్ని ఉపయోగించండి"
+    },
+    "from_setup": {
+      "en": "From setup",
+      "translation": "సెటప్ నుండి"
+    },
+    "about_sprout_path": {
+      "en": "About SproutPath",
+      "translation": "SproutPath గురించి"
+    },
+    "about_description": {
+      "en": "SproutPath is a gentle, child-friendly learning companion designed to support neurodivergent children and their families. It combines emotions, study, daily routines, calming tools, and parent resources into one calm space — built around the way real children learn and play.",
+      "translation": "SproutPath అనేది న్యూరోడైవర్జెంట్ పిల్లలు మరియు వారి కుటుంబాలకు మద్దతు ఇవ్వడానికి రూపొందించబడిన సున్నితమైన, పిల్లల-స్నేహపూర్వక అభ్యాస సహచరుడు. ఇది భావాలు, చదువు, రోజువారీ దినచర్యలు, ప్రశాంతత టూల్స్ మరియు తల్లిదండ్రుల వనరులను ఒకే ప్రశాంత స్థలంలో మిళితం చేస్తుంది — నిజమైన పిల్లలు నేర్చుకునే మరియు ఆడే విధానం చుట్టూ నిర్మించబడింది."
+    },
+    "made_with_care": {
+      "en": "Made with care for children, parents, caregivers, and therapists. Thank you for using SproutPath.",
+      "translation": "పిల్లలు, తల్లిదండ్రులు, సంరక్షకులు మరియు థెరపిస్ట్‌ల కోసం శ్రద్ధతో తయారు చేయబడింది. SproutPathను ఉపయోగించినందుకు ధన్యవాదాలు."
+    },
+    "visit_website": {
+      "en": "Visit our website",
+      "translation": "మా వెబ్‌సైట్‌ను సందర్శించండి"
+    },
+    "faq_intro": {
+      "en": "Frequently asked questions about using SproutPath. Tap a question to read the answer.",
+      "translation": "SproutPathను ఉపయోగించడం గురించి తరచుగా అడిగే ప్రశ్నలు. జవాబు చదవడానికి ఒక ప్రశ్నను నొక్కండి."
+    },
+    "checking_videos": {
+      "en": "Checking available videos…",
+      "translation": "అందుబాటులో ఉన్న వీడియోలను తనిఖీ చేస్తోంది…"
+    },
+    "no_devotional_videos": {
+      "en": "No devotional videos available",
+      "translation": "భక్తి వీడియోలు అందుబాటులో లేవు"
+    },
+    "parents_and_caregivers": {
+      "en": "👨‍👩‍👧 Parents & Caregivers",
+      "translation": "👨‍👩‍👧 తల్లిదండ్రులు & సంరక్షకులు"
+    },
+    "display_label": {
+      "en": "Display",
+      "translation": "డిస్‌ప్లే"
+    },
+    "language_label": {
+      "en": "Language",
+      "translation": "భాష"
+    },
+    "faq_label": {
+      "en": "FAQ",
+      "translation": "FAQ"
+    },
+    "about_sprout_path_nav": {
+      "en": "About SproutPath",
+      "translation": "SproutPath గురించి"
+    },
+    "devotional_label": {
+      "en": "Devotional",
+      "translation": "భక్తి"
+    },
+    "settings_label": {
+      "en": "Settings",
+      "translation": "సెట్టింగ్స్"
+    },
+    "add_family_photo": {
+      "en": "Add a family photo",
+      "translation": "కుటుంబ ఫోటోని జోడించండి"
+    },
+    "no_autism_videos": {
+      "en": "No autism support videos yet.",
+      "translation": "ఇంకా ఆటిజం సపోర్ట్ వీడియోలు లేవు."
+    },
+    "no_autism_videos_hint": {
+      "en": "Add autism-category videos to your videos.json or remote JSON feed.",
+      "translation": "మీ videos.json లేదా రిమోట్ JSON ఫీడ్‌కి ఆటిజం-వర్గ వీడియోలను జోడించండి."
+    },
+    "autism_support_videos": {
+      "en": "Autism Support Videos",
+      "translation": "ఆటిజం సపోర్ట్ వీడియోలు"
+    },
+    "tap_symbols_hint": {
+      "en": "Tap symbols to build a sentence...",
+      "translation": "ఒక వాక్యాన్ని నిర్మించడానికి చిహ్నాలను నొక్కండి..."
+    },
+    "getting_location": {
+      "en": "Getting location…",
+      "translation": "స్థానం పొందుతోంది…"
+    },
+    "quick_facts": {
+      "en": "Quick Facts",
+      "translation": "త్వరిత వాస్తవాలు"
+    },
+    "all_done_great_job": {
+      "en": "All done! Great job! 🌟",
+      "translation": "అన్నీ పూర్తయ్యాయి! బాగా చేశారు! 🌟"
+    },
+    "tap_to_see_example": {
+      "en": "Tap to see example →",
+      "translation": "ఉదాహరణ చూడటానికి నొక్కండి →"
+    },
+    "reset_label": {
+      "en": "Reset",
+      "translation": "రీసెట్"
+    },
+    "sound_label": {
+      "en": "Sound",
+      "translation": "శబ్దం"
+    },
+    "display_settings": {
+      "en": "Display",
+      "translation": "డిస్‌ప్లే"
+    },
+    "minutes_unit": {
+      "en": "%d min",
+      "translation": "%d నిమి"
+    },
+    "count_the": {
+      "en": "Count the %@:",
+      "translation": "%@ ని లెక్కించండి:"
+    },
+    "shopkeeper_change": {
+      "en": "The shopkeeper gives you %@ change.",
+      "translation": "షాపు యజమాని మీకు %@ చిల్లర ఇస్తారు."
+    },
+    "enter_amounts_in": {
+      "en": "Enter amounts in %@ (%@)",
+      "translation": "%@ (%@) లో మొత్తాలను నమోదు చేయండి"
+    },
+    "try_arrow": {
+      "en": "Try →",
+      "translation": "ప్రయత్నించండి →"
+    },
+    "word_of_count": {
+      "en": "Word %d of %d",
+      "translation": "పదం %d / %d"
+    },
+    "this_is_name": {
+      "en": "This is %@!",
+      "translation": "ఇది %@!"
+    },
+    "age_from_setup": {
+      "en": "Age %d · From onboarding setup",
+      "translation": "వయసు %d · ఆన్‌బోర్డింగ్ సెటప్ నుండి"
+    },
+    "step_of_4": {
+      "en": "Step %d of 4",
+      "translation": "దశ %d / 4"
+    },
+    "all_set": {
+      "en": "All set!",
+      "translation": "అన్నీ సిద్ధం!"
+    },
+    "all_set_name": {
+      "en": "All set, %@!",
+      "translation": "అన్నీ సిద్ధం, %@!"
+    },
+    "round_of": {
+      "en": "Round %d of %d",
+      "translation": "రౌండ్ %d / %d"
+    },
+    "notice_things": {
+      "en": "Look around you and notice %d things.",
+      "translation": "మీ చుట్టూ చూసి %d వస్తువులను గమనించండి."
+    },
+    "stars_earned_so_far": {
+      "en": "You've earned %d stars so far!",
+      "translation": "మీరు ఇప్పటివరకు %d నక్షత్రాలు సంపాదించారు!"
+    },
+    "recent_count": {
+      "en": "Recent (%d)",
+      "translation": "ఇటీవలి (%d)"
+    },
+    "the_ns_table": {
+      "en": "The %ds Table",
+      "translation": "%d ఎక్కం"
+    },
+    "my_recorded_videos": {
+      "en": "My Recorded Videos (%d)",
+      "translation": "నేను రికార్డ్ చేసిన వీడియోలు (%d)"
+    },
+    "hold_it_percent": {
+      "en": "Hold it! %d%%",
+      "translation": "ఆగండి! %d%%"
+    },
+    "amazing_face": {
+      "en": "Amazing %@ face!",
+      "translation": "అద్భుతమైన %@ ముఖం!"
+    },
+    "helped_resolution": {
+      "en": "Helped: %@",
+      "translation": "సహాయపడింది: %@"
+    },
+    "score_of": {
+      "en": "Score: %d/%d",
+      "translation": "స్కోర్: %d/%d"
+    },
+    "ages_range": {
+      "en": "Ages %@",
+      "translation": "వయసులు %@"
+    },
+    "six_second_rule_explain": {
+      "en": "After asking a question or giving an instruction, wait silently for 6 seconds before repeating. This gives the brain the processing time it needs. Repeating too soon causes anxiety and resets the processing clock.",
+      "translation": "ప్రశ్న అడిగిన తర్వాత లేదా సూచన ఇచ్చిన తర్వాత, మళ్ళీ చెప్పే ముందు 6 సెకన్లు నిశ్శబ్దంగా వేచి ఉండండి. ఇది మెదడుకు అవసరమైన ప్రాసెసింగ్ సమయాన్ని ఇస్తుంది. చాలా త్వరగా మళ్ళీ చెప్పడం ఆందోళనను కలిగిస్తుంది మరియు ప్రాసెసింగ్ గడియారాన్ని రీసెట్ చేస్తుంది."
+    },
+    "ready_label": {
+      "en": "Ready",
+      "translation": "సిద్ధం"
+    },
+    "now_may_repeat": {
+      "en": "Now you\\nmay repeat",
+      "translation": "ఇప్పుడు మీరు\\nమళ్ళీ చెప్పవచ్చు"
+    },
+    "six_second_type_hint": {
+      "en": "Type the question first, then tap Start Timer.",
+      "translation": "ముందుగా ప్రశ్నను టైప్ చేయండి, ఆపై టైమర్ ప్రారంభించండి నొక్కండి."
+    },
+    "current_label": {
+      "en": "Current",
+      "translation": "ప్రస్తుత"
+    },
+    "audio_label": {
+      "en": "Audio",
+      "translation": "ఆడియో"
+    },
+    "voice_label": {
+      "en": "Voice",
+      "translation": "వాయిస్"
+    },
+    "confirm_remove_photo": {
+      "en": "The family photo will be removed from the dashboard.",
+      "translation": "డాష్‌బోర్డ్ నుండి కుటుంబ ఫోటో తొలగించబడుతుంది."
+    },
+    "tap_hear_all": {
+      "en": "Tap 🔊 to hear it all!",
+      "translation": "అన్నీ వినడానికి 🔊 నొక్కండి!"
+    },
+    "what_is": {
+      "en": "What is...",
+      "translation": "ఏమిటి..."
+    },
+    "guided_access_instructions": {
+      "en": "For the strongest protection (blocks home button, volume buttons, and touch regions), enable Guided Access in Settings → Accessibility → Guided Access, then triple-click the side button while SproutPath is open.",
+      "translation": "బలమైన రక్షణ కోసం (హోమ్ బటన్, వాల్యూమ్ బటన్‌లు మరియు టచ్ ప్రాంతాలను బ్లాక్ చేస్తుంది), సెట్టింగ్స్ → యాక్సెసిబిలిటీ → గైడెడ్ యాక్సెస్‌లో గైడెడ్ యాక్సెస్‌ని ప్రారంభించండి, ఆపై SproutPath తెరిచి ఉన్నప్పుడు సైడ్ బటన్‌ను మూడుసార్లు క్లిక్ చేయండి."
+    },
+    "how_are_you_feeling": {
+      "en": "How are you feeling?",
+      "translation": "మీరు ఎలా అనుభవిస్తున్నారు?"
+    },
+    "tap_to_check_in": {
+      "en": "Tap to check in",
+      "translation": "చెక్-ఇన్ చేయడానికి నొక్కండి"
+    },
+    "you_said": {
+      "en": "You said %@",
+      "translation": "మీరు %@ అని చెప్పారు"
+    },
+    "add_edit_symbol_hint": {
+      "en": "Enter a YouTube link or video ID above to preview",
+      "translation": "ప్రివ్యూ కోసం పైన YouTube లింక్ లేదా వీడియో IDని నమోదు చేయండి"
+    },
+    "schedule_notifications": {
+      "en": "Schedule Notifications",
+      "translation": "నోటిఫికేషన్‌లను షెడ్యూల్ చేయండి"
+    },
+    "notifications_on": {
+      "en": "Reminders on",
+      "translation": "రిమైండర్‌లు ఆన్"
+    },
+    "notifications_off": {
+      "en": "Reminders off",
+      "translation": "రిమైండర్‌లు ఆఫ్"
+    },
+    "notification_body": {
+      "en": "Time for: %@",
+      "translation": "దీని కోసం సమయం: %@"
+    },
+    "notifications_perm_denied": {
+      "en": "Notification permission denied",
+      "translation": "నోటిఫికేషన్ అనుమతి తిరస్కరించబడింది"
+    },
+    "open_settings_to_enable": {
+      "en": "Open Settings to enable notifications for SproutPath",
+      "translation": "SproutPath కోసం నోటిఫికేషన్‌లను ప్రారంభించడానికి సెట్టింగ్స్ తెరవండి"
+    },
+    "sound_voice_on": {
+      "en": "Sound & voice on",
+      "translation": "శబ్దం & వాయిస్ ఆన్"
+    },
+    "sound_voice_off": {
+      "en": "Sound & voice off",
+      "translation": "శబ్దం & వాయిస్ ఆఫ్"
+    },
+    "text_to_speech_on": {
+      "en": "Text-to-speech on",
+      "translation": "టెక్స్ట్-టు-స్పీచ్ ఆన్"
+    },
+    "text_to_speech_off": {
+      "en": "Text-to-speech off",
+      "translation": "టెక్స్ట్-టు-స్పీచ్ ఆఫ్"
+    },
+    "theme_auto": {
+      "en": "Auto",
+      "translation": "ఆటో"
+    },
+    "theme_white": {
+      "en": "White",
+      "translation": "తెలుపు"
+    },
+    "theme_black": {
+      "en": "Black",
+      "translation": "నలుపు"
+    },
+    "theme_follows_iphone": {
+      "en": "Follows iPhone",
+      "translation": "iPhoneని అనుసరిస్తుంది"
+    },
+    "theme_always_white": {
+      "en": "Always white",
+      "translation": "ఎల్లప్పుడూ తెలుపు"
+    },
+    "theme_always_black": {
+      "en": "Always black",
+      "translation": "ఎల్లప్పుడూ నలుపు"
+    },
+    "flashcards_title": {
+      "en": "Flashcards",
+      "translation": "ఫ్లాష్‌కార్డ్‌లు"
+    },
+    "flashcards_subtitle": {
+      "en": "Tap a deck to start practising.",
+      "translation": "ప్రాక్టీస్ ప్రారంభించడానికి ఒక డెక్‌ను నొక్కండి."
+    },
+    "cards_count": {
+      "en": "%d cards",
+      "translation": "%d కార్డులు"
+    },
+    "lib_sec_education": {
+      "en": "Education",
+      "translation": "విద్య"
+    },
+    "lib_sec_mind_body": {
+      "en": "Mind & Body",
+      "translation": "మనసు & శరీరం"
+    },
+    "lib_sec_learning": {
+      "en": "Learning",
+      "translation": "నేర్చుకోవడం"
+    },
+    "lib_sec_sports": {
+      "en": "Sports",
+      "translation": "క్రీడలు"
+    },
+    "lib_sec_art": {
+      "en": "Art",
+      "translation": "కళ"
+    },
+    "lib_sec_science": {
+      "en": "Science",
+      "translation": "విజ్ఞానం"
+    },
+    "lib_sec_entertainment": {
+      "en": "Entertainment",
+      "translation": "వినోదం"
+    },
+    "lib_sec_others": {
+      "en": "Others",
+      "translation": "ఇతరములు"
+    },
+    "live_up_to_date": {
+      "en": "Live · up to date",
+      "translation": "లైవ్ · తాజాగా"
+    },
+    "cached_refresh_shortly": {
+      "en": "Cached · will refresh shortly",
+      "translation": "క్యాష్ చేయబడింది · త్వరలో రిఫ్రెష్ అవుతుంది"
+    },
+    "videos_available_count": {
+      "en": "%d videos available",
+      "translation": "%d వీడియోలు అందుబాటులో ఉన్నాయి"
+    },
+    "about_the_app": {
+      "en": "About the app",
+      "translation": "యాప్ గురించి"
+    },
+    "learn_more": {
+      "en": "Learn more",
+      "translation": "మరింత తెలుసుకోండి"
+    },
+    "credits": {
+      "en": "Credits",
+      "translation": "క్రెడిట్‌లు"
+    }
+  },
+  "tm_keys": {},
+  "phrases": {
+    "greeting": "నమస్కారం",
+    "welcome": "స్వాగతం",
+    "thankYou": "ధన్యవాదాలు"
+  }
+}

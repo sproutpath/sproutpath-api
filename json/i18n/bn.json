@@ -1,0 +1,3001 @@
+{
+  "_meta": {
+    "language_id": "bn",
+    "name": "Bengali",
+    "nativeName": "বাংলা",
+    "flag": "🇮🇳",
+    "script": "নমস্কার! আপনি কেমন আছেন?",
+    "ttsCode": "bn-IN",
+    "lm_key_count": 745,
+    "tm_key_count": 0,
+    "notes": "Bengali translation. Translations preserve format specifiers (%@, %d, %d%%), escape sequences, and emojis from the English source. Brand name 'SproutPath' kept as-is."
+  },
+  "lm_keys": {
+    "app_name": {
+      "en": "SproutPath",
+      "translation": "SproutPath"
+    },
+    "tagline": {
+      "en": "Grow with joy, learn with love",
+      "translation": "আনন্দে বেড়ে ওঠো, ভালোবেসে শেখো"
+    },
+    "launch_tagline": {
+      "en": "Grow with joy, learn with love",
+      "translation": "আনন্দে বেড়ে ওঠো, ভালোবেসে শেখো"
+    },
+    "set_up_your_profile": {
+      "en": "Set up your profile",
+      "translation": "আপনার প্রোফাইল সেট আপ করুন"
+    },
+    "tap_to_add_name_photo": {
+      "en": "Tap to add your name and photo",
+      "translation": "আপনার নাম ও ছবি যোগ করতে ট্যাপ করুন"
+    },
+    "hi_greeting": {
+      "en": "Hi, %@! 👋",
+      "translation": "নমস্কার, %@! 👋"
+    },
+    "age_stars_today": {
+      "en": "Age %d · %d ⭐ today",
+      "translation": "বয়স %d · আজ %d ⭐"
+    },
+    "child_tab": {
+      "en": "Child",
+      "translation": "শিশু"
+    },
+    "parent_tab": {
+      "en": "Parents",
+      "translation": "অভিভাবক"
+    },
+    "sidebar_dashboard": {
+      "en": "Dashboard",
+      "translation": "ড্যাশবোর্ড"
+    },
+    "sidebar_emotions": {
+      "en": "Emotions",
+      "translation": "আবেগ"
+    },
+    "sidebar_study": {
+      "en": "Study",
+      "translation": "পড়াশোনা"
+    },
+    "sidebar_activities": {
+      "en": "Activities",
+      "translation": "কার্যকলাপ"
+    },
+    "sidebar_explore": {
+      "en": "Explore",
+      "translation": "অন্বেষণ করুন"
+    },
+    "sidebar_daily_life": {
+      "en": "Daily Life",
+      "translation": "দৈনন্দিন জীবন"
+    },
+    "sidebar_parents": {
+      "en": "Parents",
+      "translation": "অভিভাবক"
+    },
+    "telugu_devotional": {
+      "en": "Telugu Devotional 🙏",
+      "translation": "তেলুগু ভক্তিমূলক 🙏"
+    },
+    "transport_walk": {
+      "en": "Walk",
+      "translation": "হাঁটা"
+    },
+    "transport_drive": {
+      "en": "Drive",
+      "translation": "গাড়ি"
+    },
+    "transport_bus": {
+      "en": "Bus",
+      "translation": "বাস"
+    },
+    "transport_train": {
+      "en": "Train",
+      "translation": "ট্রেন"
+    },
+    "transport_mode": {
+      "en": "How to go",
+      "translation": "কীভাবে যাবেন"
+    },
+    "open_in_maps": {
+      "en": "Open in Maps",
+      "translation": "ম্যাপে খুলুন"
+    },
+    "add_destination": {
+      "en": "Add Destination",
+      "translation": "গন্তব্য যোগ করুন"
+    },
+    "edit_destination": {
+      "en": "Edit Destination",
+      "translation": "গন্তব্য সম্পাদনা করুন"
+    },
+    "no_destinations_yet": {
+      "en": "No destinations yet",
+      "translation": "এখনও কোনো গন্তব্য নেই"
+    },
+    "add_first_destination": {
+      "en": "Add First Destination",
+      "translation": "প্রথম গন্তব্য যোগ করুন"
+    },
+    "find_on_map": {
+      "en": "Find on Map",
+      "translation": "ম্যাপে খুঁজুন"
+    },
+    "location_found": {
+      "en": "Location found ✓",
+      "translation": "অবস্থান পাওয়া গেছে ✓"
+    },
+    "address_not_found": {
+      "en": "Address not found. Try a more specific address.",
+      "translation": "ঠিকানা পাওয়া যায়নি। আরও নির্দিষ্ট ঠিকানা চেষ্টা করুন।"
+    },
+    "address_resolved": {
+      "en": "Address will be resolved when you start navigation",
+      "translation": "আপনি নেভিগেশন শুরু করলে ঠিকানা সমাধান হবে"
+    },
+    "dest_name_placeholder": {
+      "en": "e.g. School, Park, Grandma's House",
+      "translation": "যেমন স্কুল, পার্ক, ঠাকুরমার বাড়ি"
+    },
+    "dest_address_placeholder": {
+      "en": "e.g. 123 Main St, Chennai",
+      "translation": "যেমন ১২৩ মেইন স্ট্রিট, চেন্নাই"
+    },
+    "dest_icon": {
+      "en": "Icon",
+      "translation": "আইকন"
+    },
+    "dest_colour": {
+      "en": "Colour",
+      "translation": "রঙ"
+    },
+    "add_place": {
+      "en": "Add Place",
+      "translation": "জায়গা যোগ করুন"
+    },
+    "very_mild": {
+      "en": "Very mild",
+      "translation": "খুব মৃদু"
+    },
+    "mild": {
+      "en": "Mild",
+      "translation": "মৃদু"
+    },
+    "moderate": {
+      "en": "Moderate",
+      "translation": "মাঝারি"
+    },
+    "severe": {
+      "en": "Severe",
+      "translation": "তীব্র"
+    },
+    "very_severe": {
+      "en": "Very severe",
+      "translation": "খুব তীব্র"
+    },
+    "trigger_loud_noise": {
+      "en": "Loud noise",
+      "translation": "জোরে শব্দ"
+    },
+    "trigger_transition": {
+      "en": "Transition",
+      "translation": "পরিবর্তন"
+    },
+    "trigger_routine_change": {
+      "en": "Routine change",
+      "translation": "রুটিন পরিবর্তন"
+    },
+    "trigger_hunger": {
+      "en": "Hunger",
+      "translation": "ক্ষুধা"
+    },
+    "trigger_tiredness": {
+      "en": "Tiredness",
+      "translation": "ক্লান্তি"
+    },
+    "trigger_sensory_overload": {
+      "en": "Sensory overload",
+      "translation": "সংবেদনশীল অতিরিক্ত চাপ"
+    },
+    "trigger_social_conflict": {
+      "en": "Social conflict",
+      "translation": "সামাজিক দ্বন্দ্ব"
+    },
+    "trigger_frustration": {
+      "en": "Frustration",
+      "translation": "হতাশা"
+    },
+    "resolution_breathing": {
+      "en": "Deep breathing",
+      "translation": "গভীর শ্বাস"
+    },
+    "resolution_quiet_space": {
+      "en": "Quiet space",
+      "translation": "শান্ত জায়গা"
+    },
+    "resolution_weighted_blanket": {
+      "en": "Weighted blanket",
+      "translation": "ভারী কম্বল"
+    },
+    "resolution_fidget": {
+      "en": "Fidget toy",
+      "translation": "ফিজেট খেলনা"
+    },
+    "resolution_music": {
+      "en": "Music / headphones",
+      "translation": "সঙ্গীত / হেডফোন"
+    },
+    "resolution_snack": {
+      "en": "Favourite snack",
+      "translation": "প্রিয় খাবার"
+    },
+    "resolution_exercise": {
+      "en": "Physical exercise",
+      "translation": "শারীরিক ব্যায়াম"
+    },
+    "resolution_hugs": {
+      "en": "Hugs",
+      "translation": "আলিঙ্গন"
+    },
+    "resolution_screen_break": {
+      "en": "Screen break",
+      "translation": "স্ক্রিন বিরতি"
+    },
+    "resolution_changed_env": {
+      "en": "Changed environment",
+      "translation": "পরিবর্তিত পরিবেশ"
+    },
+    "resolution_verbal_reassurance": {
+      "en": "Verbal reassurance",
+      "translation": "মৌখিক আশ্বাস"
+    },
+    "time_of_day_label": {
+      "en": "Time of day",
+      "translation": "দিনের সময়"
+    },
+    "day_of_week_label": {
+      "en": "Day of week",
+      "translation": "সপ্তাহের দিন"
+    },
+    "default_diagnosis": {
+      "en": "Autism Spectrum Condition",
+      "translation": "অটিজম স্পেকট্রাম অবস্থা"
+    },
+    "default_comm_style": {
+      "en": "Limited verbal",
+      "translation": "সীমিত মৌখিক"
+    },
+    "comm_style_verbal": {
+      "en": "Verbal",
+      "translation": "মৌখিক"
+    },
+    "comm_style_limited_verbal": {
+      "en": "Limited verbal",
+      "translation": "সীমিত মৌখিক"
+    },
+    "comm_style_aac": {
+      "en": "AAC device",
+      "translation": "AAC ডিভাইস"
+    },
+    "comm_style_pointing": {
+      "en": "Pointing / gestures",
+      "translation": "নির্দেশ করা / ইশারা"
+    },
+    "comm_style_non_verbal": {
+      "en": "Non-verbal",
+      "translation": "অমৌখিক"
+    },
+    "calm_suggestion_quiet": {
+      "en": "Quiet space",
+      "translation": "শান্ত জায়গা"
+    },
+    "calm_suggestion_deep_pressure": {
+      "en": "Deep pressure",
+      "translation": "গভীর চাপ"
+    },
+    "calm_suggestion_headphones": {
+      "en": "Noise-cancelling headphones",
+      "translation": "শব্দ-বাতিলকারী হেডফোন"
+    },
+    "calm_suggestion_fidget2": {
+      "en": "Fidget toy",
+      "translation": "ফিজেট খেলনা"
+    },
+    "calm_suggestion_routine": {
+      "en": "Routine reminder",
+      "translation": "রুটিন অনুস্মারক"
+    },
+    "calm_suggestion_visual_schedule": {
+      "en": "Visual schedule",
+      "translation": "ভিজ্যুয়াল সময়সূচি"
+    },
+    "how_i_communicate": {
+      "en": "How I communicate",
+      "translation": "আমি কীভাবে যোগাযোগ করি"
+    },
+    "sens_ex_sound_music": {
+      "en": "Music",
+      "translation": "সঙ্গীত"
+    },
+    "sens_ex_sound_traffic": {
+      "en": "Traffic noise",
+      "translation": "ট্রাফিকের শব্দ"
+    },
+    "sens_ex_sound_classroom": {
+      "en": "Classroom chatter",
+      "translation": "শ্রেণীকক্ষের হট্টগোল"
+    },
+    "sens_ex_touch_clothing": {
+      "en": "Clothing textures",
+      "translation": "পোশাকের গঠন"
+    },
+    "sens_ex_touch_hugs": {
+      "en": "Hugs",
+      "translation": "আলিঙ্গন"
+    },
+    "sens_ex_touch_wet_hands": {
+      "en": "Wet hands",
+      "translation": "ভেজা হাত"
+    },
+    "sens_ex_vision_lights": {
+      "en": "Bright lights",
+      "translation": "উজ্জ্বল আলো"
+    },
+    "sens_ex_vision_patterns": {
+      "en": "Busy patterns",
+      "translation": "ভিড়ের প্যাটার্ন"
+    },
+    "sens_ex_vision_screen": {
+      "en": "Screen time",
+      "translation": "স্ক্রিন সময়"
+    },
+    "sensory_sound": {
+      "en": "Sound",
+      "translation": "শব্দ"
+    },
+    "sensory_touch": {
+      "en": "Touch",
+      "translation": "স্পর্শ"
+    },
+    "sensory_sight": {
+      "en": "Sight",
+      "translation": "দৃষ্টি"
+    },
+    "sensory_smell": {
+      "en": "Smell",
+      "translation": "গন্ধ"
+    },
+    "sensory_taste": {
+      "en": "Taste",
+      "translation": "স্বাদ"
+    },
+    "sensory_movement": {
+      "en": "Movement",
+      "translation": "নড়াচড়া"
+    },
+    "sensory_body": {
+      "en": "Body Awareness",
+      "translation": "শরীর সচেতনতা"
+    },
+    "dest_school": {
+      "en": "School",
+      "translation": "স্কুল"
+    },
+    "dest_park": {
+      "en": "Park",
+      "translation": "পার্ক"
+    },
+    "dest_library": {
+      "en": "Library",
+      "translation": "গ্রন্থাগার"
+    },
+    "dest_hospital": {
+      "en": "Hospital",
+      "translation": "হাসপাতাল"
+    },
+    "dest_supermarket": {
+      "en": "Supermarket",
+      "translation": "সুপারমার্কেট"
+    },
+    "dest_playground": {
+      "en": "Playground",
+      "translation": "খেলার মাঠ"
+    },
+    "dest_bus_stop": {
+      "en": "Bus Stop",
+      "translation": "বাস স্টপ"
+    },
+    "dest_pool": {
+      "en": "Swimming Pool",
+      "translation": "সাঁতার পুল"
+    },
+    "dest_temple": {
+      "en": "Temple",
+      "translation": "মন্দির"
+    },
+    "dest_doctor": {
+      "en": "Doctor",
+      "translation": "ডাক্তার"
+    },
+    "dest_home": {
+      "en": "Home",
+      "translation": "বাড়ি"
+    },
+    "dest_grandma": {
+      "en": "Grandma's House",
+      "translation": "ঠাকুরমার বাড়ি"
+    },
+    "getting_directions": {
+      "en": "Getting directions…",
+      "translation": "দিকনির্দেশ পাওয়া হচ্ছে…"
+    },
+    "navigating_to": {
+      "en": "Navigate to %@",
+      "translation": "%@ তে নেভিগেট করুন"
+    },
+    "arrived_at": {
+      "en": "You have arrived at %@! 🎉",
+      "translation": "আপনি %@ তে পৌঁছেছেন! 🎉"
+    },
+    "address_for_map_directions": {
+      "en": "Address (for map directions)",
+      "translation": "ঠিকানা (ম্যাপ দিকনির্দেশের জন্য)"
+    },
+    "open_in_apple_maps": {
+      "en": "Open in Maps",
+      "translation": "ম্যাপে খুলুন"
+    },
+    "edit_quick_access": {
+      "en": "Edit Quick Access",
+      "translation": "দ্রুত অ্যাক্সেস সম্পাদনা করুন"
+    },
+    "quick_access_hint": {
+      "en": "Tap to select your favourite features",
+      "translation": "আপনার প্রিয় বৈশিষ্ট্যগুলি বেছে নিতে ট্যাপ করুন"
+    },
+    "done_editing": {
+      "en": "Done",
+      "translation": "সম্পন্ন"
+    },
+    "select_features": {
+      "en": "Select Features",
+      "translation": "বৈশিষ্ট্য নির্বাচন করুন"
+    },
+    "goal_section_emotions": {
+      "en": "Emotions",
+      "translation": "আবেগ"
+    },
+    "goal_section_math": {
+      "en": "Math",
+      "translation": "গণিত"
+    },
+    "goal_section_english": {
+      "en": "English",
+      "translation": "ইংরেজি"
+    },
+    "goal_section_science": {
+      "en": "Science",
+      "translation": "বিজ্ঞান"
+    },
+    "goal_section_routine": {
+      "en": "Routine",
+      "translation": "রুটিন"
+    },
+    "goal_section_calm": {
+      "en": "Calm",
+      "translation": "শান্তি"
+    },
+    "goal_section_videos": {
+      "en": "Videos",
+      "translation": "ভিডিও"
+    },
+    "goal_section_stories": {
+      "en": "Social Stories",
+      "translation": "সামাজিক গল্প"
+    },
+    "goal_practise_emotions": {
+      "en": "Practise emotions",
+      "translation": "আবেগ অনুশীলন করুন"
+    },
+    "goal_morning_routine": {
+      "en": "Complete morning routine",
+      "translation": "সকালের রুটিন সম্পূর্ণ করুন"
+    },
+    "goal_calming_exercise": {
+      "en": "Try a calming exercise",
+      "translation": "শান্ত করার ব্যায়াম চেষ্টা করুন"
+    },
+    "goal_learning_video": {
+      "en": "Watch a learning video",
+      "translation": "একটি শেখার ভিডিও দেখুন"
+    },
+    "goal_practise_maths": {
+      "en": "Practise maths",
+      "translation": "গণিত অনুশীলন করুন"
+    },
+    "goal_english_lesson": {
+      "en": "Do an English lesson",
+      "translation": "ইংরেজি পাঠ করুন"
+    },
+    "sens_sound_sensitive1": {
+      "en": "Covers ears often",
+      "translation": "প্রায়ই কান ঢেকে রাখে"
+    },
+    "sens_sound_sensitive2": {
+      "en": "Upset by hand dryers",
+      "translation": "হ্যান্ড ড্রায়ারে বিরক্ত হয়"
+    },
+    "sens_sound_sensitive3": {
+      "en": "Startles at sudden noises",
+      "translation": "হঠাৎ শব্দে চমকে ওঠে"
+    },
+    "sens_sound_seeking1": {
+      "en": "Loves loud music",
+      "translation": "জোরে সঙ্গীত পছন্দ করে"
+    },
+    "sens_sound_seeking2": {
+      "en": "Makes repetitive sounds",
+      "translation": "বারবার শব্দ করে"
+    },
+    "sens_sound_seeking3": {
+      "en": "Seeks noisy environments",
+      "translation": "শব্দময় পরিবেশ খোঁজে"
+    },
+    "sense_touch_sensitive1": {
+      "en": "Hates tags in clothes",
+      "translation": "পোশাকের ট্যাগ অপছন্দ করে"
+    },
+    "sense_touch_sensitive2": {
+      "en": "Avoids messy play",
+      "translation": "নোংরা খেলা এড়িয়ে চলে"
+    },
+    "sense_touch_sensitive3": {
+      "en": "Dislikes unexpected touch",
+      "translation": "অপ্রত্যাশিত স্পর্শ অপছন্দ করে"
+    },
+    "sense_touch_seeking1": {
+      "en": "Loves deep pressure",
+      "translation": "গভীর চাপ পছন্দ করে"
+    },
+    "sense_touch_seeking2": {
+      "en": "Seeks hugs",
+      "translation": "আলিঙ্গন চায়"
+    },
+    "sense_touch_seeking3": {
+      "en": "Enjoys heavy blankets",
+      "translation": "ভারী কম্বল উপভোগ করে"
+    },
+    "sense_sight_sensitive1": {
+      "en": "Bothered by bright lights",
+      "translation": "উজ্জ্বল আলোতে অস্বস্তি হয়"
+    },
+    "sense_sight_sensitive2": {
+      "en": "Avoids busy visual spaces",
+      "translation": "ভিড়ের দৃশ্যময় জায়গা এড়িয়ে চলে"
+    },
+    "sense_sight_sensitive3": {
+      "en": "Squints often",
+      "translation": "প্রায়ই চোখ সরু করে"
+    },
+    "sense_sight_seeking1": {
+      "en": "Watches spinning objects",
+      "translation": "ঘূর্ণায়মান জিনিস দেখে"
+    },
+    "sense_sight_seeking2": {
+      "en": "Stares at lights",
+      "translation": "আলোর দিকে এক দৃষ্টিতে তাকায়"
+    },
+    "sense_sight_seeking3": {
+      "en": "Seeks visual stimulation",
+      "translation": "দৃশ্যময় উদ্দীপনা খোঁজে"
+    },
+    "dashboard": {
+      "en": "Dashboard",
+      "translation": "ড্যাশবোর্ড"
+    },
+    "study": {
+      "en": "Study",
+      "translation": "পড়াশোনা"
+    },
+    "activities": {
+      "en": "Activities",
+      "translation": "কার্যকলাপ"
+    },
+    "schedule": {
+      "en": "Schedule",
+      "translation": "সময়সূচি"
+    },
+    "more": {
+      "en": "More",
+      "translation": "আরও"
+    },
+    "emotions": {
+      "en": "Emotions",
+      "translation": "আবেগ"
+    },
+    "mirrorMode": {
+      "en": "Mirror Mode",
+      "translation": "মিরর মোড"
+    },
+    "identifyEmotions": {
+      "en": "Identify Emotions",
+      "translation": "আবেগ চিনুন"
+    },
+    "socialStories": {
+      "en": "Social Stories",
+      "translation": "সামাজিক গল্প"
+    },
+    "sixSecondRule": {
+      "en": "6-Second Rule",
+      "translation": "৬-সেকেন্ডের নিয়ম"
+    },
+    "mathNumbers": {
+      "en": "Math & Numbers",
+      "translation": "গণিত ও সংখ্যা"
+    },
+    "english": {
+      "en": "English",
+      "translation": "ইংরেজি"
+    },
+    "science": {
+      "en": "Science",
+      "translation": "বিজ্ঞান"
+    },
+    "currency": {
+      "en": "Currency",
+      "translation": "মুদ্রা"
+    },
+    "measurements": {
+      "en": "Measurements",
+      "translation": "পরিমাপ"
+    },
+    "yogaExercise": {
+      "en": "Yoga & Exercise",
+      "translation": "যোগ ও ব্যায়াম"
+    },
+    "socialSkills": {
+      "en": "Social Skills",
+      "translation": "সামাজিক দক্ষতা"
+    },
+    "cooking": {
+      "en": "Cooking",
+      "translation": "রান্না"
+    },
+    "sports": {
+      "en": "Sports",
+      "translation": "খেলাধুলা"
+    },
+    "physicalActivities": {
+      "en": "Physical Activities",
+      "translation": "শারীরিক কার্যকলাপ"
+    },
+    "videos": {
+      "en": "Videos",
+      "translation": "ভিডিও"
+    },
+    "virtualExplore": {
+      "en": "Virtual Explore",
+      "translation": "ভার্চুয়াল অন্বেষণ"
+    },
+    "places": {
+      "en": "Places",
+      "translation": "জায়গা"
+    },
+    "videoModeling": {
+      "en": "Video Modeling",
+      "translation": "ভিডিও মডেলিং"
+    },
+    "dailyRoutine": {
+      "en": "Daily Routine",
+      "translation": "দৈনন্দিন রুটিন"
+    },
+    "calmCorner": {
+      "en": "Calm Corner",
+      "translation": "শান্ত কোণ"
+    },
+    "myStars": {
+      "en": "My Stars",
+      "translation": "আমার তারা"
+    },
+    "memories": {
+      "en": "Memories",
+      "translation": "স্মৃতি"
+    },
+    "myProfile": {
+      "en": "My Profile",
+      "translation": "আমার প্রোফাইল"
+    },
+    "voiceChat": {
+      "en": "Voice Chat",
+      "translation": "ভয়েস চ্যাট"
+    },
+    "close": {
+      "en": "Close",
+      "translation": "বন্ধ করুন"
+    },
+    "save": {
+      "en": "Save",
+      "translation": "সংরক্ষণ করুন"
+    },
+    "cancel": {
+      "en": "Cancel",
+      "translation": "বাতিল করুন"
+    },
+    "done": {
+      "en": "Done",
+      "translation": "সম্পন্ন"
+    },
+    "next": {
+      "en": "Next",
+      "translation": "পরবর্তী"
+    },
+    "back": {
+      "en": "Back",
+      "translation": "পিছনে"
+    },
+    "start": {
+      "en": "Start",
+      "translation": "শুরু করুন"
+    },
+    "finish": {
+      "en": "Finish",
+      "translation": "সমাপ্ত করুন"
+    },
+    "tryAgain": {
+      "en": "Try Again",
+      "translation": "আবার চেষ্টা করুন"
+    },
+    "readAloud": {
+      "en": "Read aloud",
+      "translation": "জোরে পড়ুন"
+    },
+    "add": {
+      "en": "Add",
+      "translation": "যোগ করুন"
+    },
+    "edit": {
+      "en": "Edit",
+      "translation": "সম্পাদনা করুন"
+    },
+    "delete": {
+      "en": "Delete",
+      "translation": "মুছুন"
+    },
+    "hear": {
+      "en": "Hear",
+      "translation": "শুনুন"
+    },
+    "hearIt": {
+      "en": "Hear it",
+      "translation": "এটি শুনুন"
+    },
+    "open_settings": {
+      "en": "Open Settings",
+      "translation": "সেটিংস খুলুন"
+    },
+    "open_in_app": {
+      "en": "Open in App",
+      "translation": "অ্যাপে খুলুন"
+    },
+    "open_in_safari": {
+      "en": "Open in Safari",
+      "translation": "Safari তে খুলুন"
+    },
+    "open_in_youtube": {
+      "en": "Open in YouTube",
+      "translation": "YouTube এ খুলুন"
+    },
+    "seeAll": {
+      "en": "See All",
+      "translation": "সব দেখুন"
+    },
+    "noResults": {
+      "en": "No results",
+      "translation": "কোনো ফলাফল নেই"
+    },
+    "score": {
+      "en": "Score",
+      "translation": "স্কোর"
+    },
+    "question": {
+      "en": "Question",
+      "translation": "প্রশ্ন"
+    },
+    "today": {
+      "en": "Today",
+      "translation": "আজ"
+    },
+    "thisWeek": {
+      "en": "This Week",
+      "translation": "এই সপ্তাহে"
+    },
+    "allTime": {
+      "en": "All Time",
+      "translation": "সর্বকালের"
+    },
+    "fun_fact": {
+      "en": "Fun fact!",
+      "translation": "মজার তথ্য!"
+    },
+    "why_it_helps": {
+      "en": "Why this helps",
+      "translation": "এটি কেন সাহায্য করে"
+    },
+    "steps": {
+      "en": "Steps",
+      "translation": "ধাপ"
+    },
+    "tips": {
+      "en": "Tips",
+      "translation": "পরামর্শ"
+    },
+    "what_you_need": {
+      "en": "What you need",
+      "translation": "আপনার যা প্রয়োজন"
+    },
+    "key_facts": {
+      "en": "Key Facts",
+      "translation": "মূল তথ্য"
+    },
+    "location": {
+      "en": "Location",
+      "translation": "অবস্থান"
+    },
+    "quickAccess": {
+      "en": "Quick Access",
+      "translation": "দ্রুত অ্যাক্সেস"
+    },
+    "myMemories": {
+      "en": "My Memories",
+      "translation": "আমার স্মৃতি"
+    },
+    "addFirstMemory": {
+      "en": "Add your first memory 📸",
+      "translation": "আপনার প্রথম স্মৃতি যোগ করুন 📸"
+    },
+    "starsToday": {
+      "en": "star(s) earned today!",
+      "translation": "আজ অর্জিত তারা!"
+    },
+    "noStarsYet": {
+      "en": "No stars earned today yet",
+      "translation": "আজ এখনও কোনো তারা অর্জন করেননি"
+    },
+    "tapStarChart": {
+      "en": "Tap to see your star chart",
+      "translation": "আপনার তারা চার্ট দেখতে ট্যাপ করুন"
+    },
+    "emotionTrainer": {
+      "en": "Emotion Trainer",
+      "translation": "আবেগ প্রশিক্ষক"
+    },
+    "emoji_trainer": {
+      "en": "Emotion Trainer",
+      "translation": "আবেগ প্রশিক্ষক"
+    },
+    "howDoYouFeel": {
+      "en": "How do you feel?",
+      "translation": "আপনি কেমন অনুভব করছেন?"
+    },
+    "tapEmotion": {
+      "en": "Tap an emotion to learn about it",
+      "translation": "কোনো আবেগ সম্পর্কে জানতে এটিতে ট্যাপ করুন"
+    },
+    "wellDone": {
+      "en": "Well done!",
+      "translation": "দারুণ করেছ!"
+    },
+    "keepGoing": {
+      "en": "Keep going!",
+      "translation": "চালিয়ে যাও!"
+    },
+    "myProgress": {
+      "en": "My progress",
+      "translation": "আমার অগ্রগতি"
+    },
+    "lets_learn_feelings": {
+      "en": "Let's learn about feelings",
+      "translation": "চলো আবেগ সম্পর্কে শিখি"
+    },
+    "tap_face_to_learn": {
+      "en": "Tap a face to learn about that feeling",
+      "translation": "সেই আবেগ সম্পর্কে জানতে একটি মুখে ট্যাপ করুন"
+    },
+    "tap_to_hear_desc": {
+      "en": "Tap to hear the description",
+      "translation": "বিবরণ শুনতে ট্যাপ করুন"
+    },
+    "what_does_it_feel": {
+      "en": "What does it feel like?",
+      "translation": "এটি কেমন অনুভব হয়?"
+    },
+    "try_making_face": {
+      "en": "Try making this face!",
+      "translation": "এই মুখটি করার চেষ্টা করুন!"
+    },
+    "hear_description": {
+      "en": "Hear a description",
+      "translation": "বিবরণ শুনুন"
+    },
+    "speak_and_get_response": {
+      "en": "Speak and get a friendly response",
+      "translation": "কথা বলুন এবং বন্ধুত্বপূর্ণ উত্তর পান"
+    },
+    "voice_chat_talk_feelings": {
+      "en": "Voice Chat — Talk About Feelings",
+      "translation": "ভয়েস চ্যাট — আবেগ সম্পর্কে কথা বলুন"
+    },
+    "stars_earned": {
+      "en": "⭐ stars earned",
+      "translation": "⭐ তারা অর্জিত"
+    },
+    "can_you_look": {
+      "en": "Can you look...",
+      "translation": "আপনি কি দেখতে পারেন..."
+    },
+    "next_emotion": {
+      "en": "Next emotion",
+      "translation": "পরবর্তী আবেগ"
+    },
+    "hear_tip": {
+      "en": "Hear tip",
+      "translation": "পরামর্শ শুনুন"
+    },
+    "hold_it": {
+      "en": "Hold it!",
+      "translation": "থামুন!"
+    },
+    "camera_needed": {
+      "en": "Camera access needed",
+      "translation": "ক্যামেরা অ্যাক্সেস প্রয়োজন"
+    },
+    "camera_permission": {
+      "en": "Please allow camera access in Settings.",
+      "translation": "অনুগ্রহ করে সেটিংসে ক্যামেরা অ্যাক্সেসের অনুমতি দিন।"
+    },
+    "identify_mode_title": {
+      "en": "Identify Mode",
+      "translation": "শনাক্তকরণ মোড"
+    },
+    "how_does_person_feel": {
+      "en": "How does this person feel?",
+      "translation": "এই ব্যক্তি কেমন অনুভব করছেন?"
+    },
+    "hear_story": {
+      "en": "Hear the story",
+      "translation": "গল্প শুনুন"
+    },
+    "by_emotion": {
+      "en": "By emotion",
+      "translation": "আবেগ অনুসারে"
+    },
+    "recent_attempts": {
+      "en": "Recent attempts",
+      "translation": "সাম্প্রতিক প্রচেষ্টা"
+    },
+    "by_operation": {
+      "en": "By operation",
+      "translation": "অপারেশন অনুসারে"
+    },
+    "recent_problems": {
+      "en": "Recent problems",
+      "translation": "সাম্প্রতিক সমস্যা"
+    },
+    "progress_title": {
+      "en": "Progress",
+      "translation": "অগ্রগতি"
+    },
+    "math_progress": {
+      "en": "Math Progress",
+      "translation": "গণিত অগ্রগতি"
+    },
+    "math_subtitle": {
+      "en": "Maths, Money & Measurements",
+      "translation": "গণিত, টাকা ও পরিমাপ"
+    },
+    "math_videos": {
+      "en": "Videos + practice for every topic",
+      "translation": "প্রতিটি বিষয়ের জন্য ভিডিও + অনুশীলন"
+    },
+    "hear_problem": {
+      "en": "Hear the problem",
+      "translation": "সমস্যা শুনুন"
+    },
+    "englishLessons": {
+      "en": "English Lessons",
+      "translation": "ইংরেজি পাঠ"
+    },
+    "tapToHearWord": {
+      "en": "Tap any card to hear the word spoken",
+      "translation": "উচ্চারিত শব্দ শুনতে যেকোনো কার্ডে ট্যাপ করুন"
+    },
+    "pronunciation": {
+      "en": "Pronunciation",
+      "translation": "উচ্চারণ"
+    },
+    "what_word_matches": {
+      "en": "What word matches this?",
+      "translation": "এর সাথে কোন শব্দ মেলে?"
+    },
+    "scienceLab": {
+      "en": "Science Lab",
+      "translation": "বিজ্ঞান গবেষণাগার"
+    },
+    "funExperiments": {
+      "en": "Fun experiments!",
+      "translation": "মজার পরীক্ষা!"
+    },
+    "safe_at_home": {
+      "en": "Safe to try at home with a grown-up",
+      "translation": "একজন বড়দের সাথে বাড়িতে চেষ্টা করা নিরাপদ"
+    },
+    "why_it_works": {
+      "en": "Why it works",
+      "translation": "এটি কেন কাজ করে"
+    },
+    "you_need": {
+      "en": "You need",
+      "translation": "আপনার প্রয়োজন"
+    },
+    "measurements_subtitle": {
+      "en": "Watch, learn & practise!",
+      "translation": "দেখুন, শিখুন ও অনুশীলন করুন!"
+    },
+    "tap_scenario": {
+      "en": "Tap a scenario to learn about paying and getting change",
+      "translation": "অর্থ প্রদান এবং খুচরা পাওয়া সম্পর্কে জানতে একটি দৃশ্যে ট্যাপ করুন"
+    },
+    "shopkeeper_gives_change": {
+      "en": "The shopkeeper gives you change.",
+      "translation": "দোকানদার আপনাকে খুচরা দেয়।"
+    },
+    "hear_it_explained": {
+      "en": "Hear it explained",
+      "translation": "ব্যাখ্যা শুনুন"
+    },
+    "shopping_title": {
+      "en": "Shopping",
+      "translation": "কেনাকাটা"
+    },
+    "enter_amounts": {
+      "en": "Enter amounts",
+      "translation": "পরিমাণ প্রবেশ করান"
+    },
+    "quick_examples": {
+      "en": "Quick examples",
+      "translation": "দ্রুত উদাহরণ"
+    },
+    "converter": {
+      "en": "Converter",
+      "translation": "কনভার্টার"
+    },
+    "activities_subtitle": {
+      "en": "Skating, painting, drawing and swimming",
+      "translation": "স্কেটিং, পেইন্টিং, অঙ্কন এবং সাঁতার"
+    },
+    "what_you_need_title": {
+      "en": "What you need",
+      "translation": "আপনার যা প্রয়োজন"
+    },
+    "calm_my_body": {
+      "en": "Calm my Body",
+      "translation": "আমার শরীর শান্ত করুন"
+    },
+    "breathing_and_calming": {
+      "en": "Breathing and calming exercises",
+      "translation": "শ্বাস ও শান্ত করার ব্যায়াম"
+    },
+    "breathing_exercises": {
+      "en": "Breathing Exercises",
+      "translation": "শ্বাসের ব্যায়াম"
+    },
+    "calming_activities": {
+      "en": "Calming Activities",
+      "translation": "শান্ত করার কার্যকলাপ"
+    },
+    "tap_or_swipe_to_spin": {
+      "en": "Tap or swipe to spin",
+      "translation": "ঘোরাতে ট্যাপ বা সোয়াইপ করুন"
+    },
+    "pop_bubbles": {
+      "en": "Pop Bubbles",
+      "translation": "বুদবুদ ফাটান"
+    },
+    "dailyRoutineTitle": {
+      "en": "Daily Routine",
+      "translation": "দৈনন্দিন রুটিন"
+    },
+    "allDone": {
+      "en": "All done! Great job! 🎉",
+      "translation": "সব সম্পন্ন! দারুণ! 🎉"
+    },
+    "tasksCompleted": {
+      "en": "tasks completed",
+      "translation": "কাজ সম্পন্ন হয়েছে"
+    },
+    "no_tasks_yet": {
+      "en": "No tasks yet",
+      "translation": "এখনও কোনো কাজ নেই"
+    },
+    "add_task_to_build": {
+      "en": "Tap \\\\\"Add Task\\\\\" to build your daily routine",
+      "translation": "আপনার দৈনন্দিন রুটিন তৈরি করতে \\\"কাজ যোগ করুন\\\" এ ট্যাপ করুন"
+    },
+    "add_task_button": {
+      "en": "Add Task",
+      "translation": "কাজ যোগ করুন"
+    },
+    "celebration_message": {
+      "en": "You finished all your tasks.\\\\nAmazing work today!",
+      "translation": "আপনি আপনার সব কাজ সম্পন্ন করেছেন।\\nআজ দারুণ কাজ!"
+    },
+    "todaySchedule": {
+      "en": "Today's Schedule",
+      "translation": "আজকের সময়সূচি"
+    },
+    "addActivity": {
+      "en": "Add Activity",
+      "translation": "কার্যকলাপ যোগ করুন"
+    },
+    "noActivities": {
+      "en": "No activities scheduled",
+      "translation": "কোনো কার্যকলাপ নির্ধারিত নেই"
+    },
+    "festivals": {
+      "en": "Festivals",
+      "translation": "উৎসব"
+    },
+    "calendar": {
+      "en": "Calendar",
+      "translation": "ক্যালেন্ডার"
+    },
+    "no_activities_scheduled": {
+      "en": "No activities scheduled. Tap + to add.",
+      "translation": "কোনো কার্যকলাপ নির্ধারিত নেই। যোগ করতে + এ ট্যাপ করুন।"
+    },
+    "this_months_festivals": {
+      "en": "This month's festivals",
+      "translation": "এই মাসের উৎসব"
+    },
+    "coming_up_soon": {
+      "en": "Coming up soon",
+      "translation": "শীঘ্রই আসছে"
+    },
+    "how_it_is_celebrated": {
+      "en": "How it is celebrated",
+      "translation": "এটি কীভাবে উদযাপন করা হয়"
+    },
+    "hear_about_it": {
+      "en": "Hear about it",
+      "translation": "এটি সম্পর্কে শুনুন"
+    },
+    "add_time_slot": {
+      "en": "Add Time Slot",
+      "translation": "সময় স্লট যোগ করুন"
+    },
+    "every_day": {
+      "en": "Every day",
+      "translation": "প্রতিদিন"
+    },
+    "myStarsTitle": {
+      "en": "My Stars ⭐️",
+      "translation": "আমার তারা ⭐️"
+    },
+    "earnedToday": {
+      "en": "Earned today",
+      "translation": "আজ অর্জিত"
+    },
+    "totalStars": {
+      "en": "Total stars",
+      "translation": "মোট তারা"
+    },
+    "today_stars": {
+      "en": "Today's Stars",
+      "translation": "আজকের তারা"
+    },
+    "recent_stars": {
+      "en": "Recent Stars",
+      "translation": "সাম্প্রতিক তারা"
+    },
+    "this_week_chart": {
+      "en": "This Week",
+      "translation": "এই সপ্তাহে"
+    },
+    "memories_subtitle": {
+      "en": "Photos and videos of my favourite moments",
+      "translation": "আমার প্রিয় মুহূর্তের ছবি ও ভিডিও"
+    },
+    "add_memory": {
+      "en": "Add a Memory",
+      "translation": "একটি স্মৃতি যোগ করুন"
+    },
+    "no_memories_yet": {
+      "en": "No memories yet!",
+      "translation": "এখনও কোনো স্মৃতি নেই!"
+    },
+    "tap_to_add_memory": {
+      "en": "Tap \\\\\"+\\\\\" to add your first memory",
+      "translation": "আপনার প্রথম স্মৃতি যোগ করতে \\\"+\\\" এ ট্যাপ করুন"
+    },
+    "add_memory_title": {
+      "en": "Add Memory",
+      "translation": "স্মৃতি যোগ করুন"
+    },
+    "choose_from_library": {
+      "en": "Choose from Library",
+      "translation": "লাইব্রেরি থেকে বেছে নিন"
+    },
+    "youtube_video_link": {
+      "en": "YouTube Video Link (optional)",
+      "translation": "YouTube ভিডিও লিঙ্ক (ঐচ্ছিক)"
+    },
+    "about_me": {
+      "en": "About Me",
+      "translation": "আমার সম্পর্কে"
+    },
+    "photo_tab": {
+      "en": "Photos",
+      "translation": "ছবি"
+    },
+    "recordings_tab": {
+      "en": "Recordings",
+      "translation": "রেকর্ডিং"
+    },
+    "interests": {
+      "en": "Interests",
+      "translation": "আগ্রহ"
+    },
+    "edit_profile": {
+      "en": "Edit Profile",
+      "translation": "প্রোফাইল সম্পাদনা করুন"
+    },
+    "no_photos_yet": {
+      "en": "No photos yet",
+      "translation": "এখনও কোনো ছবি নেই"
+    },
+    "no_recordings_yet": {
+      "en": "No recordings yet",
+      "translation": "এখনও কোনো রেকর্ডিং নেই"
+    },
+    "add_media": {
+      "en": "Add",
+      "translation": "যোগ করুন"
+    },
+    "video_stories_subtitle": {
+      "en": "Video stories that teach life skills",
+      "translation": "জীবন দক্ষতা শেখানো ভিডিও গল্প"
+    },
+    "story_summary": {
+      "en": "Story Summary",
+      "translation": "গল্পের সারাংশ"
+    },
+    "video_modeling_subtitle": {
+      "en": "Watch a task to learn how to do it",
+      "translation": "একটি কাজ কীভাবে করতে হয় তা শিখতে দেখুন"
+    },
+    "task_video_examples": {
+      "en": "Task Video Examples",
+      "translation": "কাজের ভিডিও উদাহরণ"
+    },
+    "record_new": {
+      "en": "Record New",
+      "translation": "নতুন রেকর্ড করুন"
+    },
+    "hear_description_btn": {
+      "en": "Hear description",
+      "translation": "বিবরণ শুনুন"
+    },
+    "step_checklist": {
+      "en": "Step checklist (optional)",
+      "translation": "ধাপ চেকলিস্ট (ঐচ্ছিক)"
+    },
+    "refreshes_daily": {
+      "en": "Refreshes daily",
+      "translation": "প্রতিদিন রিফ্রেশ হয়"
+    },
+    "continue_watching": {
+      "en": "Continue Watching",
+      "translation": "দেখা চালিয়ে যান"
+    },
+    "learning_videos": {
+      "en": "Learning Videos",
+      "translation": "শেখার ভিডিও"
+    },
+    "explore_and_learn": {
+      "en": "Explore & learn",
+      "translation": "অন্বেষণ করুন ও শিখুন"
+    },
+    "watch_history": {
+      "en": "Watch History",
+      "translation": "দেখার ইতিহাস"
+    },
+    "video_unavailable": {
+      "en": "Video unavailable",
+      "translation": "ভিডিও অনুপলব্ধ"
+    },
+    "virtual_tours_subtitle": {
+      "en": "Explore the world from your screen",
+      "translation": "আপনার স্ক্রিন থেকে বিশ্ব অন্বেষণ করুন"
+    },
+    "interactive": {
+      "en": "Interactive",
+      "translation": "ইন্টারেক্টিভ"
+    },
+    "explore_from_screen": {
+      "en": "Explore the world from your screen",
+      "translation": "আপনার স্ক্রিন থেকে বিশ্ব অন্বেষণ করুন"
+    },
+    "explore_world": {
+      "en": "Explore the World",
+      "translation": "বিশ্ব অন্বেষণ করুন"
+    },
+    "famous_places": {
+      "en": "Famous places!",
+      "translation": "বিখ্যাত জায়গা!"
+    },
+    "tap_to_learn": {
+      "en": "Tap any place to learn about it",
+      "translation": "যেকোনো জায়গা সম্পর্কে জানতে এটিতে ট্যাপ করুন"
+    },
+    "hear_about_place": {
+      "en": "Hear about this place",
+      "translation": "এই জায়গা সম্পর্কে শুনুন"
+    },
+    "six_second_title": {
+      "en": "6-Second Rule",
+      "translation": "৬-সেকেন্ডের নিয়ম"
+    },
+    "six_second_subtitle": {
+      "en": "A communication strategy for autism",
+      "translation": "অটিজমের জন্য যোগাযোগ কৌশল"
+    },
+    "six_second_explain": {
+      "en": "After asking a question or giving an instruction, wait silently for 6 seconds before repeating.",
+      "translation": "প্রশ্ন করার বা নির্দেশ দেওয়ার পর, পুনরাবৃত্তির আগে ৬ সেকেন্ড নীরবে অপেক্ষা করুন।"
+    },
+    "hear_explanation": {
+      "en": "Hear explanation",
+      "translation": "ব্যাখ্যা শুনুন"
+    },
+    "seconds": {
+      "en": "seconds",
+      "translation": "সেকেন্ড"
+    },
+    "question_or_instruction": {
+      "en": "Question or instruction",
+      "translation": "প্রশ্ন বা নির্দেশ"
+    },
+    "holdToTalk": {
+      "en": "Hold to talk",
+      "translation": "কথা বলতে চেপে ধরুন"
+    },
+    "listening": {
+      "en": "Listening…",
+      "translation": "শুনছে…"
+    },
+    "autiSpeaking": {
+      "en": "Auti is speaking…",
+      "translation": "অটি কথা বলছে…"
+    },
+    "mic_permission": {
+      "en": "Please allow microphone and speech recognition access in Settings.",
+      "translation": "অনুগ্রহ করে সেটিংসে মাইক্রোফোন ও স্পিচ রিকগনিশন অ্যাক্সেসের অনুমতি দিন।"
+    },
+    "talk_about_feelings": {
+      "en": "Tap the mic and talk about how you feel!",
+      "translation": "মাইকে ট্যাপ করুন এবং বলুন আপনি কেমন অনুভব করছেন!"
+    },
+    "lock_app_now": {
+      "en": "Lock App Now",
+      "translation": "এখনই অ্যাপ লক করুন"
+    },
+    "requires_pin": {
+      "en": "Requires PIN to exit",
+      "translation": "বের হতে PIN প্রয়োজন"
+    },
+    "change_unlock_pin": {
+      "en": "Change Unlock PIN",
+      "translation": "আনলক PIN পরিবর্তন করুন"
+    },
+    "app_lock_kiosk": {
+      "en": "App Lock & Kiosk Mode",
+      "translation": "অ্যাপ লক ও কিওস্ক মোড"
+    },
+    "app_lock_desc": {
+      "en": "When locked, the child cannot switch to other apps.",
+      "translation": "লক করা থাকলে, শিশু অন্য অ্যাপে যেতে পারবে না।"
+    },
+    "setup_guided_access": {
+      "en": "Set Up iOS Guided Access",
+      "translation": "iOS গাইডেড অ্যাক্সেস সেট আপ করুন"
+    },
+    "parent_mode_title": {
+      "en": "Parents Mode",
+      "translation": "অভিভাবক মোড"
+    },
+    "parent_mode": {
+      "en": "Parents Mode",
+      "translation": "অভিভাবক মোড"
+    },
+    "position_face": {
+      "en": "Position your face here",
+      "translation": "আপনার মুখ এখানে রাখুন"
+    },
+    "app_is_locked": {
+      "en": "SproutPath is locked",
+      "translation": "SproutPath লক করা আছে"
+    },
+    "ask_parent_to_unlock": {
+      "en": "Ask a parent or carer to unlock",
+      "translation": "আনলক করতে অভিভাবক বা যত্নকারীকে জিজ্ঞাসা করুন"
+    },
+    "language": {
+      "en": "Language",
+      "translation": "ভাষা"
+    },
+    "selectLanguage": {
+      "en": "Select Language",
+      "translation": "ভাষা নির্বাচন করুন"
+    },
+    "changeLanguage": {
+      "en": "Change Language",
+      "translation": "ভাষা পরিবর্তন করুন"
+    },
+    "currentLanguage": {
+      "en": "Current Language",
+      "translation": "বর্তমান ভাষা"
+    },
+    "appLanguage": {
+      "en": "App Language",
+      "translation": "অ্যাপ ভাষা"
+    },
+    "better_voice_available": {
+      "en": "Better voice available",
+      "translation": "আরও ভালো ভয়েস উপলব্ধ"
+    },
+    "download_neural_voice": {
+      "en": "Download Apple's free neural voice for a much more natural sound.",
+      "translation": "আরও স্বাভাবিক শব্দের জন্য Apple এর বিনামূল্যের নিউরাল ভয়েস ডাউনলোড করুন।"
+    },
+    "parent_hub": {
+      "en": "Parents Hub",
+      "translation": "অভিভাবক হাব"
+    },
+    "behavior_journal": {
+      "en": "Behavior Journal",
+      "translation": "আচরণ জার্নাল"
+    },
+    "emergency_card": {
+      "en": "Emergency Card",
+      "translation": "জরুরি কার্ড"
+    },
+    "sensory_profile": {
+      "en": "Sensory Profile",
+      "translation": "সংবেদনশীল প্রোফাইল"
+    },
+    "handoff_notes": {
+      "en": "Handoff Notes",
+      "translation": "হ্যান্ডঅফ নোট"
+    },
+    "progress_summary": {
+      "en": "Progress Summary",
+      "translation": "অগ্রগতি সারাংশ"
+    },
+    "therapist_report": {
+      "en": "Therapist Report",
+      "translation": "থেরাপিস্ট রিপোর্ট"
+    },
+    "goals_tab": {
+      "en": "Goals",
+      "translation": "লক্ষ্য"
+    },
+    "export_report": {
+      "en": "Export Report",
+      "translation": "রিপোর্ট রপ্তানি করুন"
+    },
+    "no_entries": {
+      "en": "No entries yet",
+      "translation": "এখনও কোনো এন্ট্রি নেই"
+    },
+    "add_entry": {
+      "en": "Add Entry",
+      "translation": "এন্ট্রি যোগ করুন"
+    },
+    "patterns": {
+      "en": "Patterns",
+      "translation": "প্যাটার্ন"
+    },
+    "history": {
+      "en": "History",
+      "translation": "ইতিহাস"
+    },
+    "math_tables": {
+      "en": "Times Tables",
+      "translation": "নামতা"
+    },
+    "multiplication_tables": {
+      "en": "Multiplication Tables",
+      "translation": "গুণের নামতা"
+    },
+    "tables_subtitle": {
+      "en": "Learn 1 to 20 times tables with fun!",
+      "translation": "১ থেকে ২০ পর্যন্ত নামতা মজা করে শিখুন!"
+    },
+    "select_table": {
+      "en": "Pick a table to learn",
+      "translation": "শেখার জন্য একটি নামতা নির্বাচন করুন"
+    },
+    "table_of": {
+      "en": "Table of",
+      "translation": "এর নামতা"
+    },
+    "practice_mode": {
+      "en": "Practice",
+      "translation": "অনুশীলন"
+    },
+    "reference_mode": {
+      "en": "Reference",
+      "translation": "রেফারেন্স"
+    },
+    "tables_quiz": {
+      "en": "Quiz Me!",
+      "translation": "আমাকে জিজ্ঞাসা করুন!"
+    },
+    "kids_navigation": {
+      "en": "My Map",
+      "translation": "আমার ম্যাপ"
+    },
+    "where_are_you_going": {
+      "en": "Where are you going?",
+      "translation": "আপনি কোথায় যাচ্ছেন?"
+    },
+    "choose_destination": {
+      "en": "Choose a place to go",
+      "translation": "যাওয়ার জন্য একটি জায়গা বেছে নিন"
+    },
+    "start_navigation": {
+      "en": "Let's Go! 🚀",
+      "translation": "চলুন যাই! 🚀"
+    },
+    "you_are_here": {
+      "en": "You are here! 📍",
+      "translation": "আপনি এখানে আছেন! 📍"
+    },
+    "destination": {
+      "en": "Destination",
+      "translation": "গন্তব্য"
+    },
+    "tap_to_navigate": {
+      "en": "Tap a place to get directions",
+      "translation": "দিকনির্দেশ পেতে একটি জায়গায় ট্যাপ করুন"
+    },
+    "nearby_places": {
+      "en": "Nearby Places",
+      "translation": "কাছাকাছি জায়গা"
+    },
+    "kids_map": {
+      "en": "My Map",
+      "translation": "আমার ম্যাপ"
+    },
+    "favorite_places": {
+      "en": "Favourite Places",
+      "translation": "প্রিয় জায়গা"
+    },
+    "where_are_we_going": {
+      "en": "Where are we going?",
+      "translation": "আমরা কোথায় যাচ্ছি?"
+    },
+    "where_are_we_now": {
+      "en": "Where are we now?",
+      "translation": "আমরা এখন কোথায় আছি?"
+    },
+    "get_directions": {
+      "en": "Get Directions",
+      "translation": "দিকনির্দেশ পান"
+    },
+    "parent_hub_title": {
+      "en": "Parents Hub",
+      "translation": "অভিভাবক হাব"
+    },
+    "handoff_tab": {
+      "en": "Handoff",
+      "translation": "হ্যান্ডঅফ"
+    },
+    "progress_tab": {
+      "en": "Progress",
+      "translation": "অগ্রগতি"
+    },
+    "goals_tab_label": {
+      "en": "Goals",
+      "translation": "লক্ষ্য"
+    },
+    "report_tab": {
+      "en": "Report",
+      "translation": "রিপোর্ট"
+    },
+    "todays_handoff_note": {
+      "en": "Today's Handoff Note",
+      "translation": "আজকের হ্যান্ডঅফ নোট"
+    },
+    "write_todays_note": {
+      "en": "Write today's handoff note",
+      "translation": "আজকের হ্যান্ডঅফ নোট লিখুন"
+    },
+    "previous_notes": {
+      "en": "Previous notes",
+      "translation": "পূর্ববর্তী নোট"
+    },
+    "mood_today": {
+      "en": "Mood today",
+      "translation": "আজকের মেজাজ"
+    },
+    "tonight_works": {
+      "en": "Tonight",
+      "translation": "আজ রাতে"
+    },
+    "how_was_their_day": {
+      "en": "How was their day?",
+      "translation": "তাদের দিন কেমন ছিল?"
+    },
+    "note_for_caregiver": {
+      "en": "Note for caregiver",
+      "translation": "যত্নকারীর জন্য নোট"
+    },
+    "what_works_tonight": {
+      "en": "What works tonight",
+      "translation": "আজ রাতে কী কাজ করে"
+    },
+    "handoff_note_title": {
+      "en": "Handoff Note",
+      "translation": "হ্যান্ডঅফ নোট"
+    },
+    "todays_summary": {
+      "en": "Today's summary",
+      "translation": "আজকের সারাংশ"
+    },
+    "videos_watched_today": {
+      "en": "Videos watched today",
+      "translation": "আজ দেখা ভিডিও"
+    },
+    "suggested_goals": {
+      "en": "Suggested goals for this week",
+      "translation": "এই সপ্তাহের জন্য প্রস্তাবিত লক্ষ্য"
+    },
+    "goal_achieved": {
+      "en": "Goal achieved this week! 🎉",
+      "translation": "এই সপ্তাহে লক্ষ্য অর্জিত! 🎉"
+    },
+    "per_week": {
+      "en": "× per week",
+      "translation": "× প্রতি সপ্তাহ"
+    },
+    "new_goal": {
+      "en": "New Goal",
+      "translation": "নতুন লক্ষ্য"
+    },
+    "goal_label": {
+      "en": "Goal",
+      "translation": "লক্ষ্য"
+    },
+    "target_label": {
+      "en": "Target",
+      "translation": "টার্গেট"
+    },
+    "section_label": {
+      "en": "Section",
+      "translation": "বিভাগ"
+    },
+    "report_period": {
+      "en": "Report period",
+      "translation": "রিপোর্ট সময়কাল"
+    },
+    "last_week": {
+      "en": "Last week",
+      "translation": "গত সপ্তাহ"
+    },
+    "last_2_weeks": {
+      "en": "Last 2 weeks",
+      "translation": "গত ২ সপ্তাহ"
+    },
+    "last_month": {
+      "en": "Last month",
+      "translation": "গত মাস"
+    },
+    "last_3_months": {
+      "en": "Last 3 months",
+      "translation": "গত ৩ মাস"
+    },
+    "emotion_attempts": {
+      "en": "Emotion attempts",
+      "translation": "আবেগ প্রচেষ্টা"
+    },
+    "math_attempts": {
+      "en": "Math attempts",
+      "translation": "গণিত প্রচেষ্টা"
+    },
+    "stars_earned_label": {
+      "en": "Stars earned",
+      "translation": "অর্জিত তারা"
+    },
+    "difficult_moments": {
+      "en": "Difficult moments",
+      "translation": "কঠিন মুহূর্ত"
+    },
+    "emotion_by_type": {
+      "en": "Emotion recognition by type",
+      "translation": "ধরন অনুসারে আবেগ শনাক্তকরণ"
+    },
+    "behavior_summary": {
+      "en": "Behavior summary",
+      "translation": "আচরণ সারাংশ"
+    },
+    "avg_severity": {
+      "en": "Average severity",
+      "translation": "গড় তীব্রতা"
+    },
+    "export_report_btn": {
+      "en": "Export Report",
+      "translation": "রিপোর্ট রপ্তানি করুন"
+    },
+    "log_tab": {
+      "en": "Log",
+      "translation": "লগ"
+    },
+    "patterns_tab": {
+      "en": "Patterns",
+      "translation": "প্যাটার্ন"
+    },
+    "history_tab": {
+      "en": "History",
+      "translation": "ইতিহাস"
+    },
+    "behavior_journal_title": {
+      "en": "Behavior Journal",
+      "translation": "আচরণ জার্নাল"
+    },
+    "today_entries": {
+      "en": "Today",
+      "translation": "আজ"
+    },
+    "quick_log": {
+      "en": "Quick log",
+      "translation": "দ্রুত লগ"
+    },
+    "no_patterns_yet": {
+      "en": "No patterns yet",
+      "translation": "এখনও কোনো প্যাটার্ন নেই"
+    },
+    "add_behavior_entries": {
+      "en": "Add behavior entries to see patterns here.",
+      "translation": "এখানে প্যাটার্ন দেখতে আচরণ এন্ট্রি যোগ করুন।"
+    },
+    "add_first_entry": {
+      "en": "Add First Entry",
+      "translation": "প্রথম এন্ট্রি যোগ করুন"
+    },
+    "time_of_day": {
+      "en": "Time of day",
+      "translation": "দিনের সময়"
+    },
+    "day_of_week": {
+      "en": "Day of week",
+      "translation": "সপ্তাহের দিন"
+    },
+    "most_common_triggers": {
+      "en": "Most common triggers",
+      "translation": "সবচেয়ে সাধারণ ট্রিগার"
+    },
+    "what_helped_most": {
+      "en": "What helped most",
+      "translation": "কোনটি সবচেয়ে বেশি সাহায্য করেছে"
+    },
+    "no_resolutions_yet": {
+      "en": "No resolutions logged yet — add some in your entries!",
+      "translation": "এখনও কোনো সমাধান লগ করা হয়নি — আপনার এন্ট্রিতে কিছু যোগ করুন!"
+    },
+    "no_history_yet": {
+      "en": "No history yet",
+      "translation": "এখনও কোনো ইতিহাস নেই"
+    },
+    "history_over_time": {
+      "en": "Your logged entries will appear here over time.",
+      "translation": "আপনার লগ করা এন্ট্রিগুলি সময়ের সাথে এখানে দেখা যাবে।"
+    },
+    "no_entries_today": {
+      "en": "No entries today",
+      "translation": "আজ কোনো এন্ট্রি নেই"
+    },
+    "tap_to_log_moment": {
+      "en": "Tap + to log a difficult moment, or use Quick Log above",
+      "translation": "একটি কঠিন মুহূর্ত লগ করতে + এ ট্যাপ করুন, বা উপরের দ্রুত লগ ব্যবহার করুন"
+    },
+    "what_happened": {
+      "en": "What happened?",
+      "translation": "কী হয়েছে?"
+    },
+    "trigger_placeholder": {
+      "en": "Trigger (e.g. loud noise, routine change)",
+      "translation": "ট্রিগার (যেমন জোরে শব্দ, রুটিন পরিবর্তন)"
+    },
+    "how_bad_was_it": {
+      "en": "How bad was it?",
+      "translation": "এটি কতটা খারাপ ছিল?"
+    },
+    "details_section": {
+      "en": "Details",
+      "translation": "বিবরণ"
+    },
+    "location_label": {
+      "en": "Location",
+      "translation": "অবস্থান"
+    },
+    "duration_label": {
+      "en": "Duration",
+      "translation": "সময়কাল"
+    },
+    "what_helped": {
+      "en": "What helped resolve it?",
+      "translation": "এটি সমাধান করতে কী সাহায্য করেছে?"
+    },
+    "resolution_placeholder": {
+      "en": "e.g. quiet room, deep pressure",
+      "translation": "যেমন শান্ত ঘর, গভীর চাপ"
+    },
+    "additional_notes": {
+      "en": "Additional notes (optional)",
+      "translation": "অতিরিক্ত নোট (ঐচ্ছিক)"
+    },
+    "log_entry_title": {
+      "en": "Log Entry",
+      "translation": "এন্ট্রি লগ করুন"
+    },
+    "darker_more": {
+      "en": "Darker = more entries in that time window",
+      "translation": "গাঢ় = সেই সময় উইন্ডোতে বেশি এন্ট্রি"
+    },
+    "trigger_label": {
+      "en": "Trigger",
+      "translation": "ট্রিগার"
+    },
+    "severity_label": {
+      "en": "Severity",
+      "translation": "তীব্রতা"
+    },
+    "emergency_card_title": {
+      "en": "Emergency Card",
+      "translation": "জরুরি কার্ড"
+    },
+    "emergency_card_info": {
+      "en": "Fill in your child's details below. In an emergency, tap Share to show this card to anyone who needs to help.",
+      "translation": "নিচে আপনার সন্তানের বিবরণ পূরণ করুন। জরুরি অবস্থায়, সাহায্য করতে হবে এমন যে কাউকে এই কার্ড দেখাতে শেয়ারে ট্যাপ করুন।"
+    },
+    "edit_card": {
+      "en": "Edit Card",
+      "translation": "কার্ড সম্পাদনা করুন"
+    },
+    "share_card": {
+      "en": "Share",
+      "translation": "শেয়ার করুন"
+    },
+    "your_childs_name": {
+      "en": "Your child's name",
+      "translation": "আপনার সন্তানের নাম"
+    },
+    "how_they_comm": {
+      "en": "How I communicate",
+      "translation": "আমি কীভাবে যোগাযোগ করি"
+    },
+    "add_emergency_contacts": {
+      "en": "Add emergency contacts by editing the card",
+      "translation": "কার্ড সম্পাদনা করে জরুরি যোগাযোগ যোগ করুন"
+    },
+    "edit_emergency_card": {
+      "en": "Edit Emergency Card",
+      "translation": "জরুরি কার্ড সম্পাদনা করুন"
+    },
+    "child_section": {
+      "en": "Child",
+      "translation": "শিশু"
+    },
+    "full_name": {
+      "en": "Full name",
+      "translation": "পূর্ণ নাম"
+    },
+    "age_label": {
+      "en": "Age",
+      "translation": "বয়স"
+    },
+    "diagnosis_label": {
+      "en": "Diagnosis",
+      "translation": "রোগ নির্ণয়"
+    },
+    "communication_section": {
+      "en": "Communication",
+      "translation": "যোগাযোগ"
+    },
+    "how_they_communicate": {
+      "en": "How they communicate",
+      "translation": "তারা কীভাবে যোগাযোগ করে"
+    },
+    "calming_section": {
+      "en": "What helps calm them down — comma separated",
+      "translation": "তাদের শান্ত করতে কী সাহায্য করে — কমা দিয়ে আলাদা করুন"
+    },
+    "calming_placeholder": {
+      "en": "e.g. quiet space, music, blanket",
+      "translation": "যেমন শান্ত জায়গা, সঙ্গীত, কম্বল"
+    },
+    "do_not_section": {
+      "en": "Please do NOT — comma separated",
+      "translation": "অনুগ্রহ করে করবেন না — কমা দিয়ে আলাদা করুন"
+    },
+    "do_not_placeholder": {
+      "en": "e.g. raise voice, touch without warning",
+      "translation": "যেমন গলা উঁচু করবেন না, সতর্কতা ছাড়া স্পর্শ করবেন না"
+    },
+    "emergency_contact_1": {
+      "en": "Emergency contact 1",
+      "translation": "জরুরি যোগাযোগ ১"
+    },
+    "emergency_contact_2": {
+      "en": "Emergency contact 2 (optional)",
+      "translation": "জরুরি যোগাযোগ ২ (ঐচ্ছিক)"
+    },
+    "doctor_section": {
+      "en": "Doctor / therapist",
+      "translation": "ডাক্তার / থেরাপিস্ট"
+    },
+    "medical_section": {
+      "en": "Medical notes (optional)",
+      "translation": "চিকিৎসা নোট (ঐচ্ছিক)"
+    },
+    "medical_placeholder": {
+      "en": "Allergies, medication, conditions...",
+      "translation": "অ্যালার্জি, ওষুধ, অবস্থা..."
+    },
+    "name_placeholder": {
+      "en": "Name",
+      "translation": "নাম"
+    },
+    "phone_label": {
+      "en": "Phone number",
+      "translation": "ফোন নম্বর"
+    },
+    "sensory_profile_title": {
+      "en": "Sensory Profile",
+      "translation": "সংবেদনশীল প্রোফাইল"
+    },
+    "sensory_profile_info": {
+      "en": "This profile helps anyone caring for your child understand their sensory needs at a glance.",
+      "translation": "এই প্রোফাইল আপনার সন্তানের যত্ন নেওয়া যে কাউকে তাদের সংবেদনশীল চাহিদা এক নজরে বুঝতে সাহায্য করে।"
+    },
+    "sensory_share_btn": {
+      "en": "Share",
+      "translation": "শেয়ার করুন"
+    },
+    "sensitive_label": {
+      "en": "Sensitive",
+      "translation": "সংবেদনশীল"
+    },
+    "neutral_label": {
+      "en": "Neutral",
+      "translation": "নিরপেক্ষ"
+    },
+    "seeking_label": {
+      "en": "Seeking",
+      "translation": "অন্বেষণকারী"
+    },
+    "sensitive_meaning": {
+      "en": "Avoids / bothered by",
+      "translation": "এড়িয়ে চলে / বিরক্ত হয়"
+    },
+    "neutral_meaning": {
+      "en": "Comfortable with",
+      "translation": "এতে স্বাচ্ছন্দ্য"
+    },
+    "seeking_meaning": {
+      "en": "Seeks out / craves",
+      "translation": "খোঁজে / পছন্দ করে"
+    },
+    "examples_label": {
+      "en": "Examples:",
+      "translation": "উদাহরণ:"
+    },
+    "additional_notes_placeholder": {
+      "en": "Additional notes...",
+      "translation": "অতিরিক্ত নোট..."
+    },
+    "edit_sensory_profile": {
+      "en": "Edit Sensory Profile",
+      "translation": "সংবেদনশীল প্রোফাইল সম্পাদনা করুন"
+    },
+    "visual_timer": {
+      "en": "Visual Timer",
+      "translation": "ভিজ্যুয়াল টাইমার"
+    },
+    "visual_timer_hint": {
+      "en": "Time until we leave",
+      "translation": "রওনা হওয়া পর্যন্ত সময়"
+    },
+    "timer_done": {
+      "en": "Time's up!",
+      "translation": "সময় শেষ!"
+    },
+    "custom_time": {
+      "en": "Custom",
+      "translation": "কাস্টম"
+    },
+    "enter_label": {
+      "en": "Label this timer",
+      "translation": "এই টাইমারে লেবেল দিন"
+    },
+    "my_stories": {
+      "en": "My Stories",
+      "translation": "আমার গল্প"
+    },
+    "my_stories_hint": {
+      "en": "Create personal social stories with your child's name and places",
+      "translation": "আপনার সন্তানের নাম ও জায়গা দিয়ে ব্যক্তিগত সামাজিক গল্প তৈরি করুন"
+    },
+    "no_stories_yet": {
+      "en": "No stories yet",
+      "translation": "এখনও কোনো গল্প নেই"
+    },
+    "create_first_story": {
+      "en": "Tap + to create your first personalised story",
+      "translation": "আপনার প্রথম ব্যক্তিগত গল্প তৈরি করতে + এ ট্যাপ করুন"
+    },
+    "create_story": {
+      "en": "Create Story",
+      "translation": "গল্প তৈরি করুন"
+    },
+    "pages": {
+      "en": "pages",
+      "translation": "পৃষ্ঠা"
+    },
+    "no_pages_yet": {
+      "en": "No pages yet. Tap + to add pages.",
+      "translation": "এখনও কোনো পৃষ্ঠা নেই। পৃষ্ঠা যোগ করতে + এ ট্যাপ করুন।"
+    },
+    "the_end": {
+      "en": "The End! 🌟",
+      "translation": "সমাপ্ত! 🌟"
+    },
+    "story_details": {
+      "en": "Story Details",
+      "translation": "গল্পের বিবরণ"
+    },
+    "story_title": {
+      "en": "Story title",
+      "translation": "গল্পের শিরোনাম"
+    },
+    "add_page": {
+      "en": "Add Page",
+      "translation": "পৃষ্ঠা যোগ করুন"
+    },
+    "page_text": {
+      "en": "Page Text",
+      "translation": "পৃষ্ঠার টেক্সট"
+    },
+    "what_happened_here": {
+      "en": "What happens on this page?",
+      "translation": "এই পৃষ্ঠায় কী হয়?"
+    },
+    "page_icon": {
+      "en": "Icon",
+      "translation": "আইকন"
+    },
+    "page_background": {
+      "en": "Background",
+      "translation": "পটভূমি"
+    },
+    "mother_tongue": {
+      "en": "Mother Tongue",
+      "translation": "মাতৃভাষা"
+    },
+    "mother_tongue_hint": {
+      "en": "Learn words in your language",
+      "translation": "আপনার ভাষায় শব্দ শিখুন"
+    },
+    "learn_language_format": {
+      "en": "Learn %@",
+      "translation": "%@ শিখুন"
+    },
+    "switch_profile": {
+      "en": "Switch Profile",
+      "translation": "প্রোফাইল পরিবর্তন করুন"
+    },
+    "guided_access_active": {
+      "en": "iOS Guided Access: Active",
+      "translation": "iOS গাইডেড অ্যাক্সেস: সক্রিয়"
+    },
+    "guided_access_off": {
+      "en": "iOS Guided Access: Off",
+      "translation": "iOS গাইডেড অ্যাক্সেস: বন্ধ"
+    },
+    "set_unlock_pin": {
+      "en": "Set Unlock PIN",
+      "translation": "আনলক PIN সেট করুন"
+    },
+    "locked_explain": {
+      "en": "When locked, the child cannot switch to other apps or access the home screen without entering your PIN.",
+      "translation": "লক করা থাকলে, শিশু আপনার PIN প্রবেশ না করে অন্য অ্যাপে যেতে বা হোম স্ক্রিন অ্যাক্সেস করতে পারবে না।"
+    },
+    "need_pin_first": {
+      "en": "You must set a 4-digit unlock PIN before App Lock can be enabled. Choose a PIN your child does not know.",
+      "translation": "অ্যাপ লক সক্ষম করার আগে আপনাকে একটি ৪-সংখ্যার আনলক PIN সেট করতে হবে। এমন একটি PIN বেছে নিন যা আপনার সন্তান জানে না।"
+    },
+    "display": {
+      "en": "Display",
+      "translation": "ডিসপ্লে"
+    },
+    "voice_and_audio": {
+      "en": "Voice & Audio",
+      "translation": "ভয়েস ও অডিও"
+    },
+    "parent_tools": {
+      "en": "Parent Tools",
+      "translation": "অভিভাবক টুল"
+    },
+    "emergency_info_card": {
+      "en": "Emergency Info Card",
+      "translation": "জরুরি তথ্য কার্ড"
+    },
+    "delete_symbol_title": {
+      "en": "Delete Symbol?",
+      "translation": "প্রতীক মুছবেন?"
+    },
+    "remove_from_board": {
+      "en": "Remove \"%@\" from the board?",
+      "translation": "বোর্ড থেকে \"%@\" সরাবেন?"
+    },
+    "change_pin_title": {
+      "en": "Change PIN",
+      "translation": "PIN পরিবর্তন করুন"
+    },
+    "new_pin_section": {
+      "en": "New 4-Digit PIN",
+      "translation": "নতুন ৪-সংখ্যার PIN"
+    },
+    "new_pin_field": {
+      "en": "New PIN",
+      "translation": "নতুন PIN"
+    },
+    "confirm_pin_field": {
+      "en": "Confirm PIN",
+      "translation": "PIN নিশ্চিত করুন"
+    },
+    "pin_advice": {
+      "en": "Choose a PIN your child can't guess. Avoid 1234, 0000, or any 4 of the same digit.",
+      "translation": "এমন একটি PIN বেছে নিন যা আপনার সন্তান অনুমান করতে পারবে না। ১২৩৪, ০০০০, বা একই সংখ্যা ৪ বার এড়িয়ে চলুন।"
+    },
+    "pin_mismatch": {
+      "en": "PINs don't match or aren't 4 digits",
+      "translation": "PIN মেলে না বা ৪ সংখ্যার নয়"
+    },
+    "pin_too_easy": {
+      "en": "PIN too easy to guess — choose another",
+      "translation": "PIN অনুমান করা খুব সহজ — অন্য একটি বেছে নিন"
+    },
+    "used_n_times": {
+      "en": "Used %d times",
+      "translation": "%d বার ব্যবহৃত"
+    },
+    "quick_places": {
+      "en": "Quick places 📍",
+      "translation": "দ্রুত জায়গা 📍"
+    },
+    "pick_start_and_end": {
+      "en": "Pick a start and end place!",
+      "translation": "একটি শুরু এবং শেষের জায়গা বেছে নিন!"
+    },
+    "quick_destinations": {
+      "en": "Quick destinations",
+      "translation": "দ্রুত গন্তব্য"
+    },
+    "save_places_hint": {
+      "en": "Save places you visit often",
+      "translation": "আপনি প্রায়ই যান এমন জায়গা সংরক্ষণ করুন"
+    },
+    "no_favourite_places": {
+      "en": "No favourite places yet!",
+      "translation": "এখনও কোনো প্রিয় জায়গা নেই!"
+    },
+    "tap_plus_to_add": {
+      "en": "Tap + to add home, school, or your favourite park.",
+      "translation": "বাড়ি, স্কুল, বা আপনার প্রিয় পার্ক যোগ করতে + এ ট্যাপ করুন।"
+    },
+    "journey_info": {
+      "en": "🗺️ Journey Info",
+      "translation": "🗺️ যাত্রা তথ্য"
+    },
+    "distance_label": {
+      "en": "Distance",
+      "translation": "দূরত্ব"
+    },
+    "travel_time": {
+      "en": "Travel time",
+      "translation": "যাত্রা সময়"
+    },
+    "add_favourite_place": {
+      "en": "Add a Favourite Place",
+      "translation": "প্রিয় জায়গা যোগ করুন"
+    },
+    "choose_emoji": {
+      "en": "Choose an emoji",
+      "translation": "একটি ইমোজি বেছে নিন"
+    },
+    "current_location_warning": {
+      "en": "⚠️ Your current location will be saved for this place.",
+      "translation": "⚠️ এই জায়গার জন্য আপনার বর্তমান অবস্থান সংরক্ষণ করা হবে।"
+    },
+    "save_place": {
+      "en": "Save Place ⭐",
+      "translation": "জায়গা সংরক্ষণ করুন ⭐"
+    },
+    "explore_tab": {
+      "en": "Explore",
+      "translation": "অন্বেষণ করুন"
+    },
+    "navigate_tab": {
+      "en": "Navigate",
+      "translation": "নেভিগেট করুন"
+    },
+    "favourites_tab": {
+      "en": "Favourites",
+      "translation": "প্রিয়"
+    },
+    "first_then_title": {
+      "en": "First ... Then ...",
+      "translation": "প্রথমে ... তারপর ..."
+    },
+    "first_then_subtitle": {
+      "en": "Do this first, then you get that!",
+      "translation": "প্রথমে এটি করুন, তারপর আপনি সেটি পাবেন!"
+    },
+    "feelings_check_in": {
+      "en": "Feelings Check-In",
+      "translation": "অনুভূতি পরীক্ষা"
+    },
+    "feelings_check_in_sub": {
+      "en": "How am I feeling right now?",
+      "translation": "আমি এখন কেমন অনুভব করছি?"
+    },
+    "my_worries_box": {
+      "en": "My Worries Box",
+      "translation": "আমার চিন্তার বাক্স"
+    },
+    "my_worries_box_sub": {
+      "en": "Write a worry and let it go",
+      "translation": "একটি চিন্তা লিখুন এবং তা ছেড়ে দিন"
+    },
+    "choice_board": {
+      "en": "What Do I Choose?",
+      "translation": "আমি কী বেছে নেব?"
+    },
+    "choice_board_sub": {
+      "en": "Tap what you want to do",
+      "translation": "আপনি যা করতে চান তাতে ট্যাপ করুন"
+    },
+    "daily_tools": {
+      "en": "Daily Tools 🌻",
+      "translation": "দৈনন্দিন টুল 🌻"
+    },
+    "check_in_again": {
+      "en": "Check in again",
+      "translation": "আবার পরীক্ষা করুন"
+    },
+    "tap_how_you_feel": {
+      "en": "Tap how you feel right now:",
+      "translation": "আপনি এখন কেমন অনুভব করছেন তাতে ট্যাপ করুন:"
+    },
+    "how_strong_feeling": {
+      "en": "How strong is this feeling?",
+      "translation": "এই অনুভূতি কতটা শক্তিশালী?"
+    },
+    "a_little": {
+      "en": "A little",
+      "translation": "একটু"
+    },
+    "a_lot": {
+      "en": "A lot",
+      "translation": "অনেক"
+    },
+    "save_my_feeling": {
+      "en": "Save my feeling ✅",
+      "translation": "আমার অনুভূতি সংরক্ষণ করুন ✅"
+    },
+    "what_are_you_worried": {
+      "en": "What are you worried about?",
+      "translation": "আপনি কী নিয়ে চিন্তিত?"
+    },
+    "put_in_box": {
+      "en": "Put it in the box",
+      "translation": "এটি বাক্সে রাখুন"
+    },
+    "worry_stored": {
+      "en": "📦 Worry stored! You did great. 🌟",
+      "translation": "📦 চিন্তা সংরক্ষিত! আপনি দারুণ করেছেন। 🌟"
+    },
+    "my_worries_count": {
+      "en": "My worries box (%@)",
+      "translation": "আমার চিন্তার বাক্স (%@)"
+    },
+    "choose_again": {
+      "en": "Choose again",
+      "translation": "আবার বেছে নিন"
+    },
+    "i_feel_label": {
+      "en": "I feel %@!",
+      "translation": "আমি %@ অনুভব করছি!"
+    },
+    "intensity_label": {
+      "en": "Intensity: %@/5",
+      "translation": "তীব্রতা: %@/5"
+    },
+    "i_choose_label": {
+      "en": "I choose: %@!",
+      "translation": "আমি বেছে নিই: %@!"
+    },
+    "tap_add_task_hint": {
+      "en": "Tap \"Add Task\" to build your daily routine",
+      "translation": "আপনার দৈনন্দিন রুটিন তৈরি করতে \"কাজ যোগ করুন\" এ ট্যাপ করুন"
+    },
+    "done_check": {
+      "en": "Done ✓",
+      "translation": "সম্পন্ন ✓"
+    },
+    "colour_label": {
+      "en": "Colour",
+      "translation": "রঙ"
+    },
+    "all_tasks_done": {
+      "en": "You finished all your tasks.\\nAmazing work today!",
+      "translation": "আপনি আপনার সব কাজ সম্পন্ন করেছেন।\\nআজ দারুণ কাজ!"
+    },
+    "no_stars_yet_earn": {
+      "en": "No stars yet today — earn your first one!",
+      "translation": "আজ এখনও কোনো তারা নেই — আপনার প্রথমটি অর্জন করুন!"
+    },
+    "star_label": {
+      "en": "Star",
+      "translation": "তারা"
+    },
+    "add_star": {
+      "en": "Add Star",
+      "translation": "তারা যোগ করুন"
+    },
+    "tap_add_memory_hint": {
+      "en": "Tap \"Add a Memory\" to save a photo or video of something special.",
+      "translation": "বিশেষ কিছুর ছবি বা ভিডিও সংরক্ষণ করতে \"একটি স্মৃতি যোগ করুন\" এ ট্যাপ করুন।"
+    },
+    "delete_memory": {
+      "en": "Delete Memory",
+      "translation": "স্মৃতি মুছুন"
+    },
+    "check_answer": {
+      "en": "Check ✓",
+      "translation": "পরীক্ষা করুন ✓"
+    },
+    "the_answer_is": {
+      "en": "The answer is %@.",
+      "translation": "উত্তর হল %@।"
+    },
+    "times_table_title": {
+      "en": "Times Tables 1–20",
+      "translation": "নামতা ১–২০"
+    },
+    "times_table_subtitle": {
+      "en": "Learn & quiz yourself on all 20 tables!",
+      "translation": "সব ২০টি নামতা শিখুন ও নিজেকে পরীক্ষা করুন!"
+    },
+    "fetching_content": {
+      "en": "Fetching the latest content from the server.",
+      "translation": "সার্ভার থেকে সর্বশেষ বিষয়বস্তু আনা হচ্ছে।"
+    },
+    "couldnt_load_videos": {
+      "en": "Couldn't load videos",
+      "translation": "ভিডিও লোড করা যায়নি"
+    },
+    "no_videos_yet": {
+      "en": "No videos yet",
+      "translation": "এখনও কোনো ভিডিও নেই"
+    },
+    "pull_to_refresh": {
+      "en": "Pull down to refresh, or check your internet connection.",
+      "translation": "রিফ্রেশ করতে নিচে টানুন, বা আপনার ইন্টারনেট সংযোগ পরীক্ষা করুন।"
+    },
+    "updating_videos": {
+      "en": "Updating videos…",
+      "translation": "ভিডিও আপডেট হচ্ছে…"
+    },
+    "connecting_to_server": {
+      "en": "Connecting to server…",
+      "translation": "সার্ভারের সাথে সংযোগ হচ্ছে…"
+    },
+    "video_unavailable_in_app": {
+      "en": "Video unavailable in-app",
+      "translation": "ভিডিও অ্যাপে অনুপলব্ধ"
+    },
+    "video_unavailable_desc": {
+      "en": "This video cannot be played in-app. Tap below to watch it on YouTube.",
+      "translation": "এই ভিডিওটি অ্যাপে চালানো যাবে না। YouTube এ দেখতে নিচে ট্যাপ করুন।"
+    },
+    "watch_on_youtube": {
+      "en": "Watch on YouTube",
+      "translation": "YouTube এ দেখুন"
+    },
+    "tags_label": {
+      "en": "Tags",
+      "translation": "ট্যাগ"
+    },
+    "family_faces": {
+      "en": "My People 👨‍👩‍👧‍👦",
+      "translation": "আমার মানুষজন 👨‍👩‍👧‍👦"
+    },
+    "coloring_canvas": {
+      "en": "Colouring 🎨",
+      "translation": "রঙ করা 🎨"
+    },
+    "add_person": {
+      "en": "Add Person",
+      "translation": "ব্যক্তি যোগ করুন"
+    },
+    "who_is_this_person": {
+      "en": "Who is this?",
+      "translation": "এই ব্যক্তি কে?"
+    },
+    "face_data_privacy": {
+      "en": "Face data stays on your device — never sent to the cloud",
+      "translation": "মুখের ডেটা আপনার ডিভাইসেই থাকে — কখনও ক্লাউডে পাঠানো হয় না"
+    },
+    "add_family_friends": {
+      "en": "Add your family and friends!",
+      "translation": "আপনার পরিবার ও বন্ধুদের যোগ করুন!"
+    },
+    "tap_add_person_hint": {
+      "en": "Tap \"Add Person\" to save a photo and name for people you know.",
+      "translation": "আপনি চেনেন এমন ব্যক্তিদের ছবি ও নাম সংরক্ষণ করতে \"ব্যক্তি যোগ করুন\" এ ট্যাপ করুন।"
+    },
+    "i_know_this_person": {
+      "en": "👋 I know this person!",
+      "translation": "👋 আমি এই ব্যক্তিকে চিনি!"
+    },
+    "take_or_upload": {
+      "en": "Take or upload a photo\\nto identify who this is",
+      "translation": "এই ব্যক্তি কে তা শনাক্ত করতে\\nএকটি ছবি তুলুন বা আপলোড করুন"
+    },
+    "matching_face": {
+      "en": "Matching face…",
+      "translation": "মুখ মেলানো হচ্ছে…"
+    },
+    "take_a_photo": {
+      "en": "Take a Photo",
+      "translation": "একটি ছবি তুলুন"
+    },
+    "upload_from_library": {
+      "en": "Upload from Library",
+      "translation": "লাইব্রেরি থেকে আপলোড করুন"
+    },
+    "match_confidence": {
+      "en": "Match confidence",
+      "translation": "মিল আত্মবিশ্বাস"
+    },
+    "no_face_found": {
+      "en": "No face found. Try again with a clearer photo.",
+      "translation": "কোনো মুখ পাওয়া যায়নি। একটি স্পষ্ট ছবি দিয়ে আবার চেষ্টা করুন।"
+    },
+    "or_separator": {
+      "en": "or",
+      "translation": "অথবা"
+    },
+    "camera_label": {
+      "en": "Camera",
+      "translation": "ক্যামেরা"
+    },
+    "library_label": {
+      "en": "Library",
+      "translation": "লাইব্রেরি"
+    },
+    "mic_permission_needed": {
+      "en": "Please allow microphone and speech recognition access in Settings to use Voice Chat.",
+      "translation": "ভয়েস চ্যাট ব্যবহার করতে অনুগ্রহ করে সেটিংসে মাইক্রোফোন ও স্পিচ রিকগনিশন অ্যাক্সেসের অনুমতি দিন।"
+    },
+    "im_here_to_listen": {
+      "en": "I'm here to listen 💛",
+      "translation": "আমি শুনতে এখানে আছি 💛"
+    },
+    "saved_to_photos": {
+      "en": "🎉 Saved to Photos!",
+      "translation": "🎉 ছবিতে সংরক্ষিত!"
+    },
+    "pick_outline_hint": {
+      "en": "Pick an outline to colour in, or start with a blank canvas.",
+      "translation": "রঙ করতে একটি রূপরেখা বেছে নিন, বা একটি খালি ক্যানভাস দিয়ে শুরু করুন।"
+    },
+    "templates_label": {
+      "en": "Templates",
+      "translation": "টেমপ্লেট"
+    },
+    "learning_made_joyful": {
+      "en": "Learning made joyful",
+      "translation": "শেখাকে আনন্দময় করা হয়েছে"
+    },
+    "personalise_hint": {
+      "en": "Personalise the app so your child gets the right videos — in their language, matched to their interests.",
+      "translation": "আপনার সন্তান যাতে সঠিক ভিডিও পায় তার জন্য অ্যাপটি ব্যক্তিগতকৃত করুন — তাদের ভাষায়, তাদের আগ্রহ অনুযায়ী।"
+    },
+    "get_started": {
+      "en": "Get Started",
+      "translation": "শুরু করুন"
+    },
+    "childs_name": {
+      "en": "Child's name",
+      "translation": "সন্তানের নাম"
+    },
+    "prefs_saved": {
+      "en": "Your preferences are saved. SproutPath will now show videos and activities tailored just for you.",
+      "translation": "আপনার পছন্দ সংরক্ষিত হয়েছে। SproutPath এখন আপনার জন্য বিশেষভাবে তৈরি ভিডিও ও কার্যকলাপ দেখাবে।"
+    },
+    "start_learning": {
+      "en": "Start Learning",
+      "translation": "শেখা শুরু করুন"
+    },
+    "next_question_arrow": {
+      "en": "Next question →",
+      "translation": "পরবর্তী প্রশ্ন →"
+    },
+    "camera_permission_desc": {
+      "en": "Please allow camera access in Settings so the app can see your face expressions.",
+      "translation": "অ্যাপটি আপনার মুখের অভিব্যক্তি দেখতে পারে তার জন্য অনুগ্রহ করে সেটিংসে ক্যামেরা অ্যাক্সেসের অনুমতি দিন।"
+    },
+    "simulator_note": {
+      "en": "Mirror Mode uses the front camera. Run on a real device to use face detection.",
+      "translation": "মিরর মোড সামনের ক্যামেরা ব্যবহার করে। মুখ শনাক্তকরণ ব্যবহার করতে আসল ডিভাইসে চালান।"
+    },
+    "auto_detected": {
+      "en": "Auto-detected",
+      "translation": "স্বয়ংক্রিয়ভাবে শনাক্ত"
+    },
+    "change_label": {
+      "en": "Change",
+      "translation": "পরিবর্তন করুন"
+    },
+    "these_are_notes": {
+      "en": "These are the %@ notes and coins",
+      "translation": "এগুলি %@ নোট ও মুদ্রা"
+    },
+    "facts_count": {
+      "en": "%d facts",
+      "translation": "%d তথ্য"
+    },
+    "try_it_label": {
+      "en": "Try It! 🎯",
+      "translation": "চেষ্টা করুন! 🎯"
+    },
+    "media_label": {
+      "en": "Media",
+      "translation": "মিডিয়া"
+    },
+    "photos_count": {
+      "en": "Photos (%d)",
+      "translation": "ছবি (%d)"
+    },
+    "recordings_count": {
+      "en": "Recordings (%d)",
+      "translation": "রেকর্ডিং (%d)"
+    },
+    "record_label": {
+      "en": "Record",
+      "translation": "রেকর্ড"
+    },
+    "notes_label": {
+      "en": "Notes",
+      "translation": "নোট"
+    },
+    "age_display": {
+      "en": "Age %d",
+      "translation": "বয়স %d"
+    },
+    "use_this_profile": {
+      "en": "Use this",
+      "translation": "এটি ব্যবহার করুন"
+    },
+    "from_setup": {
+      "en": "From setup",
+      "translation": "সেটআপ থেকে"
+    },
+    "about_sprout_path": {
+      "en": "About SproutPath",
+      "translation": "SproutPath সম্পর্কে"
+    },
+    "about_description": {
+      "en": "SproutPath is a gentle, child-friendly learning companion designed to support neurodivergent children and their families. It combines emotions, study, daily routines, calming tools, and parent resources into one calm space — built around the way real children learn and play.",
+      "translation": "SproutPath হল একটি কোমল, শিশু-বান্ধব শেখার সঙ্গী যা নিউরোডাইভার্জেন্ট শিশু ও তাদের পরিবারকে সহায়তা করার জন্য ডিজাইন করা হয়েছে। এটি আবেগ, পড়াশোনা, দৈনন্দিন রুটিন, শান্ত করার টুল ও অভিভাবক সংস্থানকে একটি শান্ত জায়গায় একত্রিত করে — আসল শিশুরা যেভাবে শেখে ও খেলে তার চারপাশে তৈরি।"
+    },
+    "made_with_care": {
+      "en": "Made with care for children, parents, caregivers, and therapists. Thank you for using SproutPath.",
+      "translation": "শিশু, অভিভাবক, যত্নকারী ও থেরাপিস্টদের জন্য যত্ন সহকারে তৈরি। SproutPath ব্যবহার করার জন্য ধন্যবাদ।"
+    },
+    "visit_website": {
+      "en": "Visit our website",
+      "translation": "আমাদের ওয়েবসাইট দেখুন"
+    },
+    "faq_intro": {
+      "en": "Frequently asked questions about using SproutPath. Tap a question to read the answer.",
+      "translation": "SproutPath ব্যবহার সম্পর্কে প্রায়শই জিজ্ঞাসিত প্রশ্ন। উত্তর পড়তে একটি প্রশ্নে ট্যাপ করুন।"
+    },
+    "checking_videos": {
+      "en": "Checking available videos…",
+      "translation": "উপলব্ধ ভিডিও পরীক্ষা করা হচ্ছে…"
+    },
+    "no_devotional_videos": {
+      "en": "No devotional videos available",
+      "translation": "কোনো ভক্তিমূলক ভিডিও উপলব্ধ নেই"
+    },
+    "parents_and_caregivers": {
+      "en": "👨‍👩‍👧 Parents & Caregivers",
+      "translation": "👨‍👩‍👧 অভিভাবক ও যত্নকারী"
+    },
+    "display_label": {
+      "en": "Display",
+      "translation": "ডিসপ্লে"
+    },
+    "language_label": {
+      "en": "Language",
+      "translation": "ভাষা"
+    },
+    "faq_label": {
+      "en": "FAQ",
+      "translation": "FAQ"
+    },
+    "about_sprout_path_nav": {
+      "en": "About SproutPath",
+      "translation": "SproutPath সম্পর্কে"
+    },
+    "devotional_label": {
+      "en": "Devotional",
+      "translation": "ভক্তিমূলক"
+    },
+    "settings_label": {
+      "en": "Settings",
+      "translation": "সেটিংস"
+    },
+    "add_family_photo": {
+      "en": "Add a family photo",
+      "translation": "পারিবারিক ছবি যোগ করুন"
+    },
+    "no_autism_videos": {
+      "en": "No autism support videos yet.",
+      "translation": "এখনও কোনো অটিজম সাপোর্ট ভিডিও নেই।"
+    },
+    "no_autism_videos_hint": {
+      "en": "Add autism-category videos to your videos.json or remote JSON feed.",
+      "translation": "আপনার videos.json বা রিমোট JSON ফিডে অটিজম-শ্রেণীর ভিডিও যোগ করুন।"
+    },
+    "autism_support_videos": {
+      "en": "Autism Support Videos",
+      "translation": "অটিজম সাপোর্ট ভিডিও"
+    },
+    "tap_symbols_hint": {
+      "en": "Tap symbols to build a sentence...",
+      "translation": "একটি বাক্য তৈরি করতে প্রতীকগুলিতে ট্যাপ করুন..."
+    },
+    "getting_location": {
+      "en": "Getting location…",
+      "translation": "অবস্থান পাওয়া হচ্ছে…"
+    },
+    "quick_facts": {
+      "en": "Quick Facts",
+      "translation": "দ্রুত তথ্য"
+    },
+    "all_done_great_job": {
+      "en": "All done! Great job! 🌟",
+      "translation": "সব সম্পন্ন! দারুণ! 🌟"
+    },
+    "tap_to_see_example": {
+      "en": "Tap to see example →",
+      "translation": "উদাহরণ দেখতে ট্যাপ করুন →"
+    },
+    "reset_label": {
+      "en": "Reset",
+      "translation": "রিসেট"
+    },
+    "sound_label": {
+      "en": "Sound",
+      "translation": "শব্দ"
+    },
+    "display_settings": {
+      "en": "Display",
+      "translation": "ডিসপ্লে"
+    },
+    "minutes_unit": {
+      "en": "%d min",
+      "translation": "%d মিনিট"
+    },
+    "count_the": {
+      "en": "Count the %@:",
+      "translation": "%@ গণনা করুন:"
+    },
+    "shopkeeper_change": {
+      "en": "The shopkeeper gives you %@ change.",
+      "translation": "দোকানদার আপনাকে %@ খুচরা দেয়।"
+    },
+    "enter_amounts_in": {
+      "en": "Enter amounts in %@ (%@)",
+      "translation": "%@ (%@) এ পরিমাণ প্রবেশ করান"
+    },
+    "try_arrow": {
+      "en": "Try →",
+      "translation": "চেষ্টা করুন →"
+    },
+    "word_of_count": {
+      "en": "Word %d of %d",
+      "translation": "শব্দ %d / %d"
+    },
+    "this_is_name": {
+      "en": "This is %@!",
+      "translation": "এটি %@!"
+    },
+    "age_from_setup": {
+      "en": "Age %d · From onboarding setup",
+      "translation": "বয়স %d · অনবোর্ডিং সেটআপ থেকে"
+    },
+    "step_of_4": {
+      "en": "Step %d of 4",
+      "translation": "ধাপ %d / 4"
+    },
+    "all_set": {
+      "en": "All set!",
+      "translation": "সব প্রস্তুত!"
+    },
+    "all_set_name": {
+      "en": "All set, %@!",
+      "translation": "সব প্রস্তুত, %@!"
+    },
+    "round_of": {
+      "en": "Round %d of %d",
+      "translation": "রাউন্ড %d / %d"
+    },
+    "notice_things": {
+      "en": "Look around you and notice %d things.",
+      "translation": "আপনার চারপাশে তাকান এবং %d টি জিনিস লক্ষ্য করুন।"
+    },
+    "stars_earned_so_far": {
+      "en": "You've earned %d stars so far!",
+      "translation": "আপনি এ পর্যন্ত %d টি তারা অর্জন করেছেন!"
+    },
+    "recent_count": {
+      "en": "Recent (%d)",
+      "translation": "সাম্প্রতিক (%d)"
+    },
+    "the_ns_table": {
+      "en": "The %ds Table",
+      "translation": "%d এর নামতা"
+    },
+    "my_recorded_videos": {
+      "en": "My Recorded Videos (%d)",
+      "translation": "আমার রেকর্ড করা ভিডিও (%d)"
+    },
+    "hold_it_percent": {
+      "en": "Hold it! %d%%",
+      "translation": "থামুন! %d%%"
+    },
+    "amazing_face": {
+      "en": "Amazing %@ face!",
+      "translation": "অসাধারণ %@ মুখ!"
+    },
+    "helped_resolution": {
+      "en": "Helped: %@",
+      "translation": "সাহায্য করেছে: %@"
+    },
+    "score_of": {
+      "en": "Score: %d/%d",
+      "translation": "স্কোর: %d/%d"
+    },
+    "ages_range": {
+      "en": "Ages %@",
+      "translation": "বয়স %@"
+    },
+    "six_second_rule_explain": {
+      "en": "After asking a question or giving an instruction, wait silently for 6 seconds before repeating. This gives the brain the processing time it needs. Repeating too soon causes anxiety and resets the processing clock.",
+      "translation": "প্রশ্ন করার বা নির্দেশ দেওয়ার পর, পুনরাবৃত্তির আগে ৬ সেকেন্ড নীরবে অপেক্ষা করুন। এটি মস্তিষ্ককে প্রয়োজনীয় প্রক্রিয়াকরণের সময় দেয়। খুব তাড়াতাড়ি পুনরাবৃত্তি করলে উদ্বেগ সৃষ্টি হয় এবং প্রক্রিয়াকরণ ঘড়ি রিসেট হয়।"
+    },
+    "ready_label": {
+      "en": "Ready",
+      "translation": "প্রস্তুত"
+    },
+    "now_may_repeat": {
+      "en": "Now you\\nmay repeat",
+      "translation": "এখন আপনি\\nপুনরাবৃত্তি করতে পারেন"
+    },
+    "six_second_type_hint": {
+      "en": "Type the question first, then tap Start Timer.",
+      "translation": "প্রথমে প্রশ্ন টাইপ করুন, তারপর টাইমার শুরু করুন এ ট্যাপ করুন।"
+    },
+    "current_label": {
+      "en": "Current",
+      "translation": "বর্তমান"
+    },
+    "audio_label": {
+      "en": "Audio",
+      "translation": "অডিও"
+    },
+    "voice_label": {
+      "en": "Voice",
+      "translation": "ভয়েস"
+    },
+    "confirm_remove_photo": {
+      "en": "The family photo will be removed from the dashboard.",
+      "translation": "পারিবারিক ছবি ড্যাশবোর্ড থেকে সরানো হবে।"
+    },
+    "tap_hear_all": {
+      "en": "Tap 🔊 to hear it all!",
+      "translation": "সব শুনতে 🔊 ট্যাপ করুন!"
+    },
+    "what_is": {
+      "en": "What is...",
+      "translation": "কী হল..."
+    },
+    "guided_access_instructions": {
+      "en": "For the strongest protection (blocks home button, volume buttons, and touch regions), enable Guided Access in Settings → Accessibility → Guided Access, then triple-click the side button while SproutPath is open.",
+      "translation": "সবচেয়ে শক্তিশালী সুরক্ষার জন্য (হোম বোতাম, ভলিউম বোতাম ও টাচ এলাকা ব্লক করে), সেটিংস → অ্যাক্সেসিবিলিটি → গাইডেড অ্যাক্সেসে গাইডেড অ্যাক্সেস সক্ষম করুন, তারপর SproutPath খোলা থাকা অবস্থায় সাইড বোতাম তিনবার ক্লিক করুন।"
+    },
+    "how_are_you_feeling": {
+      "en": "How are you feeling?",
+      "translation": "আপনি কেমন অনুভব করছেন?"
+    },
+    "tap_to_check_in": {
+      "en": "Tap to check in",
+      "translation": "পরীক্ষা করতে ট্যাপ করুন"
+    },
+    "you_said": {
+      "en": "You said %@",
+      "translation": "আপনি বলেছেন %@"
+    },
+    "add_edit_symbol_hint": {
+      "en": "Enter a YouTube link or video ID above to preview",
+      "translation": "প্রিভিউয়ের জন্য উপরে একটি YouTube লিঙ্ক বা ভিডিও ID প্রবেশ করান"
+    },
+    "schedule_notifications": {
+      "en": "Schedule Notifications",
+      "translation": "বিজ্ঞপ্তি নির্ধারণ করুন"
+    },
+    "notifications_on": {
+      "en": "Reminders on",
+      "translation": "অনুস্মারক চালু"
+    },
+    "notifications_off": {
+      "en": "Reminders off",
+      "translation": "অনুস্মারক বন্ধ"
+    },
+    "notification_body": {
+      "en": "Time for: %@",
+      "translation": "এর সময়: %@"
+    },
+    "notifications_perm_denied": {
+      "en": "Notification permission denied",
+      "translation": "বিজ্ঞপ্তির অনুমতি প্রত্যাখ্যাত"
+    },
+    "open_settings_to_enable": {
+      "en": "Open Settings to enable notifications for SproutPath",
+      "translation": "SproutPath এর জন্য বিজ্ঞপ্তি সক্ষম করতে সেটিংস খুলুন"
+    },
+    "sound_voice_on": {
+      "en": "Sound & voice on",
+      "translation": "শব্দ ও ভয়েস চালু"
+    },
+    "sound_voice_off": {
+      "en": "Sound & voice off",
+      "translation": "শব্দ ও ভয়েস বন্ধ"
+    },
+    "text_to_speech_on": {
+      "en": "Text-to-speech on",
+      "translation": "টেক্সট-টু-স্পিচ চালু"
+    },
+    "text_to_speech_off": {
+      "en": "Text-to-speech off",
+      "translation": "টেক্সট-টু-স্পিচ বন্ধ"
+    },
+    "theme_auto": {
+      "en": "Auto",
+      "translation": "স্বয়ংক্রিয়"
+    },
+    "theme_white": {
+      "en": "White",
+      "translation": "সাদা"
+    },
+    "theme_black": {
+      "en": "Black",
+      "translation": "কালো"
+    },
+    "theme_follows_iphone": {
+      "en": "Follows iPhone",
+      "translation": "iPhone অনুসরণ করে"
+    },
+    "theme_always_white": {
+      "en": "Always white",
+      "translation": "সর্বদা সাদা"
+    },
+    "theme_always_black": {
+      "en": "Always black",
+      "translation": "সর্বদা কালো"
+    },
+    "flashcards_title": {
+      "en": "Flashcards",
+      "translation": "ফ্ল্যাশকার্ড"
+    },
+    "flashcards_subtitle": {
+      "en": "Tap a deck to start practising.",
+      "translation": "অনুশীলন শুরু করতে একটি ডেকে ট্যাপ করুন।"
+    },
+    "cards_count": {
+      "en": "%d cards",
+      "translation": "%d কার্ড"
+    },
+    "lib_sec_education": {
+      "en": "Education",
+      "translation": "শিক্ষা"
+    },
+    "lib_sec_mind_body": {
+      "en": "Mind & Body",
+      "translation": "মন ও শরীর"
+    },
+    "lib_sec_learning": {
+      "en": "Learning",
+      "translation": "শেখা"
+    },
+    "lib_sec_sports": {
+      "en": "Sports",
+      "translation": "খেলাধুলা"
+    },
+    "lib_sec_art": {
+      "en": "Art",
+      "translation": "শিল্প"
+    },
+    "lib_sec_science": {
+      "en": "Science",
+      "translation": "বিজ্ঞান"
+    },
+    "lib_sec_entertainment": {
+      "en": "Entertainment",
+      "translation": "বিনোদন"
+    },
+    "lib_sec_others": {
+      "en": "Others",
+      "translation": "অন্যান্য"
+    },
+    "live_up_to_date": {
+      "en": "Live · up to date",
+      "translation": "লাইভ · হালনাগাদ"
+    },
+    "cached_refresh_shortly": {
+      "en": "Cached · will refresh shortly",
+      "translation": "ক্যাশ করা · শীঘ্রই রিফ্রেশ হবে"
+    },
+    "videos_available_count": {
+      "en": "%d videos available",
+      "translation": "%d টি ভিডিও উপলব্ধ"
+    },
+    "about_the_app": {
+      "en": "About the app",
+      "translation": "অ্যাপ সম্পর্কে"
+    },
+    "learn_more": {
+      "en": "Learn more",
+      "translation": "আরও জানুন"
+    },
+    "credits": {
+      "en": "Credits",
+      "translation": "ক্রেডিট"
+    }
+  },
+  "tm_keys": {},
+  "phrases": {
+    "greeting": "নমস্কার",
+    "welcome": "স্বাগতম",
+    "thankYou": "ধন্যবাদ"
+  }
+}

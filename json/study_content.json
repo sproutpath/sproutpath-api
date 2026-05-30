@@ -1,0 +1,388 @@
+{
+  "version": "1.0",
+  "ageGroups": [
+    {
+      "id": "toddler",
+      "label": "Toddler",
+      "minAge": 2,
+      "maxAge": 4,
+      "categories": [
+        {
+          "id": "numbers_logic",
+          "heading": "Numbers & Logic",
+          "emoji": "🔢",
+          "items": [
+            {
+              "id": "math",
+              "titleKey": "mathNumbers",
+              "emoji": "🔢",
+              "color": "#BA7517",
+              "dest": "math"
+            }
+          ]
+        },
+        {
+          "id": "language_stories",
+          "heading": "Language & Stories",
+          "emoji": "📖",
+          "items": [
+            {
+              "id": "english",
+              "titleKey": "english",
+              "emoji": "📖",
+              "color": "#D4537E",
+              "dest": "english"
+            },
+            {
+              "id": "motherTongue",
+              "titleKey": "motherTongue",
+              "emoji": "🔤",
+              "color": "#8AAA78",
+              "dest": "motherTongue"
+            },
+            {
+              "id": "myStories",
+              "titleKey": "myStories",
+              "emoji": "✍️",
+              "color": "#534AB7",
+              "dest": "customStories"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "early_learner",
+      "label": "Early Learner",
+      "minAge": 5,
+      "maxAge": 7,
+      "categories": [
+        {
+          "id": "numbers_logic",
+          "heading": "Numbers & Logic",
+          "emoji": "🔢",
+          "items": [
+            {
+              "id": "math",
+              "titleKey": "mathNumbers",
+              "emoji": "🔢",
+              "color": "#BA7517",
+              "dest": "math"
+            },
+            {
+              "id": "measurements",
+              "titleKey": "measurements",
+              "emoji": "📏",
+              "color": "#185FA5",
+              "dest": "measurements"
+            }
+          ]
+        },
+        {
+          "id": "language_stories",
+          "heading": "Language & Stories",
+          "emoji": "📖",
+          "items": [
+            {
+              "id": "english",
+              "titleKey": "english",
+              "emoji": "📖",
+              "color": "#D4537E",
+              "dest": "english"
+            },
+            {
+              "id": "motherTongue",
+              "titleKey": "motherTongue",
+              "emoji": "🔤",
+              "color": "#8AAA78",
+              "dest": "motherTongue"
+            },
+            {
+              "id": "myStories",
+              "titleKey": "myStories",
+              "emoji": "✍️",
+              "color": "#534AB7",
+              "dest": "customStories"
+            },
+            {
+              "id": "speakingPractice",
+              "titleKey": "speakingPractice",
+              "emoji": "🎤",
+              "color": "#E07B39",
+              "dest": "speakingPractice"
+            }
+          ]
+        },
+        {
+          "id": "science_discovery",
+          "heading": "Science & Discovery",
+          "emoji": "🔬",
+          "items": [
+            {
+              "id": "science",
+              "titleKey": "science",
+              "emoji": "🔬",
+              "color": "#1D9E75",
+              "dest": "science"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "junior",
+      "label": "Junior",
+      "minAge": 8,
+      "maxAge": 10,
+      "categories": [
+        {
+          "id": "numbers_logic",
+          "heading": "Numbers & Logic",
+          "emoji": "🔢",
+          "items": [
+            {
+              "id": "math",
+              "titleKey": "mathNumbers",
+              "emoji": "🔢",
+              "color": "#BA7517",
+              "dest": "math"
+            },
+            {
+              "id": "measurements",
+              "titleKey": "measurements",
+              "emoji": "📏",
+              "color": "#185FA5",
+              "dest": "measurements"
+            },
+            {
+              "id": "currency",
+              "titleKey": "currency",
+              "emoji": "💰",
+              "color": "#534AB7",
+              "dest": "currency"
+            }
+          ]
+        },
+        {
+          "id": "language_stories",
+          "heading": "Language & Stories",
+          "emoji": "📖",
+          "items": [
+            {
+              "id": "english",
+              "titleKey": "english",
+              "emoji": "📖",
+              "color": "#D4537E",
+              "dest": "english"
+            },
+            {
+              "id": "motherTongue",
+              "titleKey": "motherTongue",
+              "emoji": "🔤",
+              "color": "#8AAA78",
+              "dest": "motherTongue"
+            },
+            {
+              "id": "myStories",
+              "titleKey": "myStories",
+              "emoji": "✍️",
+              "color": "#534AB7",
+              "dest": "customStories"
+            },
+            {
+              "id": "speakingPractice",
+              "titleKey": "speakingPractice",
+              "emoji": "🎤",
+              "color": "#E07B39",
+              "dest": "speakingPractice"
+            }
+          ]
+        },
+        {
+          "id": "science_discovery",
+          "heading": "Science & Discovery",
+          "emoji": "🔬",
+          "items": [
+            {
+              "id": "science",
+              "titleKey": "science",
+              "emoji": "🔬",
+              "color": "#1D9E75",
+              "dest": "science"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "preteen",
+      "label": "Pre-Teen",
+      "minAge": 11,
+      "maxAge": 13,
+      "categories": [
+        {
+          "id": "numbers_logic",
+          "heading": "Numbers & Logic",
+          "emoji": "🔢",
+          "items": [
+            {
+              "id": "math",
+              "titleKey": "mathNumbers",
+              "emoji": "🔢",
+              "color": "#BA7517",
+              "dest": "math"
+            },
+            {
+              "id": "measurements",
+              "titleKey": "measurements",
+              "emoji": "📏",
+              "color": "#185FA5",
+              "dest": "measurements"
+            },
+            {
+              "id": "currency",
+              "titleKey": "currency",
+              "emoji": "💰",
+              "color": "#534AB7",
+              "dest": "currency"
+            }
+          ]
+        },
+        {
+          "id": "language_stories",
+          "heading": "Language & Stories",
+          "emoji": "📖",
+          "items": [
+            {
+              "id": "english",
+              "titleKey": "english",
+              "emoji": "📖",
+              "color": "#D4537E",
+              "dest": "english"
+            },
+            {
+              "id": "motherTongue",
+              "titleKey": "motherTongue",
+              "emoji": "🔤",
+              "color": "#8AAA78",
+              "dest": "motherTongue"
+            },
+            {
+              "id": "myStories",
+              "titleKey": "myStories",
+              "emoji": "✍️",
+              "color": "#534AB7",
+              "dest": "customStories"
+            },
+            {
+              "id": "speakingPractice",
+              "titleKey": "speakingPractice",
+              "emoji": "🎤",
+              "color": "#E07B39",
+              "dest": "speakingPractice"
+            }
+          ]
+        },
+        {
+          "id": "science_discovery",
+          "heading": "Science & Discovery",
+          "emoji": "🔬",
+          "items": [
+            {
+              "id": "science",
+              "titleKey": "science",
+              "emoji": "🔬",
+              "color": "#1D9E75",
+              "dest": "science"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "teen",
+      "label": "Teen",
+      "minAge": 14,
+      "maxAge": 99,
+      "categories": [
+        {
+          "id": "numbers_logic",
+          "heading": "Numbers & Logic",
+          "emoji": "🔢",
+          "items": [
+            {
+              "id": "math",
+              "titleKey": "mathNumbers",
+              "emoji": "🔢",
+              "color": "#BA7517",
+              "dest": "math"
+            },
+            {
+              "id": "measurements",
+              "titleKey": "measurements",
+              "emoji": "📏",
+              "color": "#185FA5",
+              "dest": "measurements"
+            },
+            {
+              "id": "currency",
+              "titleKey": "currency",
+              "emoji": "💰",
+              "color": "#534AB7",
+              "dest": "currency"
+            }
+          ]
+        },
+        {
+          "id": "language_stories",
+          "heading": "Language & Stories",
+          "emoji": "📖",
+          "items": [
+            {
+              "id": "english",
+              "titleKey": "english",
+              "emoji": "📖",
+              "color": "#D4537E",
+              "dest": "english"
+            },
+            {
+              "id": "motherTongue",
+              "titleKey": "motherTongue",
+              "emoji": "🔤",
+              "color": "#8AAA78",
+              "dest": "motherTongue"
+            },
+            {
+              "id": "myStories",
+              "titleKey": "myStories",
+              "emoji": "✍️",
+              "color": "#534AB7",
+              "dest": "customStories"
+            },
+            {
+              "id": "speakingPractice",
+              "titleKey": "speakingPractice",
+              "emoji": "🎤",
+              "color": "#E07B39",
+              "dest": "speakingPractice"
+            }
+          ]
+        },
+        {
+          "id": "science_discovery",
+          "heading": "Science & Discovery",
+          "emoji": "🔬",
+          "items": [
+            {
+              "id": "science",
+              "titleKey": "science",
+              "emoji": "🔬",
+              "color": "#1D9E75",
+              "dest": "science"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

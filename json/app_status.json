@@ -1,0 +1,12 @@
+{
+  "maintenance": {
+    "enabled": false,
+    "message": "We're performing scheduled maintenance to improve your experience. We'll be back shortly!",
+    "estimatedEndTime": "2026-05-22T13:15:00Z"
+  },
+  "versionControl": {
+    "minimumVersion": "1.0",
+    "allowedVersions": ["1.0"],
+    "updateMessage": "A new version with important updates is available. Please update to continue using the app."
+  }
+}

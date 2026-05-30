@@ -1,0 +1,3001 @@
+{
+  "_meta": {
+    "language_id": "mr",
+    "name": "Marathi",
+    "nativeName": "मराठी",
+    "flag": "🇮🇳",
+    "script": "नमस्कार! कसे आहात?",
+    "ttsCode": "mr-IN",
+    "lm_key_count": 745,
+    "tm_key_count": 0,
+    "notes": "Marathi translation with 100% coverage. Format specifiers (%@, %d, %%) and proper nouns (SproutPath, YouTube, Auti, iOS, PIN) preserved."
+  },
+  "lm_keys": {
+    "app_name": {
+      "mr": "SproutPath",
+      "translation": "SproutPath"
+    },
+    "tagline": {
+      "mr": "आनंदाने वाढा, प्रेमाने शिका",
+      "translation": "आनंदाने वाढा, प्रेमाने शिका"
+    },
+    "launch_tagline": {
+      "mr": "आनंदाने वाढा, प्रेमाने शिका",
+      "translation": "आनंदाने वाढा, प्रेमाने शिका"
+    },
+    "set_up_your_profile": {
+      "mr": "तुमचे प्रोफाइल सेट करा",
+      "translation": "तुमचे प्रोफाइल सेट करा"
+    },
+    "tap_to_add_name_photo": {
+      "mr": "तुमचे नाव आणि फोटो जोडण्यासाठी टॅप करा",
+      "translation": "तुमचे नाव आणि फोटो जोडण्यासाठी टॅप करा"
+    },
+    "hi_greeting": {
+      "mr": "नमस्ते, %@! 👋",
+      "translation": "नमस्ते, %@! 👋"
+    },
+    "age_stars_today": {
+      "mr": "वय %d · आज %d ⭐",
+      "translation": "वय %d · आज %d ⭐"
+    },
+    "child_tab": {
+      "mr": "मूल",
+      "translation": "मूल"
+    },
+    "parent_tab": {
+      "mr": "पालक",
+      "translation": "पालक"
+    },
+    "sidebar_dashboard": {
+      "mr": "डॅशबोर्ड",
+      "translation": "डॅशबोर्ड"
+    },
+    "sidebar_emotions": {
+      "mr": "भावना",
+      "translation": "भावना"
+    },
+    "sidebar_study": {
+      "mr": "अभ्यास",
+      "translation": "अभ्यास"
+    },
+    "sidebar_activities": {
+      "mr": "क्रियाकलाप",
+      "translation": "क्रियाकलाप"
+    },
+    "sidebar_explore": {
+      "mr": "शोधा",
+      "translation": "शोधा"
+    },
+    "sidebar_daily_life": {
+      "mr": "दैनंदिन जीवन",
+      "translation": "दैनंदिन जीवन"
+    },
+    "sidebar_parents": {
+      "mr": "पालक",
+      "translation": "पालक"
+    },
+    "telugu_devotional": {
+      "mr": "तेलुगू भक्तिगीत 🙏",
+      "translation": "तेलुगू भक्तिगीत 🙏"
+    },
+    "transport_walk": {
+      "mr": "चालणे",
+      "translation": "चालणे"
+    },
+    "transport_drive": {
+      "mr": "गाडी",
+      "translation": "गाडी"
+    },
+    "transport_bus": {
+      "mr": "बस",
+      "translation": "बस"
+    },
+    "transport_train": {
+      "mr": "ट्रेन",
+      "translation": "ट्रेन"
+    },
+    "transport_mode": {
+      "mr": "कसे जायचे",
+      "translation": "कसे जायचे"
+    },
+    "open_in_maps": {
+      "mr": "नकाशात उघडा",
+      "translation": "नकाशात उघडा"
+    },
+    "add_destination": {
+      "mr": "गंतव्य जोडा",
+      "translation": "गंतव्य जोडा"
+    },
+    "edit_destination": {
+      "mr": "गंतव्य संपादित करा",
+      "translation": "गंतव्य संपादित करा"
+    },
+    "no_destinations_yet": {
+      "mr": "अद्याप कोणतेही गंतव्य नाही",
+      "translation": "अद्याप कोणतेही गंतव्य नाही"
+    },
+    "add_first_destination": {
+      "mr": "पहिले गंतव्य जोडा",
+      "translation": "पहिले गंतव्य जोडा"
+    },
+    "find_on_map": {
+      "mr": "नकाशावर शोधा",
+      "translation": "नकाशावर शोधा"
+    },
+    "location_found": {
+      "mr": "स्थान सापडले ✓",
+      "translation": "स्थान सापडले ✓"
+    },
+    "address_not_found": {
+      "mr": "पत्ता सापडला नाही. अधिक विशिष्ट पत्ता वापरून पहा.",
+      "translation": "पत्ता सापडला नाही. अधिक विशिष्ट पत्ता वापरून पहा."
+    },
+    "address_resolved": {
+      "mr": "नेव्हिगेशन सुरू केल्यावर पत्ता सोडवला जाईल",
+      "translation": "नेव्हिगेशन सुरू केल्यावर पत्ता सोडवला जाईल"
+    },
+    "dest_name_placeholder": {
+      "mr": "उदा. शाळा, बाग, आजीचे घर",
+      "translation": "उदा. शाळा, बाग, आजीचे घर"
+    },
+    "dest_address_placeholder": {
+      "mr": "उदा. 123 मेन स्ट्रीट, चेन्नई",
+      "translation": "उदा. 123 मेन स्ट्रीट, चेन्नई"
+    },
+    "dest_icon": {
+      "mr": "चिन्ह",
+      "translation": "चिन्ह"
+    },
+    "dest_colour": {
+      "mr": "रंग",
+      "translation": "रंग"
+    },
+    "add_place": {
+      "mr": "ठिकाण जोडा",
+      "translation": "ठिकाण जोडा"
+    },
+    "very_mild": {
+      "mr": "अत्यंत सौम्य",
+      "translation": "अत्यंत सौम्य"
+    },
+    "mild": {
+      "mr": "सौम्य",
+      "translation": "सौम्य"
+    },
+    "moderate": {
+      "mr": "मध्यम",
+      "translation": "मध्यम"
+    },
+    "severe": {
+      "mr": "तीव्र",
+      "translation": "तीव्र"
+    },
+    "very_severe": {
+      "mr": "अत्यंत तीव्र",
+      "translation": "अत्यंत तीव्र"
+    },
+    "trigger_loud_noise": {
+      "mr": "मोठा आवाज",
+      "translation": "मोठा आवाज"
+    },
+    "trigger_transition": {
+      "mr": "बदल",
+      "translation": "बदल"
+    },
+    "trigger_routine_change": {
+      "mr": "दिनक्रमातील बदल",
+      "translation": "दिनक्रमातील बदल"
+    },
+    "trigger_hunger": {
+      "mr": "भूक",
+      "translation": "भूक"
+    },
+    "trigger_tiredness": {
+      "mr": "थकवा",
+      "translation": "थकवा"
+    },
+    "trigger_sensory_overload": {
+      "mr": "इंद्रिय अतिभार",
+      "translation": "इंद्रिय अतिभार"
+    },
+    "trigger_social_conflict": {
+      "mr": "सामाजिक संघर्ष",
+      "translation": "सामाजिक संघर्ष"
+    },
+    "trigger_frustration": {
+      "mr": "निराशा",
+      "translation": "निराशा"
+    },
+    "resolution_breathing": {
+      "mr": "खोल श्वास",
+      "translation": "खोल श्वास"
+    },
+    "resolution_quiet_space": {
+      "mr": "शांत जागा",
+      "translation": "शांत जागा"
+    },
+    "resolution_weighted_blanket": {
+      "mr": "जड ब्लँकेट",
+      "translation": "जड ब्लँकेट"
+    },
+    "resolution_fidget": {
+      "mr": "फिजेट खेळणे",
+      "translation": "फिजेट खेळणे"
+    },
+    "resolution_music": {
+      "mr": "संगीत / हेडफोन",
+      "translation": "संगीत / हेडफोन"
+    },
+    "resolution_snack": {
+      "mr": "आवडता खाऊ",
+      "translation": "आवडता खाऊ"
+    },
+    "resolution_exercise": {
+      "mr": "शारीरिक व्यायाम",
+      "translation": "शारीरिक व्यायाम"
+    },
+    "resolution_hugs": {
+      "mr": "मिठी",
+      "translation": "मिठी"
+    },
+    "resolution_screen_break": {
+      "mr": "स्क्रीन ब्रेक",
+      "translation": "स्क्रीन ब्रेक"
+    },
+    "resolution_changed_env": {
+      "mr": "वातावरण बदलले",
+      "translation": "वातावरण बदलले"
+    },
+    "resolution_verbal_reassurance": {
+      "mr": "शाब्दिक आश्वासन",
+      "translation": "शाब्दिक आश्वासन"
+    },
+    "time_of_day_label": {
+      "mr": "दिवसाची वेळ",
+      "translation": "दिवसाची वेळ"
+    },
+    "day_of_week_label": {
+      "mr": "आठवड्याचा दिवस",
+      "translation": "आठवड्याचा दिवस"
+    },
+    "default_diagnosis": {
+      "mr": "ऑटिझम स्पेक्ट्रम स्थिती",
+      "translation": "ऑटिझम स्पेक्ट्रम स्थिती"
+    },
+    "default_comm_style": {
+      "mr": "मर्यादित मौखिक",
+      "translation": "मर्यादित मौखिक"
+    },
+    "comm_style_verbal": {
+      "mr": "मौखिक",
+      "translation": "मौखिक"
+    },
+    "comm_style_limited_verbal": {
+      "mr": "मर्यादित मौखिक",
+      "translation": "मर्यादित मौखिक"
+    },
+    "comm_style_aac": {
+      "mr": "AAC उपकरण",
+      "translation": "AAC उपकरण"
+    },
+    "comm_style_pointing": {
+      "mr": "बोट दाखवणे / हावभाव",
+      "translation": "बोट दाखवणे / हावभाव"
+    },
+    "comm_style_non_verbal": {
+      "mr": "गैर-मौखिक",
+      "translation": "गैर-मौखिक"
+    },
+    "calm_suggestion_quiet": {
+      "mr": "शांत जागा",
+      "translation": "शांत जागा"
+    },
+    "calm_suggestion_deep_pressure": {
+      "mr": "खोल दाब",
+      "translation": "खोल दाब"
+    },
+    "calm_suggestion_headphones": {
+      "mr": "आवाज-रद्द करणारे हेडफोन",
+      "translation": "आवाज-रद्द करणारे हेडफोन"
+    },
+    "calm_suggestion_fidget2": {
+      "mr": "फिजेट खेळणे",
+      "translation": "फिजेट खेळणे"
+    },
+    "calm_suggestion_routine": {
+      "mr": "दिनक्रम आठवण",
+      "translation": "दिनक्रम आठवण"
+    },
+    "calm_suggestion_visual_schedule": {
+      "mr": "दृश्य वेळापत्रक",
+      "translation": "दृश्य वेळापत्रक"
+    },
+    "how_i_communicate": {
+      "mr": "मी कसे बोलतो",
+      "translation": "मी कसे बोलतो"
+    },
+    "sens_ex_sound_music": {
+      "mr": "संगीत",
+      "translation": "संगीत"
+    },
+    "sens_ex_sound_traffic": {
+      "mr": "वाहतुकीचा आवाज",
+      "translation": "वाहतुकीचा आवाज"
+    },
+    "sens_ex_sound_classroom": {
+      "mr": "वर्गाची गडबड",
+      "translation": "वर्गाची गडबड"
+    },
+    "sens_ex_touch_clothing": {
+      "mr": "कपड्यांचा पोत",
+      "translation": "कपड्यांचा पोत"
+    },
+    "sens_ex_touch_hugs": {
+      "mr": "मिठी",
+      "translation": "मिठी"
+    },
+    "sens_ex_touch_wet_hands": {
+      "mr": "ओले हात",
+      "translation": "ओले हात"
+    },
+    "sens_ex_vision_lights": {
+      "mr": "तेजस्वी दिवे",
+      "translation": "तेजस्वी दिवे"
+    },
+    "sens_ex_vision_patterns": {
+      "mr": "गर्दीचे नमुने",
+      "translation": "गर्दीचे नमुने"
+    },
+    "sens_ex_vision_screen": {
+      "mr": "स्क्रीन वेळ",
+      "translation": "स्क्रीन वेळ"
+    },
+    "sensory_sound": {
+      "mr": "आवाज",
+      "translation": "आवाज"
+    },
+    "sensory_touch": {
+      "mr": "स्पर्श",
+      "translation": "स्पर्श"
+    },
+    "sensory_sight": {
+      "mr": "दृष्टी",
+      "translation": "दृष्टी"
+    },
+    "sensory_smell": {
+      "mr": "वास",
+      "translation": "वास"
+    },
+    "sensory_taste": {
+      "mr": "चव",
+      "translation": "चव"
+    },
+    "sensory_movement": {
+      "mr": "हालचाल",
+      "translation": "हालचाल"
+    },
+    "sensory_body": {
+      "mr": "शरीर जागरूकता",
+      "translation": "शरीर जागरूकता"
+    },
+    "dest_school": {
+      "mr": "शाळा",
+      "translation": "शाळा"
+    },
+    "dest_park": {
+      "mr": "बाग",
+      "translation": "बाग"
+    },
+    "dest_library": {
+      "mr": "ग्रंथालय",
+      "translation": "ग्रंथालय"
+    },
+    "dest_hospital": {
+      "mr": "रुग्णालय",
+      "translation": "रुग्णालय"
+    },
+    "dest_supermarket": {
+      "mr": "सुपरमार्केट",
+      "translation": "सुपरमार्केट"
+    },
+    "dest_playground": {
+      "mr": "खेळाचे मैदान",
+      "translation": "खेळाचे मैदान"
+    },
+    "dest_bus_stop": {
+      "mr": "बस थांबा",
+      "translation": "बस थांबा"
+    },
+    "dest_pool": {
+      "mr": "जलतरण तलाव",
+      "translation": "जलतरण तलाव"
+    },
+    "dest_temple": {
+      "mr": "मंदिर",
+      "translation": "मंदिर"
+    },
+    "dest_doctor": {
+      "mr": "डॉक्टर",
+      "translation": "डॉक्टर"
+    },
+    "dest_home": {
+      "mr": "घर",
+      "translation": "घर"
+    },
+    "dest_grandma": {
+      "mr": "आजीचे घर",
+      "translation": "आजीचे घर"
+    },
+    "getting_directions": {
+      "mr": "दिशा मिळवत आहे…",
+      "translation": "दिशा मिळवत आहे…"
+    },
+    "navigating_to": {
+      "mr": "%@ कडे नेव्हिगेट करा",
+      "translation": "%@ कडे नेव्हिगेट करा"
+    },
+    "arrived_at": {
+      "mr": "तुम्ही %@ ला पोहोचलात! 🎉",
+      "translation": "तुम्ही %@ ला पोहोचलात! 🎉"
+    },
+    "address_for_map_directions": {
+      "mr": "पत्ता (नकाशा दिशांसाठी)",
+      "translation": "पत्ता (नकाशा दिशांसाठी)"
+    },
+    "open_in_apple_maps": {
+      "mr": "नकाशात उघडा",
+      "translation": "नकाशात उघडा"
+    },
+    "edit_quick_access": {
+      "mr": "द्रुत प्रवेश संपादित करा",
+      "translation": "द्रुत प्रवेश संपादित करा"
+    },
+    "quick_access_hint": {
+      "mr": "तुमच्या आवडत्या वैशिष्ट्यांसाठी टॅप करा",
+      "translation": "तुमच्या आवडत्या वैशिष्ट्यांसाठी टॅप करा"
+    },
+    "done_editing": {
+      "mr": "पूर्ण",
+      "translation": "पूर्ण"
+    },
+    "select_features": {
+      "mr": "वैशिष्ट्ये निवडा",
+      "translation": "वैशिष्ट्ये निवडा"
+    },
+    "goal_section_emotions": {
+      "mr": "भावना",
+      "translation": "भावना"
+    },
+    "goal_section_math": {
+      "mr": "गणित",
+      "translation": "गणित"
+    },
+    "goal_section_english": {
+      "mr": "इंग्रजी",
+      "translation": "इंग्रजी"
+    },
+    "goal_section_science": {
+      "mr": "विज्ञान",
+      "translation": "विज्ञान"
+    },
+    "goal_section_routine": {
+      "mr": "दिनक्रम",
+      "translation": "दिनक्रम"
+    },
+    "goal_section_calm": {
+      "mr": "शांती",
+      "translation": "शांती"
+    },
+    "goal_section_videos": {
+      "mr": "व्हिडिओ",
+      "translation": "व्हिडिओ"
+    },
+    "goal_section_stories": {
+      "mr": "सामाजिक कथा",
+      "translation": "सामाजिक कथा"
+    },
+    "goal_practise_emotions": {
+      "mr": "भावनांचा सराव करा",
+      "translation": "भावनांचा सराव करा"
+    },
+    "goal_morning_routine": {
+      "mr": "सकाळचा दिनक्रम पूर्ण करा",
+      "translation": "सकाळचा दिनक्रम पूर्ण करा"
+    },
+    "goal_calming_exercise": {
+      "mr": "शांत व्यायाम करून पहा",
+      "translation": "शांत व्यायाम करून पहा"
+    },
+    "goal_learning_video": {
+      "mr": "शिकण्याचा व्हिडिओ पहा",
+      "translation": "शिकण्याचा व्हिडिओ पहा"
+    },
+    "goal_practise_maths": {
+      "mr": "गणिताचा सराव करा",
+      "translation": "गणिताचा सराव करा"
+    },
+    "goal_english_lesson": {
+      "mr": "इंग्रजी धडा करा",
+      "translation": "इंग्रजी धडा करा"
+    },
+    "sens_sound_sensitive1": {
+      "mr": "अनेकदा कान झाकतो",
+      "translation": "अनेकदा कान झाकतो"
+    },
+    "sens_sound_sensitive2": {
+      "mr": "हँड ड्रायरने अस्वस्थ होतो",
+      "translation": "हँड ड्रायरने अस्वस्थ होतो"
+    },
+    "sens_sound_sensitive3": {
+      "mr": "अचानक आवाजाने दचकतो",
+      "translation": "अचानक आवाजाने दचकतो"
+    },
+    "sens_sound_seeking1": {
+      "mr": "मोठ्या संगीताची आवड",
+      "translation": "मोठ्या संगीताची आवड"
+    },
+    "sens_sound_seeking2": {
+      "mr": "पुनरावृत्ती होणारे आवाज काढतो",
+      "translation": "पुनरावृत्ती होणारे आवाज काढतो"
+    },
+    "sens_sound_seeking3": {
+      "mr": "गोंगाटाचे वातावरण शोधतो",
+      "translation": "गोंगाटाचे वातावरण शोधतो"
+    },
+    "sense_touch_sensitive1": {
+      "mr": "कपड्यांचे लेबल आवडत नाही",
+      "translation": "कपड्यांचे लेबल आवडत नाही"
+    },
+    "sense_touch_sensitive2": {
+      "mr": "गोंधळाचे खेळ टाळतो",
+      "translation": "गोंधळाचे खेळ टाळतो"
+    },
+    "sense_touch_sensitive3": {
+      "mr": "अनपेक्षित स्पर्श आवडत नाही",
+      "translation": "अनपेक्षित स्पर्श आवडत नाही"
+    },
+    "sense_touch_seeking1": {
+      "mr": "खोल दाब आवडतो",
+      "translation": "खोल दाब आवडतो"
+    },
+    "sense_touch_seeking2": {
+      "mr": "मिठी शोधतो",
+      "translation": "मिठी शोधतो"
+    },
+    "sense_touch_seeking3": {
+      "mr": "जड ब्लँकेट आवडतात",
+      "translation": "जड ब्लँकेट आवडतात"
+    },
+    "sense_sight_sensitive1": {
+      "mr": "तेजस्वी दिव्यांनी त्रास होतो",
+      "translation": "तेजस्वी दिव्यांनी त्रास होतो"
+    },
+    "sense_sight_sensitive2": {
+      "mr": "गर्दीच्या ठिकाणे टाळतो",
+      "translation": "गर्दीच्या ठिकाणे टाळतो"
+    },
+    "sense_sight_sensitive3": {
+      "mr": "अनेकदा डोळे मिचकावतो",
+      "translation": "अनेकदा डोळे मिचकावतो"
+    },
+    "sense_sight_seeking1": {
+      "mr": "फिरणाऱ्या वस्तू पाहतो",
+      "translation": "फिरणाऱ्या वस्तू पाहतो"
+    },
+    "sense_sight_seeking2": {
+      "mr": "दिव्यांकडे टक लावतो",
+      "translation": "दिव्यांकडे टक लावतो"
+    },
+    "sense_sight_seeking3": {
+      "mr": "दृश्य उत्तेजना शोधतो",
+      "translation": "दृश्य उत्तेजना शोधतो"
+    },
+    "dashboard": {
+      "mr": "डॅशबोर्ड",
+      "translation": "डॅशबोर्ड"
+    },
+    "study": {
+      "mr": "अभ्यास",
+      "translation": "अभ्यास"
+    },
+    "activities": {
+      "mr": "क्रियाकलाप",
+      "translation": "क्रियाकलाप"
+    },
+    "schedule": {
+      "mr": "वेळापत्रक",
+      "translation": "वेळापत्रक"
+    },
+    "more": {
+      "mr": "आणखी",
+      "translation": "आणखी"
+    },
+    "emotions": {
+      "mr": "भावना",
+      "translation": "भावना"
+    },
+    "mirrorMode": {
+      "mr": "मिरर मोड",
+      "translation": "मिरर मोड"
+    },
+    "identifyEmotions": {
+      "mr": "भावना ओळखा",
+      "translation": "भावना ओळखा"
+    },
+    "socialStories": {
+      "mr": "सामाजिक कथा",
+      "translation": "सामाजिक कथा"
+    },
+    "sixSecondRule": {
+      "mr": "6-सेकंद नियम",
+      "translation": "6-सेकंद नियम"
+    },
+    "mathNumbers": {
+      "mr": "गणित आणि संख्या",
+      "translation": "गणित आणि संख्या"
+    },
+    "english": {
+      "mr": "इंग्रजी",
+      "translation": "इंग्रजी"
+    },
+    "science": {
+      "mr": "विज्ञान",
+      "translation": "विज्ञान"
+    },
+    "currency": {
+      "mr": "चलन",
+      "translation": "चलन"
+    },
+    "measurements": {
+      "mr": "मोजमाप",
+      "translation": "मोजमाप"
+    },
+    "yogaExercise": {
+      "mr": "योग आणि व्यायाम",
+      "translation": "योग आणि व्यायाम"
+    },
+    "socialSkills": {
+      "mr": "सामाजिक कौशल्ये",
+      "translation": "सामाजिक कौशल्ये"
+    },
+    "cooking": {
+      "mr": "स्वयंपाक",
+      "translation": "स्वयंपाक"
+    },
+    "sports": {
+      "mr": "खेळ",
+      "translation": "खेळ"
+    },
+    "physicalActivities": {
+      "mr": "शारीरिक क्रियाकलाप",
+      "translation": "शारीरिक क्रियाकलाप"
+    },
+    "videos": {
+      "mr": "व्हिडिओ",
+      "translation": "व्हिडिओ"
+    },
+    "virtualExplore": {
+      "mr": "आभासी अन्वेषण",
+      "translation": "आभासी अन्वेषण"
+    },
+    "places": {
+      "mr": "ठिकाणे",
+      "translation": "ठिकाणे"
+    },
+    "videoModeling": {
+      "mr": "व्हिडिओ मॉडेलिंग",
+      "translation": "व्हिडिओ मॉडेलिंग"
+    },
+    "dailyRoutine": {
+      "mr": "दैनंदिन दिनक्रम",
+      "translation": "दैनंदिन दिनक्रम"
+    },
+    "calmCorner": {
+      "mr": "शांती कोपरा",
+      "translation": "शांती कोपरा"
+    },
+    "myStars": {
+      "mr": "माझे तारे",
+      "translation": "माझे तारे"
+    },
+    "memories": {
+      "mr": "आठवणी",
+      "translation": "आठवणी"
+    },
+    "myProfile": {
+      "mr": "माझे प्रोफाइल",
+      "translation": "माझे प्रोफाइल"
+    },
+    "voiceChat": {
+      "mr": "आवाज गप्पा",
+      "translation": "आवाज गप्पा"
+    },
+    "close": {
+      "mr": "बंद करा",
+      "translation": "बंद करा"
+    },
+    "save": {
+      "mr": "जतन करा",
+      "translation": "जतन करा"
+    },
+    "cancel": {
+      "mr": "रद्द करा",
+      "translation": "रद्द करा"
+    },
+    "done": {
+      "mr": "पूर्ण",
+      "translation": "पूर्ण"
+    },
+    "next": {
+      "mr": "पुढे",
+      "translation": "पुढे"
+    },
+    "back": {
+      "mr": "मागे",
+      "translation": "मागे"
+    },
+    "start": {
+      "mr": "सुरू करा",
+      "translation": "सुरू करा"
+    },
+    "finish": {
+      "mr": "संपवा",
+      "translation": "संपवा"
+    },
+    "tryAgain": {
+      "mr": "पुन्हा प्रयत्न करा",
+      "translation": "पुन्हा प्रयत्न करा"
+    },
+    "readAloud": {
+      "mr": "मोठ्याने वाचा",
+      "translation": "मोठ्याने वाचा"
+    },
+    "add": {
+      "mr": "जोडा",
+      "translation": "जोडा"
+    },
+    "edit": {
+      "mr": "संपादित करा",
+      "translation": "संपादित करा"
+    },
+    "delete": {
+      "mr": "हटवा",
+      "translation": "हटवा"
+    },
+    "hear": {
+      "mr": "ऐका",
+      "translation": "ऐका"
+    },
+    "hearIt": {
+      "mr": "ते ऐका",
+      "translation": "ते ऐका"
+    },
+    "open_settings": {
+      "mr": "सेटिंग्ज उघडा",
+      "translation": "सेटिंग्ज उघडा"
+    },
+    "open_in_app": {
+      "mr": "अ‍ॅपमध्ये उघडा",
+      "translation": "अ‍ॅपमध्ये उघडा"
+    },
+    "open_in_safari": {
+      "mr": "Safari मध्ये उघडा",
+      "translation": "Safari मध्ये उघडा"
+    },
+    "open_in_youtube": {
+      "mr": "YouTube मध्ये उघडा",
+      "translation": "YouTube मध्ये उघडा"
+    },
+    "seeAll": {
+      "mr": "सर्व पहा",
+      "translation": "सर्व पहा"
+    },
+    "noResults": {
+      "mr": "कोणतेही परिणाम नाहीत",
+      "translation": "कोणतेही परिणाम नाहीत"
+    },
+    "score": {
+      "mr": "गुण",
+      "translation": "गुण"
+    },
+    "question": {
+      "mr": "प्रश्न",
+      "translation": "प्रश्न"
+    },
+    "today": {
+      "mr": "आज",
+      "translation": "आज"
+    },
+    "thisWeek": {
+      "mr": "या आठवड्यात",
+      "translation": "या आठवड्यात"
+    },
+    "allTime": {
+      "mr": "सर्व वेळ",
+      "translation": "सर्व वेळ"
+    },
+    "fun_fact": {
+      "mr": "मजेदार तथ्य!",
+      "translation": "मजेदार तथ्य!"
+    },
+    "why_it_helps": {
+      "mr": "हे का मदत करते",
+      "translation": "हे का मदत करते"
+    },
+    "steps": {
+      "mr": "पायऱ्या",
+      "translation": "पायऱ्या"
+    },
+    "tips": {
+      "mr": "टिपा",
+      "translation": "टिपा"
+    },
+    "what_you_need": {
+      "mr": "तुम्हाला काय लागेल",
+      "translation": "तुम्हाला काय लागेल"
+    },
+    "key_facts": {
+      "mr": "मुख्य तथ्ये",
+      "translation": "मुख्य तथ्ये"
+    },
+    "location": {
+      "mr": "स्थान",
+      "translation": "स्थान"
+    },
+    "quickAccess": {
+      "mr": "द्रुत प्रवेश",
+      "translation": "द्रुत प्रवेश"
+    },
+    "myMemories": {
+      "mr": "माझ्या आठवणी",
+      "translation": "माझ्या आठवणी"
+    },
+    "addFirstMemory": {
+      "mr": "तुमची पहिली आठवण जोडा 📸",
+      "translation": "तुमची पहिली आठवण जोडा 📸"
+    },
+    "starsToday": {
+      "mr": "आज मिळवलेले तारे!",
+      "translation": "आज मिळवलेले तारे!"
+    },
+    "noStarsYet": {
+      "mr": "आज अद्याप कोणतेही तारे मिळाले नाहीत",
+      "translation": "आज अद्याप कोणतेही तारे मिळाले नाहीत"
+    },
+    "tapStarChart": {
+      "mr": "तुमचा तारा चार्ट पाहण्यासाठी टॅप करा",
+      "translation": "तुमचा तारा चार्ट पाहण्यासाठी टॅप करा"
+    },
+    "emotionTrainer": {
+      "mr": "भावना प्रशिक्षक",
+      "translation": "भावना प्रशिक्षक"
+    },
+    "emoji_trainer": {
+      "mr": "भावना प्रशिक्षक",
+      "translation": "भावना प्रशिक्षक"
+    },
+    "howDoYouFeel": {
+      "mr": "तुम्हाला कसे वाटते?",
+      "translation": "तुम्हाला कसे वाटते?"
+    },
+    "tapEmotion": {
+      "mr": "त्याबद्दल जाणून घेण्यासाठी भावनेवर टॅप करा",
+      "translation": "त्याबद्दल जाणून घेण्यासाठी भावनेवर टॅप करा"
+    },
+    "wellDone": {
+      "mr": "शाबास!",
+      "translation": "शाबास!"
+    },
+    "keepGoing": {
+      "mr": "चालू ठेवा!",
+      "translation": "चालू ठेवा!"
+    },
+    "myProgress": {
+      "mr": "माझी प्रगती",
+      "translation": "माझी प्रगती"
+    },
+    "lets_learn_feelings": {
+      "mr": "चला भावनांबद्दल शिकूया",
+      "translation": "चला भावनांबद्दल शिकूया"
+    },
+    "tap_face_to_learn": {
+      "mr": "त्या भावनेबद्दल जाणून घेण्यासाठी चेहऱ्यावर टॅप करा",
+      "translation": "त्या भावनेबद्दल जाणून घेण्यासाठी चेहऱ्यावर टॅप करा"
+    },
+    "tap_to_hear_desc": {
+      "mr": "वर्णन ऐकण्यासाठी टॅप करा",
+      "translation": "वर्णन ऐकण्यासाठी टॅप करा"
+    },
+    "what_does_it_feel": {
+      "mr": "ते कसे वाटते?",
+      "translation": "ते कसे वाटते?"
+    },
+    "try_making_face": {
+      "mr": "हा चेहरा बनवून पहा!",
+      "translation": "हा चेहरा बनवून पहा!"
+    },
+    "hear_description": {
+      "mr": "वर्णन ऐका",
+      "translation": "वर्णन ऐका"
+    },
+    "speak_and_get_response": {
+      "mr": "बोला आणि मैत्रीपूर्ण प्रतिसाद मिळवा",
+      "translation": "बोला आणि मैत्रीपूर्ण प्रतिसाद मिळवा"
+    },
+    "voice_chat_talk_feelings": {
+      "mr": "आवाज गप्पा — भावनांबद्दल बोला",
+      "translation": "आवाज गप्पा — भावनांबद्दल बोला"
+    },
+    "stars_earned": {
+      "mr": "⭐ मिळवलेले तारे",
+      "translation": "⭐ मिळवलेले तारे"
+    },
+    "can_you_look": {
+      "mr": "तुम्ही पाहू शकता का...",
+      "translation": "तुम्ही पाहू शकता का..."
+    },
+    "next_emotion": {
+      "mr": "पुढील भावना",
+      "translation": "पुढील भावना"
+    },
+    "hear_tip": {
+      "mr": "टीप ऐका",
+      "translation": "टीप ऐका"
+    },
+    "hold_it": {
+      "mr": "थांबा!",
+      "translation": "थांबा!"
+    },
+    "camera_needed": {
+      "mr": "कॅमेरा प्रवेश आवश्यक",
+      "translation": "कॅमेरा प्रवेश आवश्यक"
+    },
+    "camera_permission": {
+      "mr": "कृपया सेटिंग्जमध्ये कॅमेरा प्रवेशास परवानगी द्या.",
+      "translation": "कृपया सेटिंग्जमध्ये कॅमेरा प्रवेशास परवानगी द्या."
+    },
+    "identify_mode_title": {
+      "mr": "ओळख मोड",
+      "translation": "ओळख मोड"
+    },
+    "how_does_person_feel": {
+      "mr": "ही व्यक्ती कसे वाटते?",
+      "translation": "ही व्यक्ती कसे वाटते?"
+    },
+    "hear_story": {
+      "mr": "कथा ऐका",
+      "translation": "कथा ऐका"
+    },
+    "by_emotion": {
+      "mr": "भावनेनुसार",
+      "translation": "भावनेनुसार"
+    },
+    "recent_attempts": {
+      "mr": "अलीकडील प्रयत्न",
+      "translation": "अलीकडील प्रयत्न"
+    },
+    "by_operation": {
+      "mr": "ऑपरेशननुसार",
+      "translation": "ऑपरेशननुसार"
+    },
+    "recent_problems": {
+      "mr": "अलीकडील प्रश्न",
+      "translation": "अलीकडील प्रश्न"
+    },
+    "progress_title": {
+      "mr": "प्रगती",
+      "translation": "प्रगती"
+    },
+    "math_progress": {
+      "mr": "गणिताची प्रगती",
+      "translation": "गणिताची प्रगती"
+    },
+    "math_subtitle": {
+      "mr": "गणित, पैसे आणि मोजमाप",
+      "translation": "गणित, पैसे आणि मोजमाप"
+    },
+    "math_videos": {
+      "mr": "प्रत्येक विषयासाठी व्हिडिओ + सराव",
+      "translation": "प्रत्येक विषयासाठी व्हिडिओ + सराव"
+    },
+    "hear_problem": {
+      "mr": "प्रश्न ऐका",
+      "translation": "प्रश्न ऐका"
+    },
+    "englishLessons": {
+      "mr": "इंग्रजी धडे",
+      "translation": "इंग्रजी धडे"
+    },
+    "tapToHearWord": {
+      "mr": "शब्द ऐकण्यासाठी कोणत्याही कार्डवर टॅप करा",
+      "translation": "शब्द ऐकण्यासाठी कोणत्याही कार्डवर टॅप करा"
+    },
+    "pronunciation": {
+      "mr": "उच्चार",
+      "translation": "उच्चार"
+    },
+    "what_word_matches": {
+      "mr": "या शब्दाशी काय जुळते?",
+      "translation": "या शब्दाशी काय जुळते?"
+    },
+    "scienceLab": {
+      "mr": "विज्ञान प्रयोगशाळा",
+      "translation": "विज्ञान प्रयोगशाळा"
+    },
+    "funExperiments": {
+      "mr": "मजेदार प्रयोग!",
+      "translation": "मजेदार प्रयोग!"
+    },
+    "safe_at_home": {
+      "mr": "मोठ्यांसोबत घरी करण्यासाठी सुरक्षित",
+      "translation": "मोठ्यांसोबत घरी करण्यासाठी सुरक्षित"
+    },
+    "why_it_works": {
+      "mr": "हे का काम करते",
+      "translation": "हे का काम करते"
+    },
+    "you_need": {
+      "mr": "तुम्हाला लागेल",
+      "translation": "तुम्हाला लागेल"
+    },
+    "measurements_subtitle": {
+      "mr": "पहा, शिका आणि सराव करा!",
+      "translation": "पहा, शिका आणि सराव करा!"
+    },
+    "tap_scenario": {
+      "mr": "पैसे देणे आणि सुटे मिळवणे याबद्दल जाणून घेण्यासाठी एखाद्या परिस्थितीवर टॅप करा",
+      "translation": "पैसे देणे आणि सुटे मिळवणे याबद्दल जाणून घेण्यासाठी एखाद्या परिस्थितीवर टॅप करा"
+    },
+    "shopkeeper_gives_change": {
+      "mr": "दुकानदार तुम्हाला सुटे देतो.",
+      "translation": "दुकानदार तुम्हाला सुटे देतो."
+    },
+    "hear_it_explained": {
+      "mr": "ते समजावले ऐका",
+      "translation": "ते समजावले ऐका"
+    },
+    "shopping_title": {
+      "mr": "खरेदी",
+      "translation": "खरेदी"
+    },
+    "enter_amounts": {
+      "mr": "रक्कम टाका",
+      "translation": "रक्कम टाका"
+    },
+    "quick_examples": {
+      "mr": "द्रुत उदाहरणे",
+      "translation": "द्रुत उदाहरणे"
+    },
+    "converter": {
+      "mr": "परिवर्तक",
+      "translation": "परिवर्तक"
+    },
+    "activities_subtitle": {
+      "mr": "स्केटिंग, रंगकाम, चित्रकाम आणि पोहणे",
+      "translation": "स्केटिंग, रंगकाम, चित्रकाम आणि पोहणे"
+    },
+    "what_you_need_title": {
+      "mr": "तुम्हाला काय लागेल",
+      "translation": "तुम्हाला काय लागेल"
+    },
+    "calm_my_body": {
+      "mr": "माझे शरीर शांत करा",
+      "translation": "माझे शरीर शांत करा"
+    },
+    "breathing_and_calming": {
+      "mr": "श्वास आणि शांत व्यायाम",
+      "translation": "श्वास आणि शांत व्यायाम"
+    },
+    "breathing_exercises": {
+      "mr": "श्वास व्यायाम",
+      "translation": "श्वास व्यायाम"
+    },
+    "calming_activities": {
+      "mr": "शांत क्रियाकलाप",
+      "translation": "शांत क्रियाकलाप"
+    },
+    "tap_or_swipe_to_spin": {
+      "mr": "फिरवण्यासाठी टॅप करा किंवा स्वाइप करा",
+      "translation": "फिरवण्यासाठी टॅप करा किंवा स्वाइप करा"
+    },
+    "pop_bubbles": {
+      "mr": "बुडबुडे फोडा",
+      "translation": "बुडबुडे फोडा"
+    },
+    "dailyRoutineTitle": {
+      "mr": "दैनंदिन दिनक्रम",
+      "translation": "दैनंदिन दिनक्रम"
+    },
+    "allDone": {
+      "mr": "सर्व पूर्ण! छान काम! 🎉",
+      "translation": "सर्व पूर्ण! छान काम! 🎉"
+    },
+    "tasksCompleted": {
+      "mr": "कार्ये पूर्ण झाली",
+      "translation": "कार्ये पूर्ण झाली"
+    },
+    "no_tasks_yet": {
+      "mr": "अद्याप कोणतीही कार्ये नाहीत",
+      "translation": "अद्याप कोणतीही कार्ये नाहीत"
+    },
+    "add_task_to_build": {
+      "mr": "तुमचा दैनंदिन दिनक्रम तयार करण्यासाठी \\\\\"कार्य जोडा\\\\\" टॅप करा",
+      "translation": "तुमचा दैनंदिन दिनक्रम तयार करण्यासाठी \\\\\"कार्य जोडा\\\\\" टॅप करा"
+    },
+    "add_task_button": {
+      "mr": "कार्य जोडा",
+      "translation": "कार्य जोडा"
+    },
+    "celebration_message": {
+      "mr": "तुम्ही सर्व कार्ये पूर्ण केली.\\\\nआजचे अद्भुत काम!",
+      "translation": "तुम्ही सर्व कार्ये पूर्ण केली.\\\\nआजचे अद्भुत काम!"
+    },
+    "todaySchedule": {
+      "mr": "आजचे वेळापत्रक",
+      "translation": "आजचे वेळापत्रक"
+    },
+    "addActivity": {
+      "mr": "क्रियाकलाप जोडा",
+      "translation": "क्रियाकलाप जोडा"
+    },
+    "noActivities": {
+      "mr": "कोणते क्रियाकलाप नियोजित नाहीत",
+      "translation": "कोणते क्रियाकलाप नियोजित नाहीत"
+    },
+    "festivals": {
+      "mr": "सण",
+      "translation": "सण"
+    },
+    "calendar": {
+      "mr": "दिनदर्शिका",
+      "translation": "दिनदर्शिका"
+    },
+    "no_activities_scheduled": {
+      "mr": "कोणते क्रियाकलाप नियोजित नाहीत. + टॅप करून जोडा.",
+      "translation": "कोणते क्रियाकलाप नियोजित नाहीत. + टॅप करून जोडा."
+    },
+    "this_months_festivals": {
+      "mr": "या महिन्यातील सण",
+      "translation": "या महिन्यातील सण"
+    },
+    "coming_up_soon": {
+      "mr": "लवकरच येत आहे",
+      "translation": "लवकरच येत आहे"
+    },
+    "how_it_is_celebrated": {
+      "mr": "हे कसे साजरे केले जाते",
+      "translation": "हे कसे साजरे केले जाते"
+    },
+    "hear_about_it": {
+      "mr": "त्याबद्दल ऐका",
+      "translation": "त्याबद्दल ऐका"
+    },
+    "add_time_slot": {
+      "mr": "वेळ स्लॉट जोडा",
+      "translation": "वेळ स्लॉट जोडा"
+    },
+    "every_day": {
+      "mr": "दररोज",
+      "translation": "दररोज"
+    },
+    "myStarsTitle": {
+      "mr": "माझे तारे ⭐️",
+      "translation": "माझे तारे ⭐️"
+    },
+    "earnedToday": {
+      "mr": "आज मिळवले",
+      "translation": "आज मिळवले"
+    },
+    "totalStars": {
+      "mr": "एकूण तारे",
+      "translation": "एकूण तारे"
+    },
+    "today_stars": {
+      "mr": "आजचे तारे",
+      "translation": "आजचे तारे"
+    },
+    "recent_stars": {
+      "mr": "अलीकडील तारे",
+      "translation": "अलीकडील तारे"
+    },
+    "this_week_chart": {
+      "mr": "या आठवड्यात",
+      "translation": "या आठवड्यात"
+    },
+    "memories_subtitle": {
+      "mr": "माझ्या आवडत्या क्षणांचे फोटो आणि व्हिडिओ",
+      "translation": "माझ्या आवडत्या क्षणांचे फोटो आणि व्हिडिओ"
+    },
+    "add_memory": {
+      "mr": "आठवण जोडा",
+      "translation": "आठवण जोडा"
+    },
+    "no_memories_yet": {
+      "mr": "अद्याप कोणत्या आठवणी नाहीत!",
+      "translation": "अद्याप कोणत्या आठवणी नाहीत!"
+    },
+    "tap_to_add_memory": {
+      "mr": "तुमची पहिली आठवण जोडण्यासाठी \\\\\"+\\\\\" टॅप करा",
+      "translation": "तुमची पहिली आठवण जोडण्यासाठी \\\\\"+\\\\\" टॅप करा"
+    },
+    "add_memory_title": {
+      "mr": "आठवण जोडा",
+      "translation": "आठवण जोडा"
+    },
+    "choose_from_library": {
+      "mr": "लायब्ररीतून निवडा",
+      "translation": "लायब्ररीतून निवडा"
+    },
+    "youtube_video_link": {
+      "mr": "YouTube व्हिडिओ लिंक (पर्यायी)",
+      "translation": "YouTube व्हिडिओ लिंक (पर्यायी)"
+    },
+    "about_me": {
+      "mr": "माझ्याबद्दल",
+      "translation": "माझ्याबद्दल"
+    },
+    "photo_tab": {
+      "mr": "फोटो",
+      "translation": "फोटो"
+    },
+    "recordings_tab": {
+      "mr": "रेकॉर्डिंग",
+      "translation": "रेकॉर्डिंग"
+    },
+    "interests": {
+      "mr": "आवडी",
+      "translation": "आवडी"
+    },
+    "edit_profile": {
+      "mr": "प्रोफाइल संपादित करा",
+      "translation": "प्रोफाइल संपादित करा"
+    },
+    "no_photos_yet": {
+      "mr": "अद्याप कोणतेही फोटो नाहीत",
+      "translation": "अद्याप कोणतेही फोटो नाहीत"
+    },
+    "no_recordings_yet": {
+      "mr": "अद्याप कोणत्याही रेकॉर्डिंग नाहीत",
+      "translation": "अद्याप कोणत्याही रेकॉर्डिंग नाहीत"
+    },
+    "add_media": {
+      "mr": "जोडा",
+      "translation": "जोडा"
+    },
+    "video_stories_subtitle": {
+      "mr": "जीवन कौशल्ये शिकवणाऱ्या व्हिडिओ कथा",
+      "translation": "जीवन कौशल्ये शिकवणाऱ्या व्हिडिओ कथा"
+    },
+    "story_summary": {
+      "mr": "कथा सारांश",
+      "translation": "कथा सारांश"
+    },
+    "video_modeling_subtitle": {
+      "mr": "एखादे कार्य कसे करायचे ते पाहण्यासाठी व्हिडिओ पहा",
+      "translation": "एखादे कार्य कसे करायचे ते पाहण्यासाठी व्हिडिओ पहा"
+    },
+    "task_video_examples": {
+      "mr": "कार्य व्हिडिओ उदाहरणे",
+      "translation": "कार्य व्हिडिओ उदाहरणे"
+    },
+    "record_new": {
+      "mr": "नवीन रेकॉर्ड करा",
+      "translation": "नवीन रेकॉर्ड करा"
+    },
+    "hear_description_btn": {
+      "mr": "वर्णन ऐका",
+      "translation": "वर्णन ऐका"
+    },
+    "step_checklist": {
+      "mr": "पायरी चेकलिस्ट (पर्यायी)",
+      "translation": "पायरी चेकलिस्ट (पर्यायी)"
+    },
+    "refreshes_daily": {
+      "mr": "दररोज ताजेतवाने होते",
+      "translation": "दररोज ताजेतवाने होते"
+    },
+    "continue_watching": {
+      "mr": "पाहणे सुरू ठेवा",
+      "translation": "पाहणे सुरू ठेवा"
+    },
+    "learning_videos": {
+      "mr": "शिकण्याचे व्हिडिओ",
+      "translation": "शिकण्याचे व्हिडिओ"
+    },
+    "explore_and_learn": {
+      "mr": "शोधा आणि शिका",
+      "translation": "शोधा आणि शिका"
+    },
+    "watch_history": {
+      "mr": "पाहण्याचा इतिहास",
+      "translation": "पाहण्याचा इतिहास"
+    },
+    "video_unavailable": {
+      "mr": "व्हिडिओ उपलब्ध नाही",
+      "translation": "व्हिडिओ उपलब्ध नाही"
+    },
+    "virtual_tours_subtitle": {
+      "mr": "तुमच्या स्क्रीनवरून जगाचा शोध घ्या",
+      "translation": "तुमच्या स्क्रीनवरून जगाचा शोध घ्या"
+    },
+    "interactive": {
+      "mr": "परस्परसंवादी",
+      "translation": "परस्परसंवादी"
+    },
+    "explore_from_screen": {
+      "mr": "तुमच्या स्क्रीनवरून जगाचा शोध घ्या",
+      "translation": "तुमच्या स्क्रीनवरून जगाचा शोध घ्या"
+    },
+    "explore_world": {
+      "mr": "जग शोधा",
+      "translation": "जग शोधा"
+    },
+    "famous_places": {
+      "mr": "प्रसिद्ध ठिकाणे!",
+      "translation": "प्रसिद्ध ठिकाणे!"
+    },
+    "tap_to_learn": {
+      "mr": "त्याबद्दल जाणून घेण्यासाठी कोणत्याही ठिकाणावर टॅप करा",
+      "translation": "त्याबद्दल जाणून घेण्यासाठी कोणत्याही ठिकाणावर टॅप करा"
+    },
+    "hear_about_place": {
+      "mr": "या ठिकाणाबद्दल ऐका",
+      "translation": "या ठिकाणाबद्दल ऐका"
+    },
+    "six_second_title": {
+      "mr": "6-सेकंद नियम",
+      "translation": "6-सेकंद नियम"
+    },
+    "six_second_subtitle": {
+      "mr": "ऑटिझमसाठी संवाद धोरण",
+      "translation": "ऑटिझमसाठी संवाद धोरण"
+    },
+    "six_second_explain": {
+      "mr": "प्रश्न विचारल्यानंतर किंवा सूचना दिल्यानंतर, पुन्हा सांगण्यापूर्वी 6 सेकंद शांतपणे थांबा.",
+      "translation": "प्रश्न विचारल्यानंतर किंवा सूचना दिल्यानंतर, पुन्हा सांगण्यापूर्वी 6 सेकंद शांतपणे थांबा."
+    },
+    "hear_explanation": {
+      "mr": "स्पष्टीकरण ऐका",
+      "translation": "स्पष्टीकरण ऐका"
+    },
+    "seconds": {
+      "mr": "सेकंद",
+      "translation": "सेकंद"
+    },
+    "question_or_instruction": {
+      "mr": "प्रश्न किंवा सूचना",
+      "translation": "प्रश्न किंवा सूचना"
+    },
+    "holdToTalk": {
+      "mr": "बोलण्यासाठी दाबून ठेवा",
+      "translation": "बोलण्यासाठी दाबून ठेवा"
+    },
+    "listening": {
+      "mr": "ऐकत आहे…",
+      "translation": "ऐकत आहे…"
+    },
+    "autiSpeaking": {
+      "mr": "Auti बोलत आहे…",
+      "translation": "Auti बोलत आहे…"
+    },
+    "mic_permission": {
+      "mr": "कृपया सेटिंग्जमध्ये मायक्रोफोन आणि भाषण ओळख प्रवेशास परवानगी द्या.",
+      "translation": "कृपया सेटिंग्जमध्ये मायक्रोफोन आणि भाषण ओळख प्रवेशास परवानगी द्या."
+    },
+    "talk_about_feelings": {
+      "mr": "माइक टॅप करा आणि तुम्हाला कसे वाटते ते सांगा!",
+      "translation": "माइक टॅप करा आणि तुम्हाला कसे वाटते ते सांगा!"
+    },
+    "lock_app_now": {
+      "mr": "अ‍ॅप आता लॉक करा",
+      "translation": "अ‍ॅप आता लॉक करा"
+    },
+    "requires_pin": {
+      "mr": "बाहेर पडण्यासाठी PIN आवश्यक",
+      "translation": "बाहेर पडण्यासाठी PIN आवश्यक"
+    },
+    "change_unlock_pin": {
+      "mr": "अनलॉक PIN बदला",
+      "translation": "अनलॉक PIN बदला"
+    },
+    "app_lock_kiosk": {
+      "mr": "अ‍ॅप लॉक आणि किओस्क मोड",
+      "translation": "अ‍ॅप लॉक आणि किओस्क मोड"
+    },
+    "app_lock_desc": {
+      "mr": "लॉक केल्यावर, मूल इतर अ‍ॅप्सवर जाऊ शकत नाही.",
+      "translation": "लॉक केल्यावर, मूल इतर अ‍ॅप्सवर जाऊ शकत नाही."
+    },
+    "setup_guided_access": {
+      "mr": "iOS Guided Access सेट करा",
+      "translation": "iOS Guided Access सेट करा"
+    },
+    "parent_mode_title": {
+      "mr": "पालक मोड",
+      "translation": "पालक मोड"
+    },
+    "parent_mode": {
+      "mr": "पालक मोड",
+      "translation": "पालक मोड"
+    },
+    "position_face": {
+      "mr": "तुमचा चेहरा इथे ठेवा",
+      "translation": "तुमचा चेहरा इथे ठेवा"
+    },
+    "app_is_locked": {
+      "mr": "SproutPath लॉक आहे",
+      "translation": "SproutPath लॉक आहे"
+    },
+    "ask_parent_to_unlock": {
+      "mr": "अनलॉक करण्यासाठी पालक किंवा काळजीवाहकाला विचारा",
+      "translation": "अनलॉक करण्यासाठी पालक किंवा काळजीवाहकाला विचारा"
+    },
+    "language": {
+      "mr": "भाषा",
+      "translation": "भाषा"
+    },
+    "selectLanguage": {
+      "mr": "भाषा निवडा",
+      "translation": "भाषा निवडा"
+    },
+    "changeLanguage": {
+      "mr": "भाषा बदला",
+      "translation": "भाषा बदला"
+    },
+    "currentLanguage": {
+      "mr": "सध्याची भाषा",
+      "translation": "सध्याची भाषा"
+    },
+    "appLanguage": {
+      "mr": "अ‍ॅप भाषा",
+      "translation": "अ‍ॅप भाषा"
+    },
+    "better_voice_available": {
+      "mr": "चांगला आवाज उपलब्ध",
+      "translation": "चांगला आवाज उपलब्ध"
+    },
+    "download_neural_voice": {
+      "mr": "अधिक नैसर्गिक आवाजासाठी Apple चा मोफत neural voice डाउनलोड करा.",
+      "translation": "अधिक नैसर्गिक आवाजासाठी Apple चा मोफत neural voice डाउनलोड करा."
+    },
+    "parent_hub": {
+      "mr": "पालक केंद्र",
+      "translation": "पालक केंद्र"
+    },
+    "behavior_journal": {
+      "mr": "वर्तन डायरी",
+      "translation": "वर्तन डायरी"
+    },
+    "emergency_card": {
+      "mr": "आपत्कालीन कार्ड",
+      "translation": "आपत्कालीन कार्ड"
+    },
+    "sensory_profile": {
+      "mr": "संवेदी प्रोफाइल",
+      "translation": "संवेदी प्रोफाइल"
+    },
+    "handoff_notes": {
+      "mr": "हँडऑफ नोट्स",
+      "translation": "हँडऑफ नोट्स"
+    },
+    "progress_summary": {
+      "mr": "प्रगती सारांश",
+      "translation": "प्रगती सारांश"
+    },
+    "therapist_report": {
+      "mr": "थेरपिस्ट अहवाल",
+      "translation": "थेरपिस्ट अहवाल"
+    },
+    "goals_tab": {
+      "mr": "लक्ष्ये",
+      "translation": "लक्ष्ये"
+    },
+    "export_report": {
+      "mr": "अहवाल निर्यात करा",
+      "translation": "अहवाल निर्यात करा"
+    },
+    "no_entries": {
+      "mr": "अद्याप कोणत्या नोंदी नाहीत",
+      "translation": "अद्याप कोणत्या नोंदी नाहीत"
+    },
+    "add_entry": {
+      "mr": "नोंद जोडा",
+      "translation": "नोंद जोडा"
+    },
+    "patterns": {
+      "mr": "नमुने",
+      "translation": "नमुने"
+    },
+    "history": {
+      "mr": "इतिहास",
+      "translation": "इतिहास"
+    },
+    "math_tables": {
+      "mr": "गुणाकार पट्ट्या",
+      "translation": "गुणाकार पट्ट्या"
+    },
+    "multiplication_tables": {
+      "mr": "गुणाकार सारण्या",
+      "translation": "गुणाकार सारण्या"
+    },
+    "tables_subtitle": {
+      "mr": "मजेसह 1 ते 20 च्या पट्ट्या शिका!",
+      "translation": "मजेसह 1 ते 20 च्या पट्ट्या शिका!"
+    },
+    "select_table": {
+      "mr": "शिकण्यासाठी पट्टी निवडा",
+      "translation": "शिकण्यासाठी पट्टी निवडा"
+    },
+    "table_of": {
+      "mr": "चा पाढा",
+      "translation": "चा पाढा"
+    },
+    "practice_mode": {
+      "mr": "सराव",
+      "translation": "सराव"
+    },
+    "reference_mode": {
+      "mr": "संदर्भ",
+      "translation": "संदर्भ"
+    },
+    "tables_quiz": {
+      "mr": "माझी परीक्षा घ्या!",
+      "translation": "माझी परीक्षा घ्या!"
+    },
+    "kids_navigation": {
+      "mr": "माझा नकाशा",
+      "translation": "माझा नकाशा"
+    },
+    "where_are_you_going": {
+      "mr": "तुम्ही कुठे जात आहात?",
+      "translation": "तुम्ही कुठे जात आहात?"
+    },
+    "choose_destination": {
+      "mr": "जाण्यासाठी ठिकाण निवडा",
+      "translation": "जाण्यासाठी ठिकाण निवडा"
+    },
+    "start_navigation": {
+      "mr": "चला जाऊया! 🚀",
+      "translation": "चला जाऊया! 🚀"
+    },
+    "you_are_here": {
+      "mr": "तुम्ही इथे आहात! 📍",
+      "translation": "तुम्ही इथे आहात! 📍"
+    },
+    "destination": {
+      "mr": "गंतव्य",
+      "translation": "गंतव्य"
+    },
+    "tap_to_navigate": {
+      "mr": "दिशा मिळवण्यासाठी ठिकाणावर टॅप करा",
+      "translation": "दिशा मिळवण्यासाठी ठिकाणावर टॅप करा"
+    },
+    "nearby_places": {
+      "mr": "जवळपासची ठिकाणे",
+      "translation": "जवळपासची ठिकाणे"
+    },
+    "kids_map": {
+      "mr": "माझा नकाशा",
+      "translation": "माझा नकाशा"
+    },
+    "favorite_places": {
+      "mr": "आवडती ठिकाणे",
+      "translation": "आवडती ठिकाणे"
+    },
+    "where_are_we_going": {
+      "mr": "आपण कुठे जात आहोत?",
+      "translation": "आपण कुठे जात आहोत?"
+    },
+    "where_are_we_now": {
+      "mr": "आपण आता कुठे आहोत?",
+      "translation": "आपण आता कुठे आहोत?"
+    },
+    "get_directions": {
+      "mr": "दिशा मिळवा",
+      "translation": "दिशा मिळवा"
+    },
+    "parent_hub_title": {
+      "mr": "पालक केंद्र",
+      "translation": "पालक केंद्र"
+    },
+    "handoff_tab": {
+      "mr": "हँडऑफ",
+      "translation": "हँडऑफ"
+    },
+    "progress_tab": {
+      "mr": "प्रगती",
+      "translation": "प्रगती"
+    },
+    "goals_tab_label": {
+      "mr": "लक्ष्ये",
+      "translation": "लक्ष्ये"
+    },
+    "report_tab": {
+      "mr": "अहवाल",
+      "translation": "अहवाल"
+    },
+    "todays_handoff_note": {
+      "mr": "आजची हँडऑफ नोट",
+      "translation": "आजची हँडऑफ नोट"
+    },
+    "write_todays_note": {
+      "mr": "आजची हँडऑफ नोट लिहा",
+      "translation": "आजची हँडऑफ नोट लिहा"
+    },
+    "previous_notes": {
+      "mr": "मागील नोट्स",
+      "translation": "मागील नोट्स"
+    },
+    "mood_today": {
+      "mr": "आजचा मूड",
+      "translation": "आजचा मूड"
+    },
+    "tonight_works": {
+      "mr": "आज रात्री",
+      "translation": "आज रात्री"
+    },
+    "how_was_their_day": {
+      "mr": "त्यांचा दिवस कसा होता?",
+      "translation": "त्यांचा दिवस कसा होता?"
+    },
+    "note_for_caregiver": {
+      "mr": "काळजीवाहकासाठी नोट",
+      "translation": "काळजीवाहकासाठी नोट"
+    },
+    "what_works_tonight": {
+      "mr": "आज रात्री काय उपयुक्त आहे",
+      "translation": "आज रात्री काय उपयुक्त आहे"
+    },
+    "handoff_note_title": {
+      "mr": "हँडऑफ नोट",
+      "translation": "हँडऑफ नोट"
+    },
+    "todays_summary": {
+      "mr": "आजचा सारांश",
+      "translation": "आजचा सारांश"
+    },
+    "videos_watched_today": {
+      "mr": "आज पाहिलेले व्हिडिओ",
+      "translation": "आज पाहिलेले व्हिडिओ"
+    },
+    "suggested_goals": {
+      "mr": "या आठवड्यासाठी सुचवलेली लक्ष्ये",
+      "translation": "या आठवड्यासाठी सुचवलेली लक्ष्ये"
+    },
+    "goal_achieved": {
+      "mr": "या आठवड्यात लक्ष्य साध्य! 🎉",
+      "translation": "या आठवड्यात लक्ष्य साध्य! 🎉"
+    },
+    "per_week": {
+      "mr": "× आठवड्यातून",
+      "translation": "× आठवड्यातून"
+    },
+    "new_goal": {
+      "mr": "नवीन लक्ष्य",
+      "translation": "नवीन लक्ष्य"
+    },
+    "goal_label": {
+      "mr": "लक्ष्य",
+      "translation": "लक्ष्य"
+    },
+    "target_label": {
+      "mr": "लक्ष्यांक",
+      "translation": "लक्ष्यांक"
+    },
+    "section_label": {
+      "mr": "विभाग",
+      "translation": "विभाग"
+    },
+    "report_period": {
+      "mr": "अहवाल कालावधी",
+      "translation": "अहवाल कालावधी"
+    },
+    "last_week": {
+      "mr": "गेल्या आठवड्यात",
+      "translation": "गेल्या आठवड्यात"
+    },
+    "last_2_weeks": {
+      "mr": "गेल्या 2 आठवड्यांत",
+      "translation": "गेल्या 2 आठवड्यांत"
+    },
+    "last_month": {
+      "mr": "गेल्या महिन्यात",
+      "translation": "गेल्या महिन्यात"
+    },
+    "last_3_months": {
+      "mr": "गेल्या 3 महिन्यांत",
+      "translation": "गेल्या 3 महिन्यांत"
+    },
+    "emotion_attempts": {
+      "mr": "भावना प्रयत्न",
+      "translation": "भावना प्रयत्न"
+    },
+    "math_attempts": {
+      "mr": "गणित प्रयत्न",
+      "translation": "गणित प्रयत्न"
+    },
+    "stars_earned_label": {
+      "mr": "मिळवलेले तारे",
+      "translation": "मिळवलेले तारे"
+    },
+    "difficult_moments": {
+      "mr": "कठीण क्षण",
+      "translation": "कठीण क्षण"
+    },
+    "emotion_by_type": {
+      "mr": "प्रकारानुसार भावना ओळख",
+      "translation": "प्रकारानुसार भावना ओळख"
+    },
+    "behavior_summary": {
+      "mr": "वर्तन सारांश",
+      "translation": "वर्तन सारांश"
+    },
+    "avg_severity": {
+      "mr": "सरासरी तीव्रता",
+      "translation": "सरासरी तीव्रता"
+    },
+    "export_report_btn": {
+      "mr": "अहवाल निर्यात करा",
+      "translation": "अहवाल निर्यात करा"
+    },
+    "log_tab": {
+      "mr": "नोंद",
+      "translation": "नोंद"
+    },
+    "patterns_tab": {
+      "mr": "नमुने",
+      "translation": "नमुने"
+    },
+    "history_tab": {
+      "mr": "इतिहास",
+      "translation": "इतिहास"
+    },
+    "behavior_journal_title": {
+      "mr": "वर्तन डायरी",
+      "translation": "वर्तन डायरी"
+    },
+    "today_entries": {
+      "mr": "आज",
+      "translation": "आज"
+    },
+    "quick_log": {
+      "mr": "द्रुत नोंद",
+      "translation": "द्रुत नोंद"
+    },
+    "no_patterns_yet": {
+      "mr": "अद्याप कोणते नमुने नाहीत",
+      "translation": "अद्याप कोणते नमुने नाहीत"
+    },
+    "add_behavior_entries": {
+      "mr": "नमुने पाहण्यासाठी वर्तन नोंदी जोडा.",
+      "translation": "नमुने पाहण्यासाठी वर्तन नोंदी जोडा."
+    },
+    "add_first_entry": {
+      "mr": "पहिली नोंद जोडा",
+      "translation": "पहिली नोंद जोडा"
+    },
+    "time_of_day": {
+      "mr": "दिवसाची वेळ",
+      "translation": "दिवसाची वेळ"
+    },
+    "day_of_week": {
+      "mr": "आठवड्याचा दिवस",
+      "translation": "आठवड्याचा दिवस"
+    },
+    "most_common_triggers": {
+      "mr": "सर्वात सामान्य कारणे",
+      "translation": "सर्वात सामान्य कारणे"
+    },
+    "what_helped_most": {
+      "mr": "सर्वात जास्त काय मदत केली",
+      "translation": "सर्वात जास्त काय मदत केली"
+    },
+    "no_resolutions_yet": {
+      "mr": "अद्याप कोणते उपाय नोंदवले नाहीत — तुमच्या नोंदींमध्ये काही जोडा!",
+      "translation": "अद्याप कोणते उपाय नोंदवले नाहीत — तुमच्या नोंदींमध्ये काही जोडा!"
+    },
+    "no_history_yet": {
+      "mr": "अद्याप कोणता इतिहास नाही",
+      "translation": "अद्याप कोणता इतिहास नाही"
+    },
+    "history_over_time": {
+      "mr": "तुमच्या नोंदवलेल्या नोंदी कालांतराने इथे दिसतील.",
+      "translation": "तुमच्या नोंदवलेल्या नोंदी कालांतराने इथे दिसतील."
+    },
+    "no_entries_today": {
+      "mr": "आज कोणत्या नोंदी नाहीत",
+      "translation": "आज कोणत्या नोंदी नाहीत"
+    },
+    "tap_to_log_moment": {
+      "mr": "कठीण क्षण नोंदवण्यासाठी + टॅप करा, किंवा वरील द्रुत नोंद वापरा",
+      "translation": "कठीण क्षण नोंदवण्यासाठी + टॅप करा, किंवा वरील द्रुत नोंद वापरा"
+    },
+    "what_happened": {
+      "mr": "काय झाले?",
+      "translation": "काय झाले?"
+    },
+    "trigger_placeholder": {
+      "mr": "कारण (उदा. मोठा आवाज, दिनक्रम बदल)",
+      "translation": "कारण (उदा. मोठा आवाज, दिनक्रम बदल)"
+    },
+    "how_bad_was_it": {
+      "mr": "ते किती कठीण होते?",
+      "translation": "ते किती कठीण होते?"
+    },
+    "details_section": {
+      "mr": "तपशील",
+      "translation": "तपशील"
+    },
+    "location_label": {
+      "mr": "स्थान",
+      "translation": "स्थान"
+    },
+    "duration_label": {
+      "mr": "कालावधी",
+      "translation": "कालावधी"
+    },
+    "what_helped": {
+      "mr": "ते सोडवण्यास काय मदत झाली?",
+      "translation": "ते सोडवण्यास काय मदत झाली?"
+    },
+    "resolution_placeholder": {
+      "mr": "उदा. शांत खोली, खोल दाब",
+      "translation": "उदा. शांत खोली, खोल दाब"
+    },
+    "additional_notes": {
+      "mr": "अतिरिक्त नोट्स (पर्यायी)",
+      "translation": "अतिरिक्त नोट्स (पर्यायी)"
+    },
+    "log_entry_title": {
+      "mr": "नोंद",
+      "translation": "नोंद"
+    },
+    "darker_more": {
+      "mr": "गडद = त्या वेळेत अधिक नोंदी",
+      "translation": "गडद = त्या वेळेत अधिक नोंदी"
+    },
+    "trigger_label": {
+      "mr": "कारण",
+      "translation": "कारण"
+    },
+    "severity_label": {
+      "mr": "तीव्रता",
+      "translation": "तीव्रता"
+    },
+    "emergency_card_title": {
+      "mr": "आपत्कालीन कार्ड",
+      "translation": "आपत्कालीन कार्ड"
+    },
+    "emergency_card_info": {
+      "mr": "खाली तुमच्या मुलाचे तपशील भरा. आपत्कालीन स्थितीत, मदत करणाऱ्या कोणालाही हे कार्ड दाखवण्यासाठी शेअर टॅप करा.",
+      "translation": "खाली तुमच्या मुलाचे तपशील भरा. आपत्कालीन स्थितीत, मदत करणाऱ्या कोणालाही हे कार्ड दाखवण्यासाठी शेअर टॅप करा."
+    },
+    "edit_card": {
+      "mr": "कार्ड संपादित करा",
+      "translation": "कार्ड संपादित करा"
+    },
+    "share_card": {
+      "mr": "शेअर करा",
+      "translation": "शेअर करा"
+    },
+    "your_childs_name": {
+      "mr": "तुमच्या मुलाचे नाव",
+      "translation": "तुमच्या मुलाचे नाव"
+    },
+    "how_they_comm": {
+      "mr": "मी कसे बोलतो",
+      "translation": "मी कसे बोलतो"
+    },
+    "add_emergency_contacts": {
+      "mr": "कार्ड संपादित करून आपत्कालीन संपर्क जोडा",
+      "translation": "कार्ड संपादित करून आपत्कालीन संपर्क जोडा"
+    },
+    "edit_emergency_card": {
+      "mr": "आपत्कालीन कार्ड संपादित करा",
+      "translation": "आपत्कालीन कार्ड संपादित करा"
+    },
+    "child_section": {
+      "mr": "मूल",
+      "translation": "मूल"
+    },
+    "full_name": {
+      "mr": "पूर्ण नाव",
+      "translation": "पूर्ण नाव"
+    },
+    "age_label": {
+      "mr": "वय",
+      "translation": "वय"
+    },
+    "diagnosis_label": {
+      "mr": "निदान",
+      "translation": "निदान"
+    },
+    "communication_section": {
+      "mr": "संवाद",
+      "translation": "संवाद"
+    },
+    "how_they_communicate": {
+      "mr": "ते कसे बोलतात",
+      "translation": "ते कसे बोलतात"
+    },
+    "calming_section": {
+      "mr": "त्यांना शांत करण्यास काय मदत होते — स्वल्पविरामाने वेगळे करा",
+      "translation": "त्यांना शांत करण्यास काय मदत होते — स्वल्पविरामाने वेगळे करा"
+    },
+    "calming_placeholder": {
+      "mr": "उदा. शांत जागा, संगीत, ब्लँकेट",
+      "translation": "उदा. शांत जागा, संगीत, ब्लँकेट"
+    },
+    "do_not_section": {
+      "mr": "कृपया करू नका — स्वल्पविरामाने वेगळे करा",
+      "translation": "कृपया करू नका — स्वल्पविरामाने वेगळे करा"
+    },
+    "do_not_placeholder": {
+      "mr": "उदा. आवाज वाढवणे, इशाऱ्याशिवाय स्पर्श करणे",
+      "translation": "उदा. आवाज वाढवणे, इशाऱ्याशिवाय स्पर्श करणे"
+    },
+    "emergency_contact_1": {
+      "mr": "आपत्कालीन संपर्क 1",
+      "translation": "आपत्कालीन संपर्क 1"
+    },
+    "emergency_contact_2": {
+      "mr": "आपत्कालीन संपर्क 2 (पर्यायी)",
+      "translation": "आपत्कालीन संपर्क 2 (पर्यायी)"
+    },
+    "doctor_section": {
+      "mr": "डॉक्टर / थेरपिस्ट",
+      "translation": "डॉक्टर / थेरपिस्ट"
+    },
+    "medical_section": {
+      "mr": "वैद्यकीय नोट्स (पर्यायी)",
+      "translation": "वैद्यकीय नोट्स (पर्यायी)"
+    },
+    "medical_placeholder": {
+      "mr": "अ‍ॅलर्जी, औषधे, स्थिती...",
+      "translation": "अ‍ॅलर्जी, औषधे, स्थिती..."
+    },
+    "name_placeholder": {
+      "mr": "नाव",
+      "translation": "नाव"
+    },
+    "phone_label": {
+      "mr": "फोन नंबर",
+      "translation": "फोन नंबर"
+    },
+    "sensory_profile_title": {
+      "mr": "संवेदी प्रोफाइल",
+      "translation": "संवेदी प्रोफाइल"
+    },
+    "sensory_profile_info": {
+      "mr": "हे प्रोफाइल तुमच्या मुलाची काळजी घेणाऱ्या कोणालाही त्यांच्या संवेदी गरजा एका नजरेत समजण्यास मदत करते.",
+      "translation": "हे प्रोफाइल तुमच्या मुलाची काळजी घेणाऱ्या कोणालाही त्यांच्या संवेदी गरजा एका नजरेत समजण्यास मदत करते."
+    },
+    "sensory_share_btn": {
+      "mr": "शेअर करा",
+      "translation": "शेअर करा"
+    },
+    "sensitive_label": {
+      "mr": "संवेदनशील",
+      "translation": "संवेदनशील"
+    },
+    "neutral_label": {
+      "mr": "तटस्थ",
+      "translation": "तटस्थ"
+    },
+    "seeking_label": {
+      "mr": "शोधणारा",
+      "translation": "शोधणारा"
+    },
+    "sensitive_meaning": {
+      "mr": "टाळतो / त्रास होतो",
+      "translation": "टाळतो / त्रास होतो"
+    },
+    "neutral_meaning": {
+      "mr": "आरामदायक",
+      "translation": "आरामदायक"
+    },
+    "seeking_meaning": {
+      "mr": "शोधतो / हवे आहे",
+      "translation": "शोधतो / हवे आहे"
+    },
+    "examples_label": {
+      "mr": "उदाहरणे:",
+      "translation": "उदाहरणे:"
+    },
+    "additional_notes_placeholder": {
+      "mr": "अतिरिक्त नोट्स...",
+      "translation": "अतिरिक्त नोट्स..."
+    },
+    "edit_sensory_profile": {
+      "mr": "संवेदी प्रोफाइल संपादित करा",
+      "translation": "संवेदी प्रोफाइल संपादित करा"
+    },
+    "visual_timer": {
+      "mr": "दृश्य टाइमर",
+      "translation": "दृश्य टाइमर"
+    },
+    "visual_timer_hint": {
+      "mr": "आपण निघेपर्यंतचा वेळ",
+      "translation": "आपण निघेपर्यंतचा वेळ"
+    },
+    "timer_done": {
+      "mr": "वेळ संपला!",
+      "translation": "वेळ संपला!"
+    },
+    "custom_time": {
+      "mr": "सानुकूल",
+      "translation": "सानुकूल"
+    },
+    "enter_label": {
+      "mr": "हा टाइमर लेबल करा",
+      "translation": "हा टाइमर लेबल करा"
+    },
+    "my_stories": {
+      "mr": "माझ्या कथा",
+      "translation": "माझ्या कथा"
+    },
+    "my_stories_hint": {
+      "mr": "तुमच्या मुलाचे नाव आणि ठिकाणांसह वैयक्तिक सामाजिक कथा बनवा",
+      "translation": "तुमच्या मुलाचे नाव आणि ठिकाणांसह वैयक्तिक सामाजिक कथा बनवा"
+    },
+    "no_stories_yet": {
+      "mr": "अद्याप कोणत्या कथा नाहीत",
+      "translation": "अद्याप कोणत्या कथा नाहीत"
+    },
+    "create_first_story": {
+      "mr": "तुमची पहिली वैयक्तिकृत कथा बनवण्यासाठी + टॅप करा",
+      "translation": "तुमची पहिली वैयक्तिकृत कथा बनवण्यासाठी + टॅप करा"
+    },
+    "create_story": {
+      "mr": "कथा बनवा",
+      "translation": "कथा बनवा"
+    },
+    "pages": {
+      "mr": "पाने",
+      "translation": "पाने"
+    },
+    "no_pages_yet": {
+      "mr": "अद्याप कोणती पाने नाहीत. + टॅप करून पाने जोडा.",
+      "translation": "अद्याप कोणती पाने नाहीत. + टॅप करून पाने जोडा."
+    },
+    "the_end": {
+      "mr": "संपलं! 🌟",
+      "translation": "संपलं! 🌟"
+    },
+    "story_details": {
+      "mr": "कथा तपशील",
+      "translation": "कथा तपशील"
+    },
+    "story_title": {
+      "mr": "कथेचे शीर्षक",
+      "translation": "कथेचे शीर्षक"
+    },
+    "add_page": {
+      "mr": "पान जोडा",
+      "translation": "पान जोडा"
+    },
+    "page_text": {
+      "mr": "पानाचा मजकूर",
+      "translation": "पानाचा मजकूर"
+    },
+    "what_happened_here": {
+      "mr": "या पानावर काय होते?",
+      "translation": "या पानावर काय होते?"
+    },
+    "page_icon": {
+      "mr": "चिन्ह",
+      "translation": "चिन्ह"
+    },
+    "page_background": {
+      "mr": "पार्श्वभूमी",
+      "translation": "पार्श्वभूमी"
+    },
+    "mother_tongue": {
+      "mr": "मातृभाषा",
+      "translation": "मातृभाषा"
+    },
+    "mother_tongue_hint": {
+      "mr": "तुमच्या भाषेत शब्द शिका",
+      "translation": "तुमच्या भाषेत शब्द शिका"
+    },
+    "learn_language_format": {
+      "mr": "%@ शिका",
+      "translation": "%@ शिका"
+    },
+    "switch_profile": {
+      "mr": "प्रोफाइल बदला",
+      "translation": "प्रोफाइल बदला"
+    },
+    "guided_access_active": {
+      "mr": "iOS Guided Access: सक्रिय",
+      "translation": "iOS Guided Access: सक्रिय"
+    },
+    "guided_access_off": {
+      "mr": "iOS Guided Access: बंद",
+      "translation": "iOS Guided Access: बंद"
+    },
+    "set_unlock_pin": {
+      "mr": "अनलॉक PIN सेट करा",
+      "translation": "अनलॉक PIN सेट करा"
+    },
+    "locked_explain": {
+      "mr": "लॉक केल्यावर, मूल तुमचा PIN टाकल्याशिवाय इतर अ‍ॅप्सवर जाऊ शकत नाही किंवा होम स्क्रीनवर जाऊ शकत नाही.",
+      "translation": "लॉक केल्यावर, मूल तुमचा PIN टाकल्याशिवाय इतर अ‍ॅप्सवर जाऊ शकत नाही किंवा होम स्क्रीनवर जाऊ शकत नाही."
+    },
+    "need_pin_first": {
+      "mr": "अ‍ॅप लॉक सक्षम करण्यापूर्वी तुम्हाला 4-अंकी अनलॉक PIN सेट करणे आवश्यक आहे. तुमच्या मुलाला माहीत नसलेला PIN निवडा.",
+      "translation": "अ‍ॅप लॉक सक्षम करण्यापूर्वी तुम्हाला 4-अंकी अनलॉक PIN सेट करणे आवश्यक आहे. तुमच्या मुलाला माहीत नसलेला PIN निवडा."
+    },
+    "display": {
+      "mr": "प्रदर्शन",
+      "translation": "प्रदर्शन"
+    },
+    "voice_and_audio": {
+      "mr": "आवाज आणि ऑडिओ",
+      "translation": "आवाज आणि ऑडिओ"
+    },
+    "parent_tools": {
+      "mr": "पालक साधने",
+      "translation": "पालक साधने"
+    },
+    "emergency_info_card": {
+      "mr": "आपत्कालीन माहिती कार्ड",
+      "translation": "आपत्कालीन माहिती कार्ड"
+    },
+    "delete_symbol_title": {
+      "mr": "चिन्ह हटवायचे का?",
+      "translation": "चिन्ह हटवायचे का?"
+    },
+    "remove_from_board": {
+      "mr": "बोर्डवरून \"%@\" काढायचे का?",
+      "translation": "बोर्डवरून \"%@\" काढायचे का?"
+    },
+    "change_pin_title": {
+      "mr": "PIN बदला",
+      "translation": "PIN बदला"
+    },
+    "new_pin_section": {
+      "mr": "नवीन 4-अंकी PIN",
+      "translation": "नवीन 4-अंकी PIN"
+    },
+    "new_pin_field": {
+      "mr": "नवीन PIN",
+      "translation": "नवीन PIN"
+    },
+    "confirm_pin_field": {
+      "mr": "PIN पुष्टी करा",
+      "translation": "PIN पुष्टी करा"
+    },
+    "pin_advice": {
+      "mr": "तुमचे मूल अंदाज लावू शकणार नाही असा PIN निवडा. 1234, 0000, किंवा एकाच अंकाचे कोणतेही 4 टाळा.",
+      "translation": "तुमचे मूल अंदाज लावू शकणार नाही असा PIN निवडा. 1234, 0000, किंवा एकाच अंकाचे कोणतेही 4 टाळा."
+    },
+    "pin_mismatch": {
+      "mr": "PIN जुळत नाहीत किंवा 4 अंकी नाहीत",
+      "translation": "PIN जुळत नाहीत किंवा 4 अंकी नाहीत"
+    },
+    "pin_too_easy": {
+      "mr": "PIN अंदाज लावणे खूप सोपे आहे — दुसरा निवडा",
+      "translation": "PIN अंदाज लावणे खूप सोपे आहे — दुसरा निवडा"
+    },
+    "used_n_times": {
+      "mr": "%d वेळा वापरले",
+      "translation": "%d वेळा वापरले"
+    },
+    "quick_places": {
+      "mr": "द्रुत ठिकाणे 📍",
+      "translation": "द्रुत ठिकाणे 📍"
+    },
+    "pick_start_and_end": {
+      "mr": "सुरुवात आणि शेवटचे ठिकाण निवडा!",
+      "translation": "सुरुवात आणि शेवटचे ठिकाण निवडा!"
+    },
+    "quick_destinations": {
+      "mr": "द्रुत गंतव्ये",
+      "translation": "द्रुत गंतव्ये"
+    },
+    "save_places_hint": {
+      "mr": "तुम्ही अनेकदा भेट देता त्या ठिकाणे जतन करा",
+      "translation": "तुम्ही अनेकदा भेट देता त्या ठिकाणे जतन करा"
+    },
+    "no_favourite_places": {
+      "mr": "अद्याप कोणतीही आवडती ठिकाणे नाहीत!",
+      "translation": "अद्याप कोणतीही आवडती ठिकाणे नाहीत!"
+    },
+    "tap_plus_to_add": {
+      "mr": "घर, शाळा किंवा तुमची आवडती बाग जोडण्यासाठी + टॅप करा.",
+      "translation": "घर, शाळा किंवा तुमची आवडती बाग जोडण्यासाठी + टॅप करा."
+    },
+    "journey_info": {
+      "mr": "🗺️ प्रवास माहिती",
+      "translation": "🗺️ प्रवास माहिती"
+    },
+    "distance_label": {
+      "mr": "अंतर",
+      "translation": "अंतर"
+    },
+    "travel_time": {
+      "mr": "प्रवास वेळ",
+      "translation": "प्रवास वेळ"
+    },
+    "add_favourite_place": {
+      "mr": "आवडते ठिकाण जोडा",
+      "translation": "आवडते ठिकाण जोडा"
+    },
+    "choose_emoji": {
+      "mr": "इमोजी निवडा",
+      "translation": "इमोजी निवडा"
+    },
+    "current_location_warning": {
+      "mr": "⚠️ या ठिकाणासाठी तुमचे सध्याचे स्थान जतन केले जाईल.",
+      "translation": "⚠️ या ठिकाणासाठी तुमचे सध्याचे स्थान जतन केले जाईल."
+    },
+    "save_place": {
+      "mr": "ठिकाण जतन करा ⭐",
+      "translation": "ठिकाण जतन करा ⭐"
+    },
+    "explore_tab": {
+      "mr": "शोधा",
+      "translation": "शोधा"
+    },
+    "navigate_tab": {
+      "mr": "नेव्हिगेट",
+      "translation": "नेव्हिगेट"
+    },
+    "favourites_tab": {
+      "mr": "आवडते",
+      "translation": "आवडते"
+    },
+    "first_then_title": {
+      "mr": "पहिले ... मग ...",
+      "translation": "पहिले ... मग ..."
+    },
+    "first_then_subtitle": {
+      "mr": "हे आधी करा, मग ते मिळेल!",
+      "translation": "हे आधी करा, मग ते मिळेल!"
+    },
+    "feelings_check_in": {
+      "mr": "भावना तपासणी",
+      "translation": "भावना तपासणी"
+    },
+    "feelings_check_in_sub": {
+      "mr": "मला आत्ता कसे वाटते?",
+      "translation": "मला आत्ता कसे वाटते?"
+    },
+    "my_worries_box": {
+      "mr": "माझ्या काळज्यांचा डबा",
+      "translation": "माझ्या काळज्यांचा डबा"
+    },
+    "my_worries_box_sub": {
+      "mr": "काळजी लिहा आणि सोडा",
+      "translation": "काळजी लिहा आणि सोडा"
+    },
+    "choice_board": {
+      "mr": "मी काय निवडतो?",
+      "translation": "मी काय निवडतो?"
+    },
+    "choice_board_sub": {
+      "mr": "तुम्हाला काय करायचे आहे ते टॅप करा",
+      "translation": "तुम्हाला काय करायचे आहे ते टॅप करा"
+    },
+    "daily_tools": {
+      "mr": "दैनंदिन साधने 🌻",
+      "translation": "दैनंदिन साधने 🌻"
+    },
+    "check_in_again": {
+      "mr": "पुन्हा तपासा",
+      "translation": "पुन्हा तपासा"
+    },
+    "tap_how_you_feel": {
+      "mr": "तुम्हाला आत्ता कसे वाटते ते टॅप करा:",
+      "translation": "तुम्हाला आत्ता कसे वाटते ते टॅप करा:"
+    },
+    "how_strong_feeling": {
+      "mr": "ही भावना किती तीव्र आहे?",
+      "translation": "ही भावना किती तीव्र आहे?"
+    },
+    "a_little": {
+      "mr": "थोडे",
+      "translation": "थोडे"
+    },
+    "a_lot": {
+      "mr": "खूप",
+      "translation": "खूप"
+    },
+    "save_my_feeling": {
+      "mr": "माझी भावना जतन करा ✅",
+      "translation": "माझी भावना जतन करा ✅"
+    },
+    "what_are_you_worried": {
+      "mr": "तुम्हाला कशाची काळजी आहे?",
+      "translation": "तुम्हाला कशाची काळजी आहे?"
+    },
+    "put_in_box": {
+      "mr": "डब्यात ठेवा",
+      "translation": "डब्यात ठेवा"
+    },
+    "worry_stored": {
+      "mr": "📦 काळजी जतन! तुम्ही छान केले. 🌟",
+      "translation": "📦 काळजी जतन! तुम्ही छान केले. 🌟"
+    },
+    "my_worries_count": {
+      "mr": "माझ्या काळज्यांचा डबा (%@)",
+      "translation": "माझ्या काळज्यांचा डबा (%@)"
+    },
+    "choose_again": {
+      "mr": "पुन्हा निवडा",
+      "translation": "पुन्हा निवडा"
+    },
+    "i_feel_label": {
+      "mr": "मला %@ वाटते!",
+      "translation": "मला %@ वाटते!"
+    },
+    "intensity_label": {
+      "mr": "तीव्रता: %@/5",
+      "translation": "तीव्रता: %@/5"
+    },
+    "i_choose_label": {
+      "mr": "मी निवडतो: %@!",
+      "translation": "मी निवडतो: %@!"
+    },
+    "tap_add_task_hint": {
+      "mr": "तुमचा दैनंदिन दिनक्रम तयार करण्यासाठी \"कार्य जोडा\" टॅप करा",
+      "translation": "तुमचा दैनंदिन दिनक्रम तयार करण्यासाठी \"कार्य जोडा\" टॅप करा"
+    },
+    "done_check": {
+      "mr": "पूर्ण ✓",
+      "translation": "पूर्ण ✓"
+    },
+    "colour_label": {
+      "mr": "रंग",
+      "translation": "रंग"
+    },
+    "all_tasks_done": {
+      "mr": "तुम्ही सर्व कार्ये पूर्ण केली.\\nआजचे अद्भुत काम!",
+      "translation": "तुम्ही सर्व कार्ये पूर्ण केली.\\nआजचे अद्भुत काम!"
+    },
+    "no_stars_yet_earn": {
+      "mr": "आज अद्याप कोणतेही तारे नाहीत — तुमचा पहिला मिळवा!",
+      "translation": "आज अद्याप कोणतेही तारे नाहीत — तुमचा पहिला मिळवा!"
+    },
+    "star_label": {
+      "mr": "तारा",
+      "translation": "तारा"
+    },
+    "add_star": {
+      "mr": "तारा जोडा",
+      "translation": "तारा जोडा"
+    },
+    "tap_add_memory_hint": {
+      "mr": "काहीतरी खास फोटो किंवा व्हिडिओ जतन करण्यासाठी \"आठवण जोडा\" टॅप करा.",
+      "translation": "काहीतरी खास फोटो किंवा व्हिडिओ जतन करण्यासाठी \"आठवण जोडा\" टॅप करा."
+    },
+    "delete_memory": {
+      "mr": "आठवण हटवा",
+      "translation": "आठवण हटवा"
+    },
+    "check_answer": {
+      "mr": "तपासा ✓",
+      "translation": "तपासा ✓"
+    },
+    "the_answer_is": {
+      "mr": "उत्तर %@ आहे.",
+      "translation": "उत्तर %@ आहे."
+    },
+    "times_table_title": {
+      "mr": "गुणाकार पट्ट्या 1–20",
+      "translation": "गुणाकार पट्ट्या 1–20"
+    },
+    "times_table_subtitle": {
+      "mr": "सर्व 20 पट्ट्यांवर शिका आणि स्वतःची परीक्षा घ्या!",
+      "translation": "सर्व 20 पट्ट्यांवर शिका आणि स्वतःची परीक्षा घ्या!"
+    },
+    "fetching_content": {
+      "mr": "सर्व्हरवरून नवीनतम सामग्री मिळवत आहे.",
+      "translation": "सर्व्हरवरून नवीनतम सामग्री मिळवत आहे."
+    },
+    "couldnt_load_videos": {
+      "mr": "व्हिडिओ लोड करता आले नाहीत",
+      "translation": "व्हिडिओ लोड करता आले नाहीत"
+    },
+    "no_videos_yet": {
+      "mr": "अद्याप कोणतेही व्हिडिओ नाहीत",
+      "translation": "अद्याप कोणतेही व्हिडिओ नाहीत"
+    },
+    "pull_to_refresh": {
+      "mr": "ताजेतवाने करण्यासाठी खाली खेचा, किंवा इंटरनेट कनेक्शन तपासा.",
+      "translation": "ताजेतवाने करण्यासाठी खाली खेचा, किंवा इंटरनेट कनेक्शन तपासा."
+    },
+    "updating_videos": {
+      "mr": "व्हिडिओ अपडेट करत आहे…",
+      "translation": "व्हिडिओ अपडेट करत आहे…"
+    },
+    "connecting_to_server": {
+      "mr": "सर्व्हरशी जोडत आहे…",
+      "translation": "सर्व्हरशी जोडत आहे…"
+    },
+    "video_unavailable_in_app": {
+      "mr": "अ‍ॅपमध्ये व्हिडिओ उपलब्ध नाही",
+      "translation": "अ‍ॅपमध्ये व्हिडिओ उपलब्ध नाही"
+    },
+    "video_unavailable_desc": {
+      "mr": "हा व्हिडिओ अ‍ॅपमध्ये प्ले केला जाऊ शकत नाही. YouTube वर पाहण्यासाठी खाली टॅप करा.",
+      "translation": "हा व्हिडिओ अ‍ॅपमध्ये प्ले केला जाऊ शकत नाही. YouTube वर पाहण्यासाठी खाली टॅप करा."
+    },
+    "watch_on_youtube": {
+      "mr": "YouTube वर पहा",
+      "translation": "YouTube वर पहा"
+    },
+    "tags_label": {
+      "mr": "टॅग",
+      "translation": "टॅग"
+    },
+    "family_faces": {
+      "mr": "माझे लोक 👨‍👩‍👧‍👦",
+      "translation": "माझे लोक 👨‍👩‍👧‍👦"
+    },
+    "coloring_canvas": {
+      "mr": "रंगकाम 🎨",
+      "translation": "रंगकाम 🎨"
+    },
+    "add_person": {
+      "mr": "व्यक्ती जोडा",
+      "translation": "व्यक्ती जोडा"
+    },
+    "who_is_this_person": {
+      "mr": "ही कोण आहे?",
+      "translation": "ही कोण आहे?"
+    },
+    "face_data_privacy": {
+      "mr": "चेहऱ्याचा डेटा तुमच्या डिव्हाइसवर राहतो — कधीही क्लाउडवर पाठवला जात नाही",
+      "translation": "चेहऱ्याचा डेटा तुमच्या डिव्हाइसवर राहतो — कधीही क्लाउडवर पाठवला जात नाही"
+    },
+    "add_family_friends": {
+      "mr": "तुमचे कुटुंब आणि मित्र जोडा!",
+      "translation": "तुमचे कुटुंब आणि मित्र जोडा!"
+    },
+    "tap_add_person_hint": {
+      "mr": "तुम्हाला ओळखत असलेल्या लोकांचा फोटो आणि नाव जतन करण्यासाठी \"व्यक्ती जोडा\" टॅप करा.",
+      "translation": "तुम्हाला ओळखत असलेल्या लोकांचा फोटो आणि नाव जतन करण्यासाठी \"व्यक्ती जोडा\" टॅप करा."
+    },
+    "i_know_this_person": {
+      "mr": "👋 मी या व्यक्तीला ओळखतो!",
+      "translation": "👋 मी या व्यक्तीला ओळखतो!"
+    },
+    "take_or_upload": {
+      "mr": "ही कोण आहे ते ओळखण्यासाठी\\nफोटो काढा किंवा अपलोड करा",
+      "translation": "ही कोण आहे ते ओळखण्यासाठी\\nफोटो काढा किंवा अपलोड करा"
+    },
+    "matching_face": {
+      "mr": "चेहरा जुळवत आहे…",
+      "translation": "चेहरा जुळवत आहे…"
+    },
+    "take_a_photo": {
+      "mr": "फोटो काढा",
+      "translation": "फोटो काढा"
+    },
+    "upload_from_library": {
+      "mr": "लायब्ररीतून अपलोड करा",
+      "translation": "लायब्ररीतून अपलोड करा"
+    },
+    "match_confidence": {
+      "mr": "जुळणी विश्वास",
+      "translation": "जुळणी विश्वास"
+    },
+    "no_face_found": {
+      "mr": "चेहरा सापडला नाही. स्पष्ट फोटोने पुन्हा प्रयत्न करा.",
+      "translation": "चेहरा सापडला नाही. स्पष्ट फोटोने पुन्हा प्रयत्न करा."
+    },
+    "or_separator": {
+      "mr": "किंवा",
+      "translation": "किंवा"
+    },
+    "camera_label": {
+      "mr": "कॅमेरा",
+      "translation": "कॅमेरा"
+    },
+    "library_label": {
+      "mr": "लायब्ररी",
+      "translation": "लायब्ररी"
+    },
+    "mic_permission_needed": {
+      "mr": "Voice Chat वापरण्यासाठी कृपया सेटिंग्जमध्ये मायक्रोफोन आणि भाषण ओळख प्रवेशास परवानगी द्या.",
+      "translation": "Voice Chat वापरण्यासाठी कृपया सेटिंग्जमध्ये मायक्रोफोन आणि भाषण ओळख प्रवेशास परवानगी द्या."
+    },
+    "im_here_to_listen": {
+      "mr": "मी ऐकायला आहे 💛",
+      "translation": "मी ऐकायला आहे 💛"
+    },
+    "saved_to_photos": {
+      "mr": "🎉 फोटोंमध्ये जतन झाले!",
+      "translation": "🎉 फोटोंमध्ये जतन झाले!"
+    },
+    "pick_outline_hint": {
+      "mr": "रंग भरण्यासाठी बाह्यरेखा निवडा, किंवा रिकाम्या कॅनव्हासने सुरू करा.",
+      "translation": "रंग भरण्यासाठी बाह्यरेखा निवडा, किंवा रिकाम्या कॅनव्हासने सुरू करा."
+    },
+    "templates_label": {
+      "mr": "टेम्पलेट्स",
+      "translation": "टेम्पलेट्स"
+    },
+    "learning_made_joyful": {
+      "mr": "शिकणे आनंददायक बनवले",
+      "translation": "शिकणे आनंददायक बनवले"
+    },
+    "personalise_hint": {
+      "mr": "अ‍ॅप वैयक्तिकृत करा जेणेकरून तुमच्या मुलाला योग्य व्हिडिओ मिळतील — त्यांच्या भाषेत, त्यांच्या आवडींनुसार.",
+      "translation": "अ‍ॅप वैयक्तिकृत करा जेणेकरून तुमच्या मुलाला योग्य व्हिडिओ मिळतील — त्यांच्या भाषेत, त्यांच्या आवडींनुसार."
+    },
+    "get_started": {
+      "mr": "सुरू करा",
+      "translation": "सुरू करा"
+    },
+    "childs_name": {
+      "mr": "मुलाचे नाव",
+      "translation": "मुलाचे नाव"
+    },
+    "prefs_saved": {
+      "mr": "तुमच्या प्राधान्ये जतन झाल्या. SproutPath आता तुमच्यासाठी खास व्हिडिओ आणि क्रियाकलाप दाखवेल.",
+      "translation": "तुमच्या प्राधान्ये जतन झाल्या. SproutPath आता तुमच्यासाठी खास व्हिडिओ आणि क्रियाकलाप दाखवेल."
+    },
+    "start_learning": {
+      "mr": "शिकणे सुरू करा",
+      "translation": "शिकणे सुरू करा"
+    },
+    "next_question_arrow": {
+      "mr": "पुढील प्रश्न →",
+      "translation": "पुढील प्रश्न →"
+    },
+    "camera_permission_desc": {
+      "mr": "अ‍ॅपला तुमचे चेहऱ्याचे हावभाव पाहण्यासाठी कृपया सेटिंग्जमध्ये कॅमेरा प्रवेशास परवानगी द्या.",
+      "translation": "अ‍ॅपला तुमचे चेहऱ्याचे हावभाव पाहण्यासाठी कृपया सेटिंग्जमध्ये कॅमेरा प्रवेशास परवानगी द्या."
+    },
+    "simulator_note": {
+      "mr": "मिरर मोड फ्रंट कॅमेरा वापरतो. चेहरा ओळखण्यासाठी खऱ्या डिव्हाइसवर चालवा.",
+      "translation": "मिरर मोड फ्रंट कॅमेरा वापरतो. चेहरा ओळखण्यासाठी खऱ्या डिव्हाइसवर चालवा."
+    },
+    "auto_detected": {
+      "mr": "स्वयं-शोधले",
+      "translation": "स्वयं-शोधले"
+    },
+    "change_label": {
+      "mr": "बदला",
+      "translation": "बदला"
+    },
+    "these_are_notes": {
+      "mr": "या %@ च्या नोटा आणि नाणी आहेत",
+      "translation": "या %@ च्या नोटा आणि नाणी आहेत"
+    },
+    "facts_count": {
+      "mr": "%d तथ्ये",
+      "translation": "%d तथ्ये"
+    },
+    "try_it_label": {
+      "mr": "करून पहा! 🎯",
+      "translation": "करून पहा! 🎯"
+    },
+    "media_label": {
+      "mr": "मीडिया",
+      "translation": "मीडिया"
+    },
+    "photos_count": {
+      "mr": "फोटो (%d)",
+      "translation": "फोटो (%d)"
+    },
+    "recordings_count": {
+      "mr": "रेकॉर्डिंग (%d)",
+      "translation": "रेकॉर्डिंग (%d)"
+    },
+    "record_label": {
+      "mr": "रेकॉर्ड",
+      "translation": "रेकॉर्ड"
+    },
+    "notes_label": {
+      "mr": "नोट्स",
+      "translation": "नोट्स"
+    },
+    "age_display": {
+      "mr": "वय %d",
+      "translation": "वय %d"
+    },
+    "use_this_profile": {
+      "mr": "हे वापरा",
+      "translation": "हे वापरा"
+    },
+    "from_setup": {
+      "mr": "सेटअपवरून",
+      "translation": "सेटअपवरून"
+    },
+    "about_sprout_path": {
+      "mr": "SproutPath बद्दल",
+      "translation": "SproutPath बद्दल"
+    },
+    "about_description": {
+      "mr": "SproutPath हे न्यूरोडायव्हर्जंट मुले आणि त्यांच्या कुटुंबांना आधार देण्यासाठी डिझाइन केलेले एक सौम्य, मुलांसाठी अनुकूल शिक्षण सहकारी आहे. हे भावना, अभ्यास, दैनंदिन दिनक्रम, शांत साधने आणि पालक संसाधने एका शांत जागेत एकत्र करते — खऱ्या मुलांच्या शिकण्याच्या आणि खेळण्याच्या पद्धतीभोवती बांधलेले.",
+      "translation": "SproutPath हे न्यूरोडायव्हर्जंट मुले आणि त्यांच्या कुटुंबांना आधार देण्यासाठी डिझाइन केलेले एक सौम्य, मुलांसाठी अनुकूल शिक्षण सहकारी आहे. हे भावना, अभ्यास, दैनंदिन दिनक्रम, शांत साधने आणि पालक संसाधने एका शांत जागेत एकत्र करते — खऱ्या मुलांच्या शिकण्याच्या आणि खेळण्याच्या पद्धतीभोवती बांधलेले."
+    },
+    "made_with_care": {
+      "mr": "मुले, पालक, काळजीवाहक आणि थेरपिस्टसाठी काळजीपूर्वक बनवले. SproutPath वापरल्याबद्दल धन्यवाद.",
+      "translation": "मुले, पालक, काळजीवाहक आणि थेरपिस्टसाठी काळजीपूर्वक बनवले. SproutPath वापरल्याबद्दल धन्यवाद."
+    },
+    "visit_website": {
+      "mr": "आमची वेबसाइट भेट द्या",
+      "translation": "आमची वेबसाइट भेट द्या"
+    },
+    "faq_intro": {
+      "mr": "SproutPath वापरण्याबद्दल वारंवार विचारले जाणारे प्रश्न. उत्तर वाचण्यासाठी प्रश्नावर टॅप करा.",
+      "translation": "SproutPath वापरण्याबद्दल वारंवार विचारले जाणारे प्रश्न. उत्तर वाचण्यासाठी प्रश्नावर टॅप करा."
+    },
+    "checking_videos": {
+      "mr": "उपलब्ध व्हिडिओ तपासत आहे…",
+      "translation": "उपलब्ध व्हिडिओ तपासत आहे…"
+    },
+    "no_devotional_videos": {
+      "mr": "कोणतेही भक्तिगीत व्हिडिओ उपलब्ध नाहीत",
+      "translation": "कोणतेही भक्तिगीत व्हिडिओ उपलब्ध नाहीत"
+    },
+    "parents_and_caregivers": {
+      "mr": "👨‍👩‍👧 पालक आणि काळजीवाहक",
+      "translation": "👨‍👩‍👧 पालक आणि काळजीवाहक"
+    },
+    "display_label": {
+      "mr": "प्रदर्शन",
+      "translation": "प्रदर्शन"
+    },
+    "language_label": {
+      "mr": "भाषा",
+      "translation": "भाषा"
+    },
+    "faq_label": {
+      "mr": "वारंवार विचारले जाणारे प्रश्न",
+      "translation": "वारंवार विचारले जाणारे प्रश्न"
+    },
+    "about_sprout_path_nav": {
+      "mr": "SproutPath बद्दल",
+      "translation": "SproutPath बद्दल"
+    },
+    "devotional_label": {
+      "mr": "भक्तिगीत",
+      "translation": "भक्तिगीत"
+    },
+    "settings_label": {
+      "mr": "सेटिंग्ज",
+      "translation": "सेटिंग्ज"
+    },
+    "add_family_photo": {
+      "mr": "कौटुंबिक फोटो जोडा",
+      "translation": "कौटुंबिक फोटो जोडा"
+    },
+    "no_autism_videos": {
+      "mr": "अद्याप कोणतेही ऑटिझम समर्थन व्हिडिओ नाहीत.",
+      "translation": "अद्याप कोणतेही ऑटिझम समर्थन व्हिडिओ नाहीत."
+    },
+    "no_autism_videos_hint": {
+      "mr": "तुमच्या videos.json किंवा रिमोट JSON फीडमध्ये ऑटिझम-श्रेणी व्हिडिओ जोडा.",
+      "translation": "तुमच्या videos.json किंवा रिमोट JSON फीडमध्ये ऑटिझम-श्रेणी व्हिडिओ जोडा."
+    },
+    "autism_support_videos": {
+      "mr": "ऑटिझम समर्थन व्हिडिओ",
+      "translation": "ऑटिझम समर्थन व्हिडिओ"
+    },
+    "tap_symbols_hint": {
+      "mr": "वाक्य तयार करण्यासाठी चिन्हांवर टॅप करा...",
+      "translation": "वाक्य तयार करण्यासाठी चिन्हांवर टॅप करा..."
+    },
+    "getting_location": {
+      "mr": "स्थान मिळवत आहे…",
+      "translation": "स्थान मिळवत आहे…"
+    },
+    "quick_facts": {
+      "mr": "द्रुत तथ्ये",
+      "translation": "द्रुत तथ्ये"
+    },
+    "all_done_great_job": {
+      "mr": "सर्व पूर्ण! छान काम! 🌟",
+      "translation": "सर्व पूर्ण! छान काम! 🌟"
+    },
+    "tap_to_see_example": {
+      "mr": "उदाहरण पाहण्यासाठी टॅप करा →",
+      "translation": "उदाहरण पाहण्यासाठी टॅप करा →"
+    },
+    "reset_label": {
+      "mr": "रीसेट",
+      "translation": "रीसेट"
+    },
+    "sound_label": {
+      "mr": "आवाज",
+      "translation": "आवाज"
+    },
+    "display_settings": {
+      "mr": "प्रदर्शन",
+      "translation": "प्रदर्शन"
+    },
+    "minutes_unit": {
+      "mr": "%d मिनिटे",
+      "translation": "%d मिनिटे"
+    },
+    "count_the": {
+      "mr": "%@ मोजा:",
+      "translation": "%@ मोजा:"
+    },
+    "shopkeeper_change": {
+      "mr": "दुकानदार तुम्हाला %@ सुटे देतो.",
+      "translation": "दुकानदार तुम्हाला %@ सुटे देतो."
+    },
+    "enter_amounts_in": {
+      "mr": "%@ (%@) मध्ये रक्कम टाका",
+      "translation": "%@ (%@) मध्ये रक्कम टाका"
+    },
+    "try_arrow": {
+      "mr": "प्रयत्न करा →",
+      "translation": "प्रयत्न करा →"
+    },
+    "word_of_count": {
+      "mr": "शब्द %d पैकी %d",
+      "translation": "शब्द %d पैकी %d"
+    },
+    "this_is_name": {
+      "mr": "हे %@ आहे!",
+      "translation": "हे %@ आहे!"
+    },
+    "age_from_setup": {
+      "mr": "वय %d · ऑनबोर्डिंग सेटअपवरून",
+      "translation": "वय %d · ऑनबोर्डिंग सेटअपवरून"
+    },
+    "step_of_4": {
+      "mr": "%d पैकी पायरी %d",
+      "translation": "%d पैकी पायरी %d"
+    },
+    "all_set": {
+      "mr": "सर्व तयार!",
+      "translation": "सर्व तयार!"
+    },
+    "all_set_name": {
+      "mr": "सर्व तयार, %@!",
+      "translation": "सर्व तयार, %@!"
+    },
+    "round_of": {
+      "mr": "फेरी %d पैकी %d",
+      "translation": "फेरी %d पैकी %d"
+    },
+    "notice_things": {
+      "mr": "तुमच्या आजूबाजूला पहा आणि %d गोष्टी लक्षात घ्या.",
+      "translation": "तुमच्या आजूबाजूला पहा आणि %d गोष्टी लक्षात घ्या."
+    },
+    "stars_earned_so_far": {
+      "mr": "तुम्ही आतापर्यंत %d तारे मिळवले आहेत!",
+      "translation": "तुम्ही आतापर्यंत %d तारे मिळवले आहेत!"
+    },
+    "recent_count": {
+      "mr": "अलीकडील (%d)",
+      "translation": "अलीकडील (%d)"
+    },
+    "the_ns_table": {
+      "mr": "%d चा पाढा",
+      "translation": "%d चा पाढा"
+    },
+    "my_recorded_videos": {
+      "mr": "माझे रेकॉर्ड केलेले व्हिडिओ (%d)",
+      "translation": "माझे रेकॉर्ड केलेले व्हिडिओ (%d)"
+    },
+    "hold_it_percent": {
+      "mr": "थांबा! %d%%",
+      "translation": "थांबा! %d%%"
+    },
+    "amazing_face": {
+      "mr": "अद्भुत %@ चेहरा!",
+      "translation": "अद्भुत %@ चेहरा!"
+    },
+    "helped_resolution": {
+      "mr": "मदत केली: %@",
+      "translation": "मदत केली: %@"
+    },
+    "score_of": {
+      "mr": "गुण: %d/%d",
+      "translation": "गुण: %d/%d"
+    },
+    "ages_range": {
+      "mr": "वये %@",
+      "translation": "वये %@"
+    },
+    "six_second_rule_explain": {
+      "mr": "प्रश्न विचारल्यानंतर किंवा सूचना दिल्यानंतर, पुन्हा सांगण्यापूर्वी 6 सेकंद शांतपणे थांबा. यामुळे मेंदूला आवश्यक प्रक्रिया वेळ मिळतो. लवकर पुनरावृत्ती केल्याने चिंता होते आणि प्रक्रिया घड्याळ रीसेट होते.",
+      "translation": "प्रश्न विचारल्यानंतर किंवा सूचना दिल्यानंतर, पुन्हा सांगण्यापूर्वी 6 सेकंद शांतपणे थांबा. यामुळे मेंदूला आवश्यक प्रक्रिया वेळ मिळतो. लवकर पुनरावृत्ती केल्याने चिंता होते आणि प्रक्रिया घड्याळ रीसेट होते."
+    },
+    "ready_label": {
+      "mr": "तयार",
+      "translation": "तयार"
+    },
+    "now_may_repeat": {
+      "mr": "आता तुम्ही\\nपुन्हा सांगू शकता",
+      "translation": "आता तुम्ही\\nपुन्हा सांगू शकता"
+    },
+    "six_second_type_hint": {
+      "mr": "प्रथम प्रश्न टाइप करा, नंतर टाइमर सुरू करा टॅप करा.",
+      "translation": "प्रथम प्रश्न टाइप करा, नंतर टाइमर सुरू करा टॅप करा."
+    },
+    "current_label": {
+      "mr": "सध्याचे",
+      "translation": "सध्याचे"
+    },
+    "audio_label": {
+      "mr": "ऑडिओ",
+      "translation": "ऑडिओ"
+    },
+    "voice_label": {
+      "mr": "आवाज",
+      "translation": "आवाज"
+    },
+    "confirm_remove_photo": {
+      "mr": "कौटुंबिक फोटो डॅशबोर्डवरून काढला जाईल.",
+      "translation": "कौटुंबिक फोटो डॅशबोर्डवरून काढला जाईल."
+    },
+    "tap_hear_all": {
+      "mr": "सर्व ऐकण्यासाठी 🔊 टॅप करा!",
+      "translation": "सर्व ऐकण्यासाठी 🔊 टॅप करा!"
+    },
+    "what_is": {
+      "mr": "काय आहे...",
+      "translation": "काय आहे..."
+    },
+    "guided_access_instructions": {
+      "mr": "सर्वात मजबूत संरक्षणासाठी (होम बटण, व्हॉल्यूम बटणे आणि टच क्षेत्रे ब्लॉक करते), सेटिंग्ज → Accessibility → Guided Access मध्ये Guided Access सक्षम करा, नंतर SproutPath उघडे असताना साइड बटण तीन वेळा दाबा.",
+      "translation": "सर्वात मजबूत संरक्षणासाठी (होम बटण, व्हॉल्यूम बटणे आणि टच क्षेत्रे ब्लॉक करते), सेटिंग्ज → Accessibility → Guided Access मध्ये Guided Access सक्षम करा, नंतर SproutPath उघडे असताना साइड बटण तीन वेळा दाबा."
+    },
+    "how_are_you_feeling": {
+      "mr": "तुम्हाला कसे वाटते?",
+      "translation": "तुम्हाला कसे वाटते?"
+    },
+    "tap_to_check_in": {
+      "mr": "तपासण्यासाठी टॅप करा",
+      "translation": "तपासण्यासाठी टॅप करा"
+    },
+    "you_said": {
+      "mr": "तुम्ही %@ म्हणालात",
+      "translation": "तुम्ही %@ म्हणालात"
+    },
+    "add_edit_symbol_hint": {
+      "mr": "पूर्वावलोकनासाठी वर YouTube लिंक किंवा व्हिडिओ ID टाका",
+      "translation": "पूर्वावलोकनासाठी वर YouTube लिंक किंवा व्हिडिओ ID टाका"
+    },
+    "schedule_notifications": {
+      "mr": "सूचना नियोजित करा",
+      "translation": "सूचना नियोजित करा"
+    },
+    "notifications_on": {
+      "mr": "स्मरणपत्रे चालू",
+      "translation": "स्मरणपत्रे चालू"
+    },
+    "notifications_off": {
+      "mr": "स्मरणपत्रे बंद",
+      "translation": "स्मरणपत्रे बंद"
+    },
+    "notification_body": {
+      "mr": "वेळ: %@",
+      "translation": "वेळ: %@"
+    },
+    "notifications_perm_denied": {
+      "mr": "सूचना परवानगी नाकारली",
+      "translation": "सूचना परवानगी नाकारली"
+    },
+    "open_settings_to_enable": {
+      "mr": "SproutPath साठी सूचना सक्षम करण्यासाठी सेटिंग्ज उघडा",
+      "translation": "SproutPath साठी सूचना सक्षम करण्यासाठी सेटिंग्ज उघडा"
+    },
+    "sound_voice_on": {
+      "mr": "आवाज आणि व्हॉइस चालू",
+      "translation": "आवाज आणि व्हॉइस चालू"
+    },
+    "sound_voice_off": {
+      "mr": "आवाज आणि व्हॉइस बंद",
+      "translation": "आवाज आणि व्हॉइस बंद"
+    },
+    "text_to_speech_on": {
+      "mr": "मजकूर-ते-भाषण चालू",
+      "translation": "मजकूर-ते-भाषण चालू"
+    },
+    "text_to_speech_off": {
+      "mr": "मजकूर-ते-भाषण बंद",
+      "translation": "मजकूर-ते-भाषण बंद"
+    },
+    "theme_auto": {
+      "mr": "स्वयंचलित",
+      "translation": "स्वयंचलित"
+    },
+    "theme_white": {
+      "mr": "पांढरा",
+      "translation": "पांढरा"
+    },
+    "theme_black": {
+      "mr": "काळा",
+      "translation": "काळा"
+    },
+    "theme_follows_iphone": {
+      "mr": "iPhone चे अनुसरण करते",
+      "translation": "iPhone चे अनुसरण करते"
+    },
+    "theme_always_white": {
+      "mr": "नेहमी पांढरा",
+      "translation": "नेहमी पांढरा"
+    },
+    "theme_always_black": {
+      "mr": "नेहमी काळा",
+      "translation": "नेहमी काळा"
+    },
+    "flashcards_title": {
+      "mr": "फ्लॅशकार्ड",
+      "translation": "फ्लॅशकार्ड"
+    },
+    "flashcards_subtitle": {
+      "mr": "सराव सुरू करण्यासाठी डेकवर टॅप करा.",
+      "translation": "सराव सुरू करण्यासाठी डेकवर टॅप करा."
+    },
+    "cards_count": {
+      "mr": "%d कार्डे",
+      "translation": "%d कार्डे"
+    },
+    "lib_sec_education": {
+      "mr": "शिक्षण",
+      "translation": "शिक्षण"
+    },
+    "lib_sec_mind_body": {
+      "mr": "मन आणि शरीर",
+      "translation": "मन आणि शरीर"
+    },
+    "lib_sec_learning": {
+      "mr": "शिकणे",
+      "translation": "शिकणे"
+    },
+    "lib_sec_sports": {
+      "mr": "खेळ",
+      "translation": "खेळ"
+    },
+    "lib_sec_art": {
+      "mr": "कला",
+      "translation": "कला"
+    },
+    "lib_sec_science": {
+      "mr": "विज्ञान",
+      "translation": "विज्ञान"
+    },
+    "lib_sec_entertainment": {
+      "mr": "मनोरंजन",
+      "translation": "मनोरंजन"
+    },
+    "lib_sec_others": {
+      "mr": "इतर",
+      "translation": "इतर"
+    },
+    "live_up_to_date": {
+      "mr": "थेट · अद्ययावत",
+      "translation": "थेट · अद्ययावत"
+    },
+    "cached_refresh_shortly": {
+      "mr": "कॅश केलेले · लवकरच ताजेतवाने होईल",
+      "translation": "कॅश केलेले · लवकरच ताजेतवाने होईल"
+    },
+    "videos_available_count": {
+      "mr": "%d व्हिडिओ उपलब्ध",
+      "translation": "%d व्हिडिओ उपलब्ध"
+    },
+    "about_the_app": {
+      "mr": "अ‍ॅपबद्दल",
+      "translation": "अ‍ॅपबद्दल"
+    },
+    "learn_more": {
+      "mr": "अधिक जाणून घ्या",
+      "translation": "अधिक जाणून घ्या"
+    },
+    "credits": {
+      "mr": "श्रेय",
+      "translation": "श्रेय"
+    }
+  },
+  "tm_keys": {},
+  "phrases": {
+    "greeting": "नमस्कार",
+    "welcome": "स्वागत आहे",
+    "thankYou": "धन्यवाद"
+  }
+}

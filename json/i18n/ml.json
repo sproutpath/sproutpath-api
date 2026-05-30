@@ -1,0 +1,3001 @@
+{
+  "_meta": {
+    "language_id": "ml",
+    "name": "Malayalam",
+    "nativeName": "മലയാളം",
+    "flag": "🇮🇳",
+    "script": "ഹലോ! സുഖമാണോ?",
+    "ttsCode": "ml-IN",
+    "lm_key_count": 735,
+    "tm_key_count": 0,
+    "notes": "Malayalam translation of all lm_keys."
+  },
+  "lm_keys": {
+    "app_name": {
+      "en": "SproutPath",
+      "translation": "SproutPath"
+    },
+    "tagline": {
+      "en": "Grow with joy, learn with love",
+      "translation": "സന്തോഷത്തോടെ വളരൂ, സ്നേഹത്തോടെ പഠിക്കൂ"
+    },
+    "launch_tagline": {
+      "en": "Grow with joy, learn with love",
+      "translation": "സന്തോഷത്തോടെ വളരൂ, സ്നേഹത്തോടെ പഠിക്കൂ"
+    },
+    "set_up_your_profile": {
+      "en": "Set up your profile",
+      "translation": "നിങ്ങളുടെ പ്രൊഫൈൽ സജ്ജമാക്കുക"
+    },
+    "tap_to_add_name_photo": {
+      "en": "Tap to add your name and photo",
+      "translation": "നിങ്ങളുടെ പേരും ഫോട്ടോയും ചേർക്കാൻ ടാപ്പ് ചെയ്യുക"
+    },
+    "hi_greeting": {
+      "en": "Hi, %@! 👋",
+      "translation": "ഹായ്, %@! 👋"
+    },
+    "age_stars_today": {
+      "en": "Age %d · %d ⭐ today",
+      "translation": "പ്രായം %d · ഇന്ന് %d ⭐"
+    },
+    "child_tab": {
+      "en": "Child",
+      "translation": "കുട്ടി"
+    },
+    "parent_tab": {
+      "en": "Parents",
+      "translation": "രക്ഷകർത്താക്കൾ"
+    },
+    "sidebar_dashboard": {
+      "en": "Dashboard",
+      "translation": "ഡാഷ്ബോർഡ്"
+    },
+    "sidebar_emotions": {
+      "en": "Emotions",
+      "translation": "വികാരങ്ങൾ"
+    },
+    "sidebar_study": {
+      "en": "Study",
+      "translation": "പഠനം"
+    },
+    "sidebar_activities": {
+      "en": "Activities",
+      "translation": "പ്രവർത്തനങ്ങൾ"
+    },
+    "sidebar_explore": {
+      "en": "Explore",
+      "translation": "പര്യവേക്ഷണം"
+    },
+    "sidebar_daily_life": {
+      "en": "Daily Life",
+      "translation": "ദൈനംദിന ജീവിതം"
+    },
+    "sidebar_parents": {
+      "en": "Parents",
+      "translation": "രക്ഷകർത്താക്കൾ"
+    },
+    "telugu_devotional": {
+      "en": "Telugu Devotional 🙏",
+      "translation": "തെലുഗു ഭക്തി 🙏"
+    },
+    "transport_walk": {
+      "en": "Walk",
+      "translation": "നടക്കുക"
+    },
+    "transport_drive": {
+      "en": "Drive",
+      "translation": "ഡ്രൈവ് ചെയ്യുക"
+    },
+    "transport_bus": {
+      "en": "Bus",
+      "translation": "ബസ്"
+    },
+    "transport_train": {
+      "en": "Train",
+      "translation": "ട്രെയിൻ"
+    },
+    "transport_mode": {
+      "en": "How to go",
+      "translation": "എങ്ങനെ പോകണം"
+    },
+    "open_in_maps": {
+      "en": "Open in Maps",
+      "translation": "മാപ്പിൽ തുറക്കുക"
+    },
+    "add_destination": {
+      "en": "Add Destination",
+      "translation": "ലക്ഷ്യസ്ഥാനം ചേർക്കുക"
+    },
+    "edit_destination": {
+      "en": "Edit Destination",
+      "translation": "ലക്ഷ്യസ്ഥാനം തിരുത്തുക"
+    },
+    "no_destinations_yet": {
+      "en": "No destinations yet",
+      "translation": "ഇനിയും ലക്ഷ്യസ്ഥാനങ്ങൾ ഇല്ല"
+    },
+    "add_first_destination": {
+      "en": "Add First Destination",
+      "translation": "ആദ്യ ലക്ഷ്യസ്ഥാനം ചേർക്കുക"
+    },
+    "find_on_map": {
+      "en": "Find on Map",
+      "translation": "മാപ്പിൽ കണ്ടെത്തുക"
+    },
+    "location_found": {
+      "en": "Location found ✓",
+      "translation": "സ്ഥലം കണ്ടെത്തി ✓"
+    },
+    "address_not_found": {
+      "en": "Address not found. Try a more specific address.",
+      "translation": "വിലാസം കണ്ടെത്തിയില്ല. കൂടുതൽ കൃത്യമായ വിലാസം പരീക്ഷിക്കുക."
+    },
+    "address_resolved": {
+      "en": "Address will be resolved when you start navigation",
+      "translation": "നാവിഗേഷൻ ആരംഭിക്കുമ്പോൾ വിലാസം പരിഹരിക്കപ്പെടും"
+    },
+    "dest_name_placeholder": {
+      "en": "e.g. School, Park, Grandma's House",
+      "translation": "ഉദാ. സ്കൂൾ, പാർക്ക്, അമ്മൂമ്മയുടെ വീട്"
+    },
+    "dest_address_placeholder": {
+      "en": "e.g. 123 Main St, Chennai",
+      "translation": "ഉദാ. 123 മെയിൻ സ്ട്രീറ്റ്, ചെന്നൈ"
+    },
+    "dest_icon": {
+      "en": "Icon",
+      "translation": "ഐക്കൺ"
+    },
+    "dest_colour": {
+      "en": "Colour",
+      "translation": "നിറം"
+    },
+    "add_place": {
+      "en": "Add Place",
+      "translation": "സ്ഥലം ചേർക്കുക"
+    },
+    "very_mild": {
+      "en": "Very mild",
+      "translation": "വളരെ നേരിയത്"
+    },
+    "mild": {
+      "en": "Mild",
+      "translation": "നേരിയത്"
+    },
+    "moderate": {
+      "en": "Moderate",
+      "translation": "മിതമായത്"
+    },
+    "severe": {
+      "en": "Severe",
+      "translation": "കഠിനം"
+    },
+    "very_severe": {
+      "en": "Very severe",
+      "translation": "വളരെ കഠിനം"
+    },
+    "trigger_loud_noise": {
+      "en": "Loud noise",
+      "translation": "ഉച്ചത്തിലുള്ള ശബ്ദം"
+    },
+    "trigger_transition": {
+      "en": "Transition",
+      "translation": "മാറ്റം"
+    },
+    "trigger_routine_change": {
+      "en": "Routine change",
+      "translation": "ദിനചര്യ മാറ്റം"
+    },
+    "trigger_hunger": {
+      "en": "Hunger",
+      "translation": "വിശപ്പ്"
+    },
+    "trigger_tiredness": {
+      "en": "Tiredness",
+      "translation": "ക്ഷീണം"
+    },
+    "trigger_sensory_overload": {
+      "en": "Sensory overload",
+      "translation": "ഇന്ദ്രിയ അമിതഭാരം"
+    },
+    "trigger_social_conflict": {
+      "en": "Social conflict",
+      "translation": "സാമൂഹിക സംഘർഷം"
+    },
+    "trigger_frustration": {
+      "en": "Frustration",
+      "translation": "നിരാശ"
+    },
+    "resolution_breathing": {
+      "en": "Deep breathing",
+      "translation": "ആഴത്തിലുള്ള ശ്വാസോച്ഛ്വാസം"
+    },
+    "resolution_quiet_space": {
+      "en": "Quiet space",
+      "translation": "ശാന്തമായ ഇടം"
+    },
+    "resolution_weighted_blanket": {
+      "en": "Weighted blanket",
+      "translation": "ഭാരമുള്ള പുതപ്പ്"
+    },
+    "resolution_fidget": {
+      "en": "Fidget toy",
+      "translation": "ഫിഡ്ജറ്റ് കളിപ്പാട്ടം"
+    },
+    "resolution_music": {
+      "en": "Music / headphones",
+      "translation": "സംഗീതം / ഹെഡ്ഫോൺ"
+    },
+    "resolution_snack": {
+      "en": "Favourite snack",
+      "translation": "പ്രിയപ്പെട്ട ലഘുഭക്ഷണം"
+    },
+    "resolution_exercise": {
+      "en": "Physical exercise",
+      "translation": "ശാരീരിക വ്യായാമം"
+    },
+    "resolution_hugs": {
+      "en": "Hugs",
+      "translation": "ആലിംഗനം"
+    },
+    "resolution_screen_break": {
+      "en": "Screen break",
+      "translation": "സ്ക്രീൻ ഇടവേള"
+    },
+    "resolution_changed_env": {
+      "en": "Changed environment",
+      "translation": "പരിതസ്ഥിതി മാറ്റം"
+    },
+    "resolution_verbal_reassurance": {
+      "en": "Verbal reassurance",
+      "translation": "വാക്കാലുള്ള ആശ്വാസം"
+    },
+    "time_of_day_label": {
+      "en": "Time of day",
+      "translation": "ദിവസത്തിലെ സമയം"
+    },
+    "day_of_week_label": {
+      "en": "Day of week",
+      "translation": "ആഴ്ചയിലെ ദിവസം"
+    },
+    "default_diagnosis": {
+      "en": "Autism Spectrum Condition",
+      "translation": "ഓട്ടിസം സ്പെക്ട്രം അവസ്ഥ"
+    },
+    "default_comm_style": {
+      "en": "Limited verbal",
+      "translation": "പരിമിത വാക്കാലുള്ള"
+    },
+    "comm_style_verbal": {
+      "en": "Verbal",
+      "translation": "വാക്കാലുള്ള"
+    },
+    "comm_style_limited_verbal": {
+      "en": "Limited verbal",
+      "translation": "പരിമിത വാക്കാലുള്ള"
+    },
+    "comm_style_aac": {
+      "en": "AAC device",
+      "translation": "AAC ഉപകരണം"
+    },
+    "comm_style_pointing": {
+      "en": "Pointing / gestures",
+      "translation": "ചൂണ്ടൽ / ആംഗ്യം"
+    },
+    "comm_style_non_verbal": {
+      "en": "Non-verbal",
+      "translation": "വാക്കേതര"
+    },
+    "calm_suggestion_quiet": {
+      "en": "Quiet space",
+      "translation": "ശാന്തമായ ഇടം"
+    },
+    "calm_suggestion_deep_pressure": {
+      "en": "Deep pressure",
+      "translation": "ആഴത്തിലുള്ള സമ്മർദ്ദം"
+    },
+    "calm_suggestion_headphones": {
+      "en": "Noise-cancelling headphones",
+      "translation": "ഹെഡ്ഫോൺ"
+    },
+    "calm_suggestion_fidget2": {
+      "en": "Fidget toy",
+      "translation": "ഫിഡ്ജറ്റ് കളിപ്പാട്ടം"
+    },
+    "calm_suggestion_routine": {
+      "en": "Routine reminder",
+      "translation": "ദിനചര്യ ഓർമ്മപ്പെടുത്തൽ"
+    },
+    "calm_suggestion_visual_schedule": {
+      "en": "Visual schedule",
+      "translation": "ദൃശ്യ ഷെഡ്യൂൾ"
+    },
+    "how_i_communicate": {
+      "en": "How I communicate",
+      "translation": "ഞാൻ എങ്ങനെ ആശയവിനിമയം ചെയ്യുന്നു"
+    },
+    "sens_ex_sound_music": {
+      "en": "Music",
+      "translation": "സംഗീതം"
+    },
+    "sens_ex_sound_traffic": {
+      "en": "Traffic noise",
+      "translation": "ഗതാഗത ശബ്ദം"
+    },
+    "sens_ex_sound_classroom": {
+      "en": "Classroom chatter",
+      "translation": "ക്ലാസ്മുറി ബഹളം"
+    },
+    "sens_ex_touch_clothing": {
+      "en": "Clothing textures",
+      "translation": "വസ്ത്ര ഘടന"
+    },
+    "sens_ex_touch_hugs": {
+      "en": "Hugs",
+      "translation": "ആലിംഗനം"
+    },
+    "sens_ex_touch_wet_hands": {
+      "en": "Wet hands",
+      "translation": "നനഞ്ഞ കൈകൾ"
+    },
+    "sens_ex_vision_lights": {
+      "en": "Bright lights",
+      "translation": "തിളക്കമുള്ള വെളിച്ചം"
+    },
+    "sens_ex_vision_patterns": {
+      "en": "Busy patterns",
+      "translation": "തിരക്കേറിയ പാറ്റേണുകൾ"
+    },
+    "sens_ex_vision_screen": {
+      "en": "Screen time",
+      "translation": "സ്ക്രീൻ സമയം"
+    },
+    "sensory_sound": {
+      "en": "Sound",
+      "translation": "ശബ്ദം"
+    },
+    "sensory_touch": {
+      "en": "Touch",
+      "translation": "സ്പർശനം"
+    },
+    "sensory_sight": {
+      "en": "Sight",
+      "translation": "കാഴ്ച"
+    },
+    "sensory_smell": {
+      "en": "Smell",
+      "translation": "മണം"
+    },
+    "sensory_taste": {
+      "en": "Taste",
+      "translation": "രുചി"
+    },
+    "sensory_movement": {
+      "en": "Movement",
+      "translation": "ചലനം"
+    },
+    "sensory_body": {
+      "en": "Body Awareness",
+      "translation": "ശരീര ബോധം"
+    },
+    "dest_school": {
+      "en": "School",
+      "translation": "സ്കൂൾ"
+    },
+    "dest_park": {
+      "en": "Park",
+      "translation": "പാർക്ക്"
+    },
+    "dest_library": {
+      "en": "Library",
+      "translation": "ലൈബ്രറി"
+    },
+    "dest_hospital": {
+      "en": "Hospital",
+      "translation": "ആശുപത്രി"
+    },
+    "dest_supermarket": {
+      "en": "Supermarket",
+      "translation": "സൂപ്പർ മാർക്കറ്റ്"
+    },
+    "dest_playground": {
+      "en": "Playground",
+      "translation": "കളിസ്ഥലം"
+    },
+    "dest_bus_stop": {
+      "en": "Bus Stop",
+      "translation": "ബസ് സ്റ്റോപ്പ്"
+    },
+    "dest_pool": {
+      "en": "Swimming Pool",
+      "translation": "നീന്തൽ കുളം"
+    },
+    "dest_temple": {
+      "en": "Temple",
+      "translation": "ക്ഷേത്രം"
+    },
+    "dest_doctor": {
+      "en": "Doctor",
+      "translation": "ഡോക്ടർ"
+    },
+    "dest_home": {
+      "en": "Home",
+      "translation": "വീട്"
+    },
+    "dest_grandma": {
+      "en": "Grandma's House",
+      "translation": "അമ്മൂമ്മയുടെ വീട്"
+    },
+    "getting_directions": {
+      "en": "Getting directions…",
+      "translation": "ദിശകൾ ലഭ്യമാകുന്നു…"
+    },
+    "navigating_to": {
+      "en": "Navigate to %@",
+      "translation": "%@ ലേക്ക് നാവിഗേറ്റ് ചെയ്യുക"
+    },
+    "arrived_at": {
+      "en": "You have arrived at %@! 🎉",
+      "translation": "നിങ്ങൾ %@ എത്തി! 🎉"
+    },
+    "address_for_map_directions": {
+      "en": "Address (for map directions)",
+      "translation": "വിലാസം (മാപ്പ് ദിശകൾക്ക്)"
+    },
+    "open_in_apple_maps": {
+      "en": "Open in Maps",
+      "translation": "മാപ്പിൽ തുറക്കുക"
+    },
+    "edit_quick_access": {
+      "en": "Edit Quick Access",
+      "translation": "ദ്രുത ആക്സസ് തിരുത്തുക"
+    },
+    "quick_access_hint": {
+      "en": "Tap to select your favourite features",
+      "translation": "നിങ്ങളുടെ പ്രിയപ്പെട്ട സവിശേഷതകൾ തിരഞ്ഞെടുക്കാൻ ടാപ്പ് ചെയ്യുക"
+    },
+    "done_editing": {
+      "en": "Done",
+      "translation": "പൂർത്തിയായി"
+    },
+    "select_features": {
+      "en": "Select Features",
+      "translation": "സവിശേഷതകൾ തിരഞ്ഞെടുക്കുക"
+    },
+    "goal_section_emotions": {
+      "en": "Emotions",
+      "translation": "വികാരങ്ങൾ"
+    },
+    "goal_section_math": {
+      "en": "Math",
+      "translation": "ഗണിതം"
+    },
+    "goal_section_english": {
+      "en": "English",
+      "translation": "ഇംഗ്ലീഷ്"
+    },
+    "goal_section_science": {
+      "en": "Science",
+      "translation": "ശാസ്ത്രം"
+    },
+    "goal_section_routine": {
+      "en": "Routine",
+      "translation": "ദിനചര്യ"
+    },
+    "goal_section_calm": {
+      "en": "Calm",
+      "translation": "ശാന്തത"
+    },
+    "goal_section_videos": {
+      "en": "Videos",
+      "translation": "വീഡിയോകൾ"
+    },
+    "goal_section_stories": {
+      "en": "Social Stories",
+      "translation": "സോഷ്യൽ സ്റ്റോറികൾ"
+    },
+    "goal_practise_emotions": {
+      "en": "Practise emotions",
+      "translation": "വികാരങ്ങൾ അഭ്യസിക്കുക"
+    },
+    "goal_morning_routine": {
+      "en": "Complete morning routine",
+      "translation": "പ്രഭാത ദിനചര്യ പൂർത്തിയാക്കുക"
+    },
+    "goal_calming_exercise": {
+      "en": "Try a calming exercise",
+      "translation": "ശാന്തനാക്കുന്ന വ്യായാമം പരീക്ഷിക്കുക"
+    },
+    "goal_learning_video": {
+      "en": "Watch a learning video",
+      "translation": "ഒരു പഠന വീഡിയോ കാണുക"
+    },
+    "goal_practise_maths": {
+      "en": "Practise maths",
+      "translation": "ഗണിതം അഭ്യസിക്കുക"
+    },
+    "goal_english_lesson": {
+      "en": "Do an English lesson",
+      "translation": "ഒരു ഇംഗ്ലീഷ് പാഠം ചെയ്യുക"
+    },
+    "sens_sound_sensitive1": {
+      "en": "Covers ears often",
+      "translation": "പലപ്പോഴും ചെവി പൊത്തുന്നു"
+    },
+    "sens_sound_sensitive2": {
+      "en": "Upset by hand dryers",
+      "translation": "ഹാൻഡ് ഡ്രയറുകൾ കൊണ്ട് അസ്വസ്ഥത"
+    },
+    "sens_sound_sensitive3": {
+      "en": "Startles at sudden noises",
+      "translation": "പെട്ടെന്നുള്ള ശബ്ദത്തിൽ ഞെട്ടുന്നു"
+    },
+    "sens_sound_seeking1": {
+      "en": "Loves loud music",
+      "translation": "ഉച്ചത്തിലുള്ള സംഗീതം ഇഷ്ടപ്പെടുന്നു"
+    },
+    "sens_sound_seeking2": {
+      "en": "Makes repetitive sounds",
+      "translation": "ആവർത്തിച്ചുള്ള ശബ്ദങ്ങൾ ഉണ്ടാക്കുന്നു"
+    },
+    "sens_sound_seeking3": {
+      "en": "Seeks noisy environments",
+      "translation": "ശബ്ദകരമായ അന്തരീക്ഷം തേടുന്നു"
+    },
+    "sense_touch_sensitive1": {
+      "en": "Hates tags in clothes",
+      "translation": "വസ്ത്രങ്ങളിലെ ടാഗുകൾ ഇഷ്ടമല്ല"
+    },
+    "sense_touch_sensitive2": {
+      "en": "Avoids messy play",
+      "translation": "ചളിയുള്ള കളി ഒഴിവാക്കുന്നു"
+    },
+    "sense_touch_sensitive3": {
+      "en": "Dislikes unexpected touch",
+      "translation": "അപ്രതീക്ഷിത സ്പർശനം ഇഷ്ടമല്ല"
+    },
+    "sense_touch_seeking1": {
+      "en": "Loves deep pressure",
+      "translation": "ആഴത്തിലുള്ള സമ്മർദ്ദം ഇഷ്ടപ്പെടുന്നു"
+    },
+    "sense_touch_seeking2": {
+      "en": "Seeks hugs",
+      "translation": "ആലിംഗനം തേടുന്നു"
+    },
+    "sense_touch_seeking3": {
+      "en": "Enjoys heavy blankets",
+      "translation": "ഭാരമുള്ള പുതപ്പ് ആസ്വദിക്കുന്നു"
+    },
+    "sense_sight_sensitive1": {
+      "en": "Bothered by bright lights",
+      "translation": "തിളക്കമുള്ള വെളിച്ചത്തിൽ അസ്വസ്ഥത"
+    },
+    "sense_sight_sensitive2": {
+      "en": "Avoids busy visual spaces",
+      "translation": "തിരക്കേറിയ ദൃശ്യ ഇടങ്ങൾ ഒഴിവാക്കുന്നു"
+    },
+    "sense_sight_sensitive3": {
+      "en": "Squints often",
+      "translation": "പലപ്പോഴും കണ്ണടക്കുന്നു"
+    },
+    "sense_sight_seeking1": {
+      "en": "Watches spinning objects",
+      "translation": "കറങ്ങുന്ന വസ്തുക്കൾ നോക്കുന്നു"
+    },
+    "sense_sight_seeking2": {
+      "en": "Stares at lights",
+      "translation": "വെളിച്ചം നോക്കി ഇരിക്കുന്നു"
+    },
+    "sense_sight_seeking3": {
+      "en": "Seeks visual stimulation",
+      "translation": "ദൃശ്യ ഉത്തേജനം തേടുന്നു"
+    },
+    "dashboard": {
+      "en": "Dashboard",
+      "translation": "ഡാഷ്ബോർഡ്"
+    },
+    "study": {
+      "en": "Study",
+      "translation": "പഠനം"
+    },
+    "activities": {
+      "en": "Activities",
+      "translation": "പ്രവർത്തനങ്ങൾ"
+    },
+    "schedule": {
+      "en": "Schedule",
+      "translation": "ഷെഡ്യൂൾ"
+    },
+    "more": {
+      "en": "More",
+      "translation": "കൂടുതൽ"
+    },
+    "emotions": {
+      "en": "Emotions",
+      "translation": "വികാരങ്ങൾ"
+    },
+    "mirrorMode": {
+      "en": "Mirror Mode",
+      "translation": "മിറർ മോഡ്"
+    },
+    "identifyEmotions": {
+      "en": "Identify Emotions",
+      "translation": "വികാരങ്ങൾ തിരിച്ചറിയുക"
+    },
+    "socialStories": {
+      "en": "Social Stories",
+      "translation": "സോഷ്യൽ സ്റ്റോറികൾ"
+    },
+    "sixSecondRule": {
+      "en": "6-Second Rule",
+      "translation": "6-സെക്കൻഡ് നിയമം"
+    },
+    "mathNumbers": {
+      "en": "Math & Numbers",
+      "translation": "ഗണിതം & സംഖ്യകൾ"
+    },
+    "english": {
+      "en": "English",
+      "translation": "ഇംഗ്ലീഷ്"
+    },
+    "science": {
+      "en": "Science",
+      "translation": "ശാസ്ത്രം"
+    },
+    "currency": {
+      "en": "Currency",
+      "translation": "കറൻസി"
+    },
+    "measurements": {
+      "en": "Measurements",
+      "translation": "അളവുകൾ"
+    },
+    "yogaExercise": {
+      "en": "Yoga & Exercise",
+      "translation": "യോഗ & വ്യായാമം"
+    },
+    "socialSkills": {
+      "en": "Social Skills",
+      "translation": "സാമൂഹിക കഴിവുകൾ"
+    },
+    "cooking": {
+      "en": "Cooking",
+      "translation": "പാചകം"
+    },
+    "sports": {
+      "en": "Sports",
+      "translation": "കായിക വിനോദം"
+    },
+    "physicalActivities": {
+      "en": "Physical Activities",
+      "translation": "ശാരീരിക പ്രവർത്തനങ്ങൾ"
+    },
+    "videos": {
+      "en": "Videos",
+      "translation": "വീഡിയോകൾ"
+    },
+    "virtualExplore": {
+      "en": "Virtual Explore",
+      "translation": "വർച്വൽ പര്യവേക്ഷണം"
+    },
+    "places": {
+      "en": "Places",
+      "translation": "സ്ഥലങ്ങൾ"
+    },
+    "videoModeling": {
+      "en": "Video Modeling",
+      "translation": "വീഡിയോ മോഡലിംഗ്"
+    },
+    "dailyRoutine": {
+      "en": "Daily Routine",
+      "translation": "ദൈനംദിന ദിനചര്യ"
+    },
+    "calmCorner": {
+      "en": "Calm Corner",
+      "translation": "ശാന്ത കോണ്"
+    },
+    "myStars": {
+      "en": "My Stars",
+      "translation": "എന്റെ നക്ഷത്രങ്ങൾ"
+    },
+    "memories": {
+      "en": "Memories",
+      "translation": "ഓർമ്മകൾ"
+    },
+    "myProfile": {
+      "en": "My Profile",
+      "translation": "എന്റെ പ്രൊഫൈൽ"
+    },
+    "voiceChat": {
+      "en": "Voice Chat",
+      "translation": "ശബ്ദ ചാറ്റ്"
+    },
+    "close": {
+      "en": "Close",
+      "translation": "അടക്കുക"
+    },
+    "save": {
+      "en": "Save",
+      "translation": "സേവ് ചെയ്യുക"
+    },
+    "cancel": {
+      "en": "Cancel",
+      "translation": "റദ്ദാക്കുക"
+    },
+    "done": {
+      "en": "Done",
+      "translation": "പൂർത്തിയായി"
+    },
+    "next": {
+      "en": "Next",
+      "translation": "അടുത്തത്"
+    },
+    "back": {
+      "en": "Back",
+      "translation": "തിരിച്ച്"
+    },
+    "start": {
+      "en": "Start",
+      "translation": "ആരംഭിക്കുക"
+    },
+    "finish": {
+      "en": "Finish",
+      "translation": "പൂർത്തിയാക്കുക"
+    },
+    "tryAgain": {
+      "en": "Try Again",
+      "translation": "വീണ്ടും ശ്രമിക്കുക"
+    },
+    "readAloud": {
+      "en": "Read aloud",
+      "translation": "ഉച്ചത്തിൽ വായിക്കുക"
+    },
+    "add": {
+      "en": "Add",
+      "translation": "ചേർക്കുക"
+    },
+    "edit": {
+      "en": "Edit",
+      "translation": "തിരുത്തുക"
+    },
+    "delete": {
+      "en": "Delete",
+      "translation": "ഇല്ലാതാക്കുക"
+    },
+    "hear": {
+      "en": "Hear",
+      "translation": "കേൾക്കുക"
+    },
+    "hearIt": {
+      "en": "Hear it",
+      "translation": "ഇത് കേൾക്കുക"
+    },
+    "open_settings": {
+      "en": "Open Settings",
+      "translation": "ക്രമീകരണങ്ങൾ തുറക്കുക"
+    },
+    "open_in_app": {
+      "en": "Open in App",
+      "translation": "ആപ്പിൽ തുറക്കുക"
+    },
+    "open_in_safari": {
+      "en": "Open in Safari",
+      "translation": "Safari ൽ തുറക്കുക"
+    },
+    "open_in_youtube": {
+      "en": "Open in YouTube",
+      "translation": "YouTube ൽ തുറക്കുക"
+    },
+    "seeAll": {
+      "en": "See All",
+      "translation": "എല്ലാം കാണുക"
+    },
+    "noResults": {
+      "en": "No results",
+      "translation": "ഫലങ്ങൾ ഇല്ല"
+    },
+    "score": {
+      "en": "Score",
+      "translation": "സ്കോർ"
+    },
+    "question": {
+      "en": "Question",
+      "translation": "ചോദ്യം"
+    },
+    "today": {
+      "en": "Today",
+      "translation": "ഇന്ന്"
+    },
+    "thisWeek": {
+      "en": "This Week",
+      "translation": "ഈ ആഴ്ച"
+    },
+    "allTime": {
+      "en": "All Time",
+      "translation": "എല്ലാ കാലവും"
+    },
+    "fun_fact": {
+      "en": "Fun fact!",
+      "translation": "രസകരമായ വസ്തുത!"
+    },
+    "why_it_helps": {
+      "en": "Why this helps",
+      "translation": "ഇത് എന്തിന് സഹായിക്കുന്നു"
+    },
+    "steps": {
+      "en": "Steps",
+      "translation": "ഘട്ടങ്ങൾ"
+    },
+    "tips": {
+      "en": "Tips",
+      "translation": "നുറുങ്ങുകൾ"
+    },
+    "what_you_need": {
+      "en": "What you need",
+      "translation": "നിങ്ങൾക്ക് ആവശ്യമുള്ളത്"
+    },
+    "key_facts": {
+      "en": "Key Facts",
+      "translation": "പ്രധാന വസ്തുതകൾ"
+    },
+    "location": {
+      "en": "Location",
+      "translation": "സ്ഥലം"
+    },
+    "quickAccess": {
+      "en": "Quick Access",
+      "translation": "ദ്രുത ആക്സസ്"
+    },
+    "myMemories": {
+      "en": "My Memories",
+      "translation": "എന്റെ ഓർമ്മകൾ"
+    },
+    "addFirstMemory": {
+      "en": "Add your first memory 📸",
+      "translation": "നിങ്ങളുടെ ആദ്യ ഓർമ്മ ചേർക്കുക 📸"
+    },
+    "starsToday": {
+      "en": "star(s) earned today!",
+      "translation": "ഇന്ന് നേടിയ നക്ഷത്ര(ങ്ങൾ)!"
+    },
+    "noStarsYet": {
+      "en": "No stars earned today yet",
+      "translation": "ഇന്ന് ഇതുവരെ നക്ഷത്രങ്ങൾ ഇല്ല"
+    },
+    "tapStarChart": {
+      "en": "Tap to see your star chart",
+      "translation": "നിങ്ങളുടെ നക്ഷത്ര ചാർട്ട് കാണാൻ ടാപ്പ് ചെയ്യുക"
+    },
+    "emotionTrainer": {
+      "en": "Emotion Trainer",
+      "translation": "വികാര പരിശീലകൻ"
+    },
+    "emoji_trainer": {
+      "en": "Emotion Trainer",
+      "translation": "വികാര പരിശീലകൻ"
+    },
+    "howDoYouFeel": {
+      "en": "How do you feel?",
+      "translation": "നിങ്ങൾക്ക് എങ്ങനെ തോന്നുന്നു?"
+    },
+    "tapEmotion": {
+      "en": "Tap an emotion to learn about it",
+      "translation": "ഒരു വികാരത്തെക്കുറിച്ച് അറിയാൻ ടാപ്പ് ചെയ്യുക"
+    },
+    "wellDone": {
+      "en": "Well done!",
+      "translation": "നന്നായി!"
+    },
+    "keepGoing": {
+      "en": "Keep going!",
+      "translation": "തുടർന്ന് ശ്രമിക്കൂ!"
+    },
+    "myProgress": {
+      "en": "My progress",
+      "translation": "എന്റെ പുരോഗതി"
+    },
+    "lets_learn_feelings": {
+      "en": "Let's learn about feelings",
+      "translation": "നമുക്ക് വികാരങ്ങളെക്കുറിച്ച് പഠിക്കാം"
+    },
+    "tap_face_to_learn": {
+      "en": "Tap a face to learn about that feeling",
+      "translation": "ആ വികാരത്തെക്കുറിച്ച് അറിയാൻ ഒരു മുഖത്ത് ടാപ്പ് ചെയ്യുക"
+    },
+    "tap_to_hear_desc": {
+      "en": "Tap to hear the description",
+      "translation": "വിവരണം കേൾക്കാൻ ടാപ്പ് ചെയ്യുക"
+    },
+    "what_does_it_feel": {
+      "en": "What does it feel like?",
+      "translation": "ഇത് എങ്ങനെ അനുഭവപ്പെടുന്നു?"
+    },
+    "try_making_face": {
+      "en": "Try making this face!",
+      "translation": "ഈ മുഖഭാവം ഉണ്ടാക്കി നോക്കൂ!"
+    },
+    "hear_description": {
+      "en": "Hear a description",
+      "translation": "ഒരു വിവരണം കേൾക്കുക"
+    },
+    "speak_and_get_response": {
+      "en": "Speak and get a friendly response",
+      "translation": "സംസാരിക്കൂ, സൗഹൃദ മറുപടി ലഭിക്കും"
+    },
+    "voice_chat_talk_feelings": {
+      "en": "Voice Chat — Talk About Feelings",
+      "translation": "ശബ്ദ ചാറ്റ് — വികാരങ്ങളെക്കുറിച്ച് സംസാരിക്കൂ"
+    },
+    "stars_earned": {
+      "en": "⭐ stars earned",
+      "translation": "⭐ നേടിയ നക്ഷത്രങ്ങൾ"
+    },
+    "can_you_look": {
+      "en": "Can you look...",
+      "translation": "നിങ്ങൾക്ക് നോക്കാൻ കഴിയുമോ..."
+    },
+    "next_emotion": {
+      "en": "Next emotion",
+      "translation": "അടുത്ത വികാരം"
+    },
+    "hear_tip": {
+      "en": "Hear tip",
+      "translation": "നുറുങ്ങ് കേൾക്കുക"
+    },
+    "hold_it": {
+      "en": "Hold it!",
+      "translation": "ഇത് പിടിക്കൂ!"
+    },
+    "camera_needed": {
+      "en": "Camera access needed",
+      "translation": "ക്യാമറ ആക്സസ് ആവശ്യമാണ്"
+    },
+    "camera_permission": {
+      "en": "Please allow camera access in Settings.",
+      "translation": "ക്രമീകരണങ്ങളിൽ ക്യാമറ ആക്സസ് അനുവദിക്കുക."
+    },
+    "identify_mode_title": {
+      "en": "Identify Mode",
+      "translation": "തിരിച്ചറിയൽ മോഡ്"
+    },
+    "how_does_person_feel": {
+      "en": "How does this person feel?",
+      "translation": "ഈ വ്യക്തിക്ക് എങ്ങനെ തോന്നുന്നു?"
+    },
+    "hear_story": {
+      "en": "Hear the story",
+      "translation": "കഥ കേൾക്കുക"
+    },
+    "by_emotion": {
+      "en": "By emotion",
+      "translation": "വികാരം അനുസരിച്ച്"
+    },
+    "recent_attempts": {
+      "en": "Recent attempts",
+      "translation": "സമീപകാല ശ്രമങ്ങൾ"
+    },
+    "by_operation": {
+      "en": "By operation",
+      "translation": "പ്രവർത്തനം അനുസരിച്ച്"
+    },
+    "recent_problems": {
+      "en": "Recent problems",
+      "translation": "സമീപകാല പ്രശ്നങ്ങൾ"
+    },
+    "progress_title": {
+      "en": "Progress",
+      "translation": "പുരോഗതി"
+    },
+    "math_progress": {
+      "en": "Math Progress",
+      "translation": "ഗണിത പുരോഗതി"
+    },
+    "math_subtitle": {
+      "en": "Maths, Money & Measurements",
+      "translation": "ഗണിതം, പണം & അളവുകൾ"
+    },
+    "math_videos": {
+      "en": "Videos + practice for every topic",
+      "translation": "ഓരോ വിഷയത്തിനും വീഡിയോകൾ + പ്രാക്ടീസ്"
+    },
+    "hear_problem": {
+      "en": "Hear the problem",
+      "translation": "പ്രശ്നം കേൾക്കുക"
+    },
+    "englishLessons": {
+      "en": "English Lessons",
+      "translation": "ഇംഗ്ലീഷ് പാഠങ്ങൾ"
+    },
+    "tapToHearWord": {
+      "en": "Tap any card to hear the word spoken",
+      "translation": "വാക്ക് കേൾക്കാൻ ഏതെങ്കിലും കാർഡ് ടാപ്പ് ചെയ്യുക"
+    },
+    "pronunciation": {
+      "en": "Pronunciation",
+      "translation": "ഉച്ചാരണം"
+    },
+    "what_word_matches": {
+      "en": "What word matches this?",
+      "translation": "ഇതിന് യോജിക്കുന്ന വാക്ക് ഏതാണ്?"
+    },
+    "scienceLab": {
+      "en": "Science Lab",
+      "translation": "ശാസ്ത്ര ലാബ്"
+    },
+    "funExperiments": {
+      "en": "Fun experiments!",
+      "translation": "രസകരമായ പരീക്ഷണങ്ങൾ!"
+    },
+    "safe_at_home": {
+      "en": "Safe to try at home with a grown-up",
+      "translation": "ഒരു മുതിർന്ന ആളിന്റെ സഹായത്തോടെ വീട്ടിൽ സുരക്ഷിതമായി ചെയ്യാം"
+    },
+    "why_it_works": {
+      "en": "Why it works",
+      "translation": "ഇത് എന്തുകൊണ്ട് ഫലിക്കുന്നു"
+    },
+    "you_need": {
+      "en": "You need",
+      "translation": "നിങ്ങൾക്ക് വേണ്ടത്"
+    },
+    "measurements_subtitle": {
+      "en": "Watch, learn & practise!",
+      "translation": "കാണൂ, പഠിക്കൂ & അഭ്യസിക്കൂ!"
+    },
+    "tap_scenario": {
+      "en": "Tap a scenario to learn about paying and getting change",
+      "translation": "പണം നൽകുന്നതും ബാക്കി ലഭിക്കുന്നതും അറിയാൻ ഒരു സാഹചര്യം ടാപ്പ് ചെയ്യുക"
+    },
+    "shopkeeper_gives_change": {
+      "en": "The shopkeeper gives you change.",
+      "translation": "കടക്കാരൻ നിങ്ങൾക്ക് ബാക്കി നൽകുന്നു."
+    },
+    "hear_it_explained": {
+      "en": "Hear it explained",
+      "translation": "ഇത് വിശദീകരിക്കുന്നത് കേൾക്കുക"
+    },
+    "shopping_title": {
+      "en": "Shopping",
+      "translation": "ഷോപ്പിംഗ്"
+    },
+    "enter_amounts": {
+      "en": "Enter amounts",
+      "translation": "തുകകൾ നൽകുക"
+    },
+    "quick_examples": {
+      "en": "Quick examples",
+      "translation": "ദ്രുത ഉദാഹരണങ്ങൾ"
+    },
+    "converter": {
+      "en": "Converter",
+      "translation": "കൺവർട്ടർ"
+    },
+    "activities_subtitle": {
+      "en": "Skating, painting, drawing and swimming",
+      "translation": "സ്കേറ്റിംഗ്, ചിത്രകല, ഡ്രോയിംഗ്, നീന്തൽ"
+    },
+    "what_you_need_title": {
+      "en": "What you need",
+      "translation": "നിങ്ങൾക്ക് ആവശ്യമുള്ളത്"
+    },
+    "calm_my_body": {
+      "en": "Calm my Body",
+      "translation": "എന്റെ ശരീരം ശാന്തമാക്കുക"
+    },
+    "breathing_and_calming": {
+      "en": "Breathing and calming exercises",
+      "translation": "ശ്വസന, ശാന്തനാക്കൽ വ്യായാമങ്ങൾ"
+    },
+    "breathing_exercises": {
+      "en": "Breathing Exercises",
+      "translation": "ശ്വസന വ്യായാമങ്ങൾ"
+    },
+    "calming_activities": {
+      "en": "Calming Activities",
+      "translation": "ശാന്തനാക്കുന്ന പ്രവർത്തനങ്ങൾ"
+    },
+    "tap_or_swipe_to_spin": {
+      "en": "Tap or swipe to spin",
+      "translation": "ടാപ്പ് ചെയ്യുക അല്ലെങ്കിൽ സ്വൈപ്പ് ചെയ്ത് കറക്കുക"
+    },
+    "pop_bubbles": {
+      "en": "Pop Bubbles",
+      "translation": "ബബിളുകൾ പൊട്ടിക്കുക"
+    },
+    "dailyRoutineTitle": {
+      "en": "Daily Routine",
+      "translation": "ദൈനംദിന ദിനചര്യ"
+    },
+    "allDone": {
+      "en": "All done! Great job! 🎉",
+      "translation": "എല്ലാം പൂർത്തിയായി! ഗ്രേറ്റ് ജോബ്! 🎉"
+    },
+    "tasksCompleted": {
+      "en": "tasks completed",
+      "translation": "ടാസ്കുകൾ പൂർത്തിയായി"
+    },
+    "no_tasks_yet": {
+      "en": "No tasks yet",
+      "translation": "ഇതുവരെ ടാസ്കുകൾ ഇല്ല"
+    },
+    "add_task_to_build": {
+      "en": "Tap \\\\\"Add Task\\\\\" to build your daily routine",
+      "translation": "നിങ്ങളുടെ ദൈനംദിന ദിനചര്യ ഉണ്ടാക്കാൻ \"ടാസ്ക് ചേർക്കുക\" ടാപ്പ് ചെയ്യുക"
+    },
+    "add_task_button": {
+      "en": "Add Task",
+      "translation": "ടാസ്ക് ചേർക്കുക"
+    },
+    "celebration_message": {
+      "en": "You finished all your tasks.\\\\nAmazing work today!",
+      "translation": "നിങ്ങൾ എല്ലാ ടാസ്കുകളും പൂർത്തിയാക്കി.\nഇന്ന് അതിശ്രദ്ധേയമായ ജോലി!"
+    },
+    "todaySchedule": {
+      "en": "Today's Schedule",
+      "translation": "ഇന്നത്തെ ഷെഡ്യൂൾ"
+    },
+    "addActivity": {
+      "en": "Add Activity",
+      "translation": "പ്രവർത്തനം ചേർക്കുക"
+    },
+    "noActivities": {
+      "en": "No activities scheduled",
+      "translation": "ഷെഡ്യൂൾ ചെയ്ത പ്രവർത്തനങ്ങൾ ഇല്ല"
+    },
+    "festivals": {
+      "en": "Festivals",
+      "translation": "ഉത്സവങ്ങൾ"
+    },
+    "calendar": {
+      "en": "Calendar",
+      "translation": "കലണ്ടർ"
+    },
+    "no_activities_scheduled": {
+      "en": "No activities scheduled. Tap + to add.",
+      "translation": "ഷെഡ്യൂൾ ചെയ്ത പ്രവർത്തനങ്ങൾ ഇല്ല. ചേർക്കാൻ + ടാപ്പ് ചെയ്യുക."
+    },
+    "this_months_festivals": {
+      "en": "This month's festivals",
+      "translation": "ഈ മാസത്തെ ഉത്സവങ്ങൾ"
+    },
+    "coming_up_soon": {
+      "en": "Coming up soon",
+      "translation": "ഉടൻ വരുന്നത്"
+    },
+    "how_it_is_celebrated": {
+      "en": "How it is celebrated",
+      "translation": "ഇത് എങ്ങനെ ആഘോഷിക്കുന്നു"
+    },
+    "hear_about_it": {
+      "en": "Hear about it",
+      "translation": "ഇതിനെക്കുറിച്ച് കേൾക്കുക"
+    },
+    "add_time_slot": {
+      "en": "Add Time Slot",
+      "translation": "സമയ സ്ലോട്ട് ചേർക്കുക"
+    },
+    "every_day": {
+      "en": "Every day",
+      "translation": "എല്ലാ ദിവസവും"
+    },
+    "myStarsTitle": {
+      "en": "My Stars ⭐️",
+      "translation": "എന്റെ നക്ഷത്രങ്ങൾ ⭐️"
+    },
+    "earnedToday": {
+      "en": "Earned today",
+      "translation": "ഇന്ന് നേടിയത്"
+    },
+    "totalStars": {
+      "en": "Total stars",
+      "translation": "ആകെ നക്ഷത്രങ്ങൾ"
+    },
+    "today_stars": {
+      "en": "Today's Stars",
+      "translation": "ഇന്നത്തെ നക്ഷത്രങ്ങൾ"
+    },
+    "recent_stars": {
+      "en": "Recent Stars",
+      "translation": "സമീപകാല നക്ഷത്രങ്ങൾ"
+    },
+    "this_week_chart": {
+      "en": "This Week",
+      "translation": "ഈ ആഴ്ച"
+    },
+    "memories_subtitle": {
+      "en": "Photos and videos of my favourite moments",
+      "translation": "എന്റെ പ്രിയപ്പെട്ട നിമിഷങ്ങളുടെ ഫോട്ടോകളും വീഡിയോകളും"
+    },
+    "add_memory": {
+      "en": "Add a Memory",
+      "translation": "ഒരു ഓർമ്മ ചേർക്കുക"
+    },
+    "no_memories_yet": {
+      "en": "No memories yet!",
+      "translation": "ഇതുവരെ ഓർമ്മകൾ ഇല്ല!"
+    },
+    "tap_to_add_memory": {
+      "en": "Tap \\\\\"+\\\\\" to add your first memory",
+      "translation": "നിങ്ങളുടെ ആദ്യ ഓർമ്മ ചേർക്കാൻ \"+\" ടാപ്പ് ചെയ്യുക"
+    },
+    "add_memory_title": {
+      "en": "Add Memory",
+      "translation": "ഓർമ്മ ചേർക്കുക"
+    },
+    "choose_from_library": {
+      "en": "Choose from Library",
+      "translation": "ലൈബ്രറിൽ നിന്ന് തിരഞ്ഞെടുക്കുക"
+    },
+    "youtube_video_link": {
+      "en": "YouTube Video Link (optional)",
+      "translation": "YouTube വീഡിയോ ലിങ്ക് (ഐച്ഛികം)"
+    },
+    "about_me": {
+      "en": "About Me",
+      "translation": "എന്നെക്കുറിച്ച്"
+    },
+    "photo_tab": {
+      "en": "Photos",
+      "translation": "ഫോട്ടോകൾ"
+    },
+    "recordings_tab": {
+      "en": "Recordings",
+      "translation": "റെക്കോർഡിംഗുകൾ"
+    },
+    "interests": {
+      "en": "Interests",
+      "translation": "താൽപ്പര്യങ്ങൾ"
+    },
+    "edit_profile": {
+      "en": "Edit Profile",
+      "translation": "പ്രൊഫൈൽ തിരുത്തുക"
+    },
+    "no_photos_yet": {
+      "en": "No photos yet",
+      "translation": "ഇതുവരെ ഫോട്ടോകൾ ഇല്ല"
+    },
+    "no_recordings_yet": {
+      "en": "No recordings yet",
+      "translation": "ഇതുവരെ റെക്കോർഡിംഗുകൾ ഇല്ല"
+    },
+    "add_media": {
+      "en": "Add",
+      "translation": "ചേർക്കുക"
+    },
+    "video_stories_subtitle": {
+      "en": "Video stories that teach life skills",
+      "translation": "ജീവിത കഴിവുകൾ പഠിപ്പിക്കുന്ന വീഡിയോ കഥകൾ"
+    },
+    "story_summary": {
+      "en": "Story Summary",
+      "translation": "കഥ സംഗ്രഹം"
+    },
+    "video_modeling_subtitle": {
+      "en": "Watch a task to learn how to do it",
+      "translation": "ഒരു ടാസ്ക് എങ്ങനെ ചെയ്യണമെന്ന് അറിയാൻ കാണുക"
+    },
+    "task_video_examples": {
+      "en": "Task Video Examples",
+      "translation": "ടാസ്ക് വീഡിയോ ഉദാഹരണങ്ങൾ"
+    },
+    "record_new": {
+      "en": "Record New",
+      "translation": "പുതിയത് റെക്കോർഡ് ചെയ്യുക"
+    },
+    "hear_description_btn": {
+      "en": "Hear description",
+      "translation": "വിവരണം കേൾക്കുക"
+    },
+    "step_checklist": {
+      "en": "Step checklist (optional)",
+      "translation": "ഘട്ട ചെക്ക്ലിസ്റ്റ് (ഐച്ഛികം)"
+    },
+    "refreshes_daily": {
+      "en": "Refreshes daily",
+      "translation": "ദിനംതോറും പുതുക്കുന്നു"
+    },
+    "continue_watching": {
+      "en": "Continue Watching",
+      "translation": "കാണൽ തുടരുക"
+    },
+    "learning_videos": {
+      "en": "Learning Videos",
+      "translation": "പഠന വീഡിയോകൾ"
+    },
+    "explore_and_learn": {
+      "en": "Explore & learn",
+      "translation": "പര്യവേക്ഷണം ചെയ്ത് പഠിക്കൂ"
+    },
+    "watch_history": {
+      "en": "Watch History",
+      "translation": "കാണൽ ചരിത്രം"
+    },
+    "video_unavailable": {
+      "en": "Video unavailable",
+      "translation": "വീഡിയോ ലഭ്യമല്ല"
+    },
+    "virtual_tours_subtitle": {
+      "en": "Explore the world from your screen",
+      "translation": "നിങ്ങളുടെ സ്ക്രീനിൽ നിന്ന് ലോകം പര്യവേക്ഷണം ചെയ്യുക"
+    },
+    "interactive": {
+      "en": "Interactive",
+      "translation": "ഇന്ററാക്ടീവ്"
+    },
+    "explore_from_screen": {
+      "en": "Explore the world from your screen",
+      "translation": "നിങ്ങളുടെ സ്ക്രീനിൽ നിന്ന് ലോകം പര്യവേക്ഷണം ചെയ്യുക"
+    },
+    "explore_world": {
+      "en": "Explore the World",
+      "translation": "ലോകം പര്യവേക്ഷണം ചെയ്യൂ"
+    },
+    "famous_places": {
+      "en": "Famous places!",
+      "translation": "പ്രശസ്ത സ്ഥലങ്ങൾ!"
+    },
+    "tap_to_learn": {
+      "en": "Tap any place to learn about it",
+      "translation": "ഏതെങ്കിലും സ്ഥലത്തെക്കുറിച്ച് അറിയാൻ ടാപ്പ് ചെയ്യുക"
+    },
+    "hear_about_place": {
+      "en": "Hear about this place",
+      "translation": "ഈ സ്ഥലത്തെക്കുറിച്ച് കേൾക്കുക"
+    },
+    "six_second_title": {
+      "en": "6-Second Rule",
+      "translation": "6-സെക്കൻഡ് നിയമം"
+    },
+    "six_second_subtitle": {
+      "en": "A communication strategy for autism",
+      "translation": "ഓട്ടിസത്തിനുള്ള ഒരു ആശയവിനിമയ തന്ത്രം"
+    },
+    "six_second_explain": {
+      "en": "After asking a question or giving an instruction, wait silently for 6 seconds before repeating.",
+      "translation": "ഒരു ചോദ്യം ചോദിക്കുകയോ നിർദ്ദേശം നൽകുകയോ ചെയ്ത ശേഷം, ആവർത്തിക്കുന്നതിന് മുൻപ് 6 സെക്കൻഡ് നിശബ്ദമായി കാത്തിരിക്കുക."
+    },
+    "hear_explanation": {
+      "en": "Hear explanation",
+      "translation": "വിശദീകരണം കേൾക്കുക"
+    },
+    "seconds": {
+      "en": "seconds",
+      "translation": "സെക്കൻഡുകൾ"
+    },
+    "question_or_instruction": {
+      "en": "Question or instruction",
+      "translation": "ചോദ്യം അല്ലെങ്കിൽ നിർദ്ദേശം"
+    },
+    "holdToTalk": {
+      "en": "Hold to talk",
+      "translation": "സംസാരിക്കാൻ ഹോൾഡ് ചെയ്യുക"
+    },
+    "listening": {
+      "en": "Listening…",
+      "translation": "ശ്രദ്ധിക്കുന്നു…"
+    },
+    "autiSpeaking": {
+      "en": "Auti is speaking…",
+      "translation": "Auti സംസാരിക്കുന്നു…"
+    },
+    "mic_permission": {
+      "en": "Please allow microphone and speech recognition access in Settings.",
+      "translation": "Voice Chat ഉപയോഗിക്കാൻ ക്രമീകരണങ്ങളിൽ മൈക്രോഫോണും ശബ്ദ തിരിച്ചറിയൽ ആക്സസും അനുവദിക്കുക."
+    },
+    "talk_about_feelings": {
+      "en": "Tap the mic and talk about how you feel!",
+      "translation": "മൈക്ക് ടാപ്പ് ചെയ്ത് നിങ്ങൾക്ക് എങ്ങനെ തോന്നുന്നുവെന്ന് പറയൂ!"
+    },
+    "lock_app_now": {
+      "en": "Lock App Now",
+      "translation": "ആപ്പ് ഇപ്പോൾ ലോക്ക് ചെയ്യുക"
+    },
+    "requires_pin": {
+      "en": "Requires PIN to exit",
+      "translation": "പുറത്ത് കടക്കാൻ PIN ആവശ്യമാണ്"
+    },
+    "change_unlock_pin": {
+      "en": "Change Unlock PIN",
+      "translation": "അൺലോക്ക് PIN മാറ്റുക"
+    },
+    "app_lock_kiosk": {
+      "en": "App Lock & Kiosk Mode",
+      "translation": "ആപ്പ് ലോക്ക് & കിയോസ്ക് മോഡ്"
+    },
+    "app_lock_desc": {
+      "en": "When locked, the child cannot switch to other apps.",
+      "translation": "ലോക്ക് ചെയ്യുമ്പോൾ, കുട്ടിക്ക് മറ്റ് ആപ്പുകളിലേക്ക് മാറാൻ കഴിയില്ല."
+    },
+    "setup_guided_access": {
+      "en": "Set Up iOS Guided Access",
+      "translation": "iOS Guided Access സജ്ജമാക്കുക"
+    },
+    "parent_mode_title": {
+      "en": "Parents Mode",
+      "translation": "രക്ഷകർത്തൃ മോഡ്"
+    },
+    "parent_mode": {
+      "en": "Parents Mode",
+      "translation": "രക്ഷകർത്തൃ മോഡ്"
+    },
+    "position_face": {
+      "en": "Position your face here",
+      "translation": "നിങ്ങളുടെ മുഖം ഇവിടെ വയ്ക്കുക"
+    },
+    "app_is_locked": {
+      "en": "SproutPath is locked",
+      "translation": "SproutPath ലോക്ക് ചെയ്തിരിക്കുന്നു"
+    },
+    "ask_parent_to_unlock": {
+      "en": "Ask a parent or carer to unlock",
+      "translation": "അൺലോക്ക് ചെയ്യാൻ ഒരു രക്ഷകർത്താവ് അല്ലെങ്കിൽ പരിചരണക്കാരനോട് ആവശ്യപ്പെടുക"
+    },
+    "language": {
+      "en": "Language",
+      "translation": "ഭാഷ"
+    },
+    "selectLanguage": {
+      "en": "Select Language",
+      "translation": "ഭാഷ തിരഞ്ഞെടുക്കുക"
+    },
+    "changeLanguage": {
+      "en": "Change Language",
+      "translation": "ഭാഷ മാറ്റുക"
+    },
+    "currentLanguage": {
+      "en": "Current Language",
+      "translation": "നിലവിലെ ഭാഷ"
+    },
+    "appLanguage": {
+      "en": "App Language",
+      "translation": "ആപ്പ് ഭാഷ"
+    },
+    "better_voice_available": {
+      "en": "Better voice available",
+      "translation": "മികച്ച ശബ്ദം ലഭ്യമാണ്"
+    },
+    "download_neural_voice": {
+      "en": "Download Apple's free neural voice for a much more natural sound.",
+      "translation": "കൂടുതൽ സ്വാഭാവിക ശബ്ദത്തിനായി Apple-ന്റെ സൗജന്യ ന്യൂറൽ ശബ്ദം ഡൗൺലോഡ് ചെയ്യുക."
+    },
+    "parent_hub": {
+      "en": "Parents Hub",
+      "translation": "രക്ഷകർത്തൃ ഹബ്"
+    },
+    "behavior_journal": {
+      "en": "Behavior Journal",
+      "translation": "പ്രവർത്തന ജേർണൽ"
+    },
+    "emergency_card": {
+      "en": "Emergency Card",
+      "translation": "അടിയന്തര കാർഡ്"
+    },
+    "sensory_profile": {
+      "en": "Sensory Profile",
+      "translation": "ഇന്ദ്രിയ പ്രൊഫൈൽ"
+    },
+    "handoff_notes": {
+      "en": "Handoff Notes",
+      "translation": "കൈമാറ്റ കുറിപ്പുകൾ"
+    },
+    "progress_summary": {
+      "en": "Progress Summary",
+      "translation": "പുരോഗതി സംഗ്രഹം"
+    },
+    "therapist_report": {
+      "en": "Therapist Report",
+      "translation": "തെറാപ്പിസ്റ്റ് റിപ്പോർട്ട്"
+    },
+    "goals_tab": {
+      "en": "Goals",
+      "translation": "ലക്ഷ്യങ്ങൾ"
+    },
+    "export_report": {
+      "en": "Export Report",
+      "translation": "റിപ്പോർട്ട് എക്സ്പോർട്ട് ചെയ്യുക"
+    },
+    "no_entries": {
+      "en": "No entries yet",
+      "translation": "ഇതുവരെ എൻട്രികൾ ഇല്ല"
+    },
+    "add_entry": {
+      "en": "Add Entry",
+      "translation": "എൻട്രി ചേർക്കുക"
+    },
+    "patterns": {
+      "en": "Patterns",
+      "translation": "പാറ്റേണുകൾ"
+    },
+    "history": {
+      "en": "History",
+      "translation": "ചരിത്രം"
+    },
+    "math_tables": {
+      "en": "Times Tables",
+      "translation": "ഗുണനപ്പട്ടിക"
+    },
+    "multiplication_tables": {
+      "en": "Multiplication Tables",
+      "translation": "ഗുണനപ്പട്ടിക"
+    },
+    "tables_subtitle": {
+      "en": "Learn 1 to 20 times tables with fun!",
+      "translation": "1 മുതൽ 20 വരെ ഗുണനപ്പട്ടിക രസത്തോടെ പഠിക്കൂ!"
+    },
+    "select_table": {
+      "en": "Pick a table to learn",
+      "translation": "ഒരു പട്ടിക പഠിക്കാൻ തിരഞ്ഞെടുക്കുക"
+    },
+    "table_of": {
+      "en": "Table of",
+      "translation": "പട്ടിക"
+    },
+    "practice_mode": {
+      "en": "Practice",
+      "translation": "പ്രാക്ടീസ്"
+    },
+    "reference_mode": {
+      "en": "Reference",
+      "translation": "റഫറൻസ്"
+    },
+    "tables_quiz": {
+      "en": "Quiz Me!",
+      "translation": "ക്വിസ് ചെയ്യൂ!"
+    },
+    "kids_navigation": {
+      "en": "My Map",
+      "translation": "എന്റെ മാപ്പ്"
+    },
+    "where_are_you_going": {
+      "en": "Where are you going?",
+      "translation": "നിങ്ങൾ എങ്ങോട്ടാണ് പോകുന്നത്?"
+    },
+    "choose_destination": {
+      "en": "Choose a place to go",
+      "translation": "ഒരു സ്ഥലം തിരഞ്ഞെടുക്കുക"
+    },
+    "start_navigation": {
+      "en": "Let's Go! 🚀",
+      "translation": "പോകാം! 🚀"
+    },
+    "you_are_here": {
+      "en": "You are here! 📍",
+      "translation": "നിങ്ങൾ ഇവിടെ ആണ്! 📍"
+    },
+    "destination": {
+      "en": "Destination",
+      "translation": "ലക്ഷ്യസ്ഥാനം"
+    },
+    "tap_to_navigate": {
+      "en": "Tap a place to get directions",
+      "translation": "ദിശകൾ ലഭിക്കാൻ ഒരു സ്ഥലം ടാപ്പ് ചെയ്യുക"
+    },
+    "nearby_places": {
+      "en": "Nearby Places",
+      "translation": "സമീപ സ്ഥലങ്ങൾ"
+    },
+    "kids_map": {
+      "en": "My Map",
+      "translation": "എന്റെ മാപ്പ്"
+    },
+    "favorite_places": {
+      "en": "Favourite Places",
+      "translation": "പ്രിയപ്പെട്ട സ്ഥലങ്ങൾ"
+    },
+    "where_are_we_going": {
+      "en": "Where are we going?",
+      "translation": "നമ്മൾ എങ്ങോട്ടാണ് പോകുന്നത്?"
+    },
+    "where_are_we_now": {
+      "en": "Where are we now?",
+      "translation": "നമ്മൾ ഇപ്പോൾ എവിടെ ആണ്?"
+    },
+    "get_directions": {
+      "en": "Get Directions",
+      "translation": "ദിശകൾ ലഭിക്കൂ"
+    },
+    "parent_hub_title": {
+      "en": "Parents Hub",
+      "translation": "രക്ഷകർത്തൃ ഹബ്"
+    },
+    "handoff_tab": {
+      "en": "Handoff",
+      "translation": "കൈമാറ്റം"
+    },
+    "progress_tab": {
+      "en": "Progress",
+      "translation": "പുരോഗതി"
+    },
+    "goals_tab_label": {
+      "en": "Goals",
+      "translation": "ലക്ഷ്യങ്ങൾ"
+    },
+    "report_tab": {
+      "en": "Report",
+      "translation": "റിപ്പോർട്ട്"
+    },
+    "todays_handoff_note": {
+      "en": "Today's Handoff Note",
+      "translation": "ഇന്നത്തെ കൈമാറ്റ കുറിപ്പ്"
+    },
+    "write_todays_note": {
+      "en": "Write today's handoff note",
+      "translation": "ഇന്നത്തെ കൈമാറ്റ കുറിപ്പ് എഴുതുക"
+    },
+    "previous_notes": {
+      "en": "Previous notes",
+      "translation": "മുൻ കുറിപ്പുകൾ"
+    },
+    "mood_today": {
+      "en": "Mood today",
+      "translation": "ഇന്ന് മനോഭാവം"
+    },
+    "tonight_works": {
+      "en": "Tonight",
+      "translation": "ഇന്ന് രാത്രി"
+    },
+    "how_was_their_day": {
+      "en": "How was their day?",
+      "translation": "അവരുടെ ദിവസം എങ്ങനെ ആയിരുന്നു?"
+    },
+    "note_for_caregiver": {
+      "en": "Note for caregiver",
+      "translation": "പരിചരണക്കാരനുള്ള കുറിപ്പ്"
+    },
+    "what_works_tonight": {
+      "en": "What works tonight",
+      "translation": "ഇന്ന് രാത്രി എന്ത് ഫലിക്കും"
+    },
+    "handoff_note_title": {
+      "en": "Handoff Note",
+      "translation": "കൈമാറ്റ കുറിപ്പ്"
+    },
+    "todays_summary": {
+      "en": "Today's summary",
+      "translation": "ഇന്നത്തെ സംഗ്രഹം"
+    },
+    "videos_watched_today": {
+      "en": "Videos watched today",
+      "translation": "ഇന്ന് കണ്ട വീഡിയോകൾ"
+    },
+    "suggested_goals": {
+      "en": "Suggested goals for this week",
+      "translation": "ഈ ആഴ്ചയ്ക്ക് നിർദ്ദേശിക്കുന്ന ലക്ഷ്യങ്ങൾ"
+    },
+    "goal_achieved": {
+      "en": "Goal achieved this week! 🎉",
+      "translation": "ഈ ആഴ്ച ലക്ഷ്യം നേടി! 🎉"
+    },
+    "per_week": {
+      "en": "× per week",
+      "translation": "× ആഴ്ചയിൽ"
+    },
+    "new_goal": {
+      "en": "New Goal",
+      "translation": "പുതിയ ലക്ഷ്യം"
+    },
+    "goal_label": {
+      "en": "Goal",
+      "translation": "ലക്ഷ്യം"
+    },
+    "target_label": {
+      "en": "Target",
+      "translation": "ടാർഗറ്റ്"
+    },
+    "section_label": {
+      "en": "Section",
+      "translation": "വിഭാഗം"
+    },
+    "report_period": {
+      "en": "Report period",
+      "translation": "റിപ്പോർട്ട് കാലഘട്ടം"
+    },
+    "last_week": {
+      "en": "Last week",
+      "translation": "കഴിഞ്ഞ ആഴ്ച"
+    },
+    "last_2_weeks": {
+      "en": "Last 2 weeks",
+      "translation": "കഴിഞ്ഞ 2 ആഴ്ചകൾ"
+    },
+    "last_month": {
+      "en": "Last month",
+      "translation": "കഴിഞ്ഞ മാസം"
+    },
+    "last_3_months": {
+      "en": "Last 3 months",
+      "translation": "കഴിഞ്ഞ 3 മാസങ്ങൾ"
+    },
+    "emotion_attempts": {
+      "en": "Emotion attempts",
+      "translation": "വികാര ശ്രമങ്ങൾ"
+    },
+    "math_attempts": {
+      "en": "Math attempts",
+      "translation": "ഗണിത ശ്രമങ്ങൾ"
+    },
+    "stars_earned_label": {
+      "en": "Stars earned",
+      "translation": "നേടിയ നക്ഷത്രങ്ങൾ"
+    },
+    "difficult_moments": {
+      "en": "Difficult moments",
+      "translation": "ബുദ്ധിമുട്ടേറിയ നിമിഷങ്ങൾ"
+    },
+    "emotion_by_type": {
+      "en": "Emotion recognition by type",
+      "translation": "തരം അനുസരിച്ച് വികാര തിരിച്ചറിയൽ"
+    },
+    "behavior_summary": {
+      "en": "Behavior summary",
+      "translation": "പ്രവർത്തന സംഗ്രഹം"
+    },
+    "avg_severity": {
+      "en": "Average severity",
+      "translation": "ശരാശരി തീവ്രത"
+    },
+    "export_report_btn": {
+      "en": "Export Report",
+      "translation": "റിപ്പോർട്ട് എക്സ്പോർട്ട് ചെയ്യുക"
+    },
+    "log_tab": {
+      "en": "Log",
+      "translation": "ലോഗ്"
+    },
+    "patterns_tab": {
+      "en": "Patterns",
+      "translation": "പാറ്റേണുകൾ"
+    },
+    "history_tab": {
+      "en": "History",
+      "translation": "ചരിത്രം"
+    },
+    "behavior_journal_title": {
+      "en": "Behavior Journal",
+      "translation": "പ്രവർത്തന ജേർണൽ"
+    },
+    "today_entries": {
+      "en": "Today",
+      "translation": "ഇന്ന്"
+    },
+    "quick_log": {
+      "en": "Quick log",
+      "translation": "ദ്രുത ലോഗ്"
+    },
+    "no_patterns_yet": {
+      "en": "No patterns yet",
+      "translation": "ഇതുവരെ പാറ്റേണുകൾ ഇല്ല"
+    },
+    "add_behavior_entries": {
+      "en": "Add behavior entries to see patterns here.",
+      "translation": "ഇവിടെ പാറ്റേണുകൾ കാണാൻ പ്രവർത്തന എൻട്രികൾ ചേർക്കുക."
+    },
+    "add_first_entry": {
+      "en": "Add First Entry",
+      "translation": "ആദ്യ എൻട്രി ചേർക്കുക"
+    },
+    "time_of_day": {
+      "en": "Time of day",
+      "translation": "ദിവസത്തിലെ സമയം"
+    },
+    "day_of_week": {
+      "en": "Day of week",
+      "translation": "ആഴ്ചയിലെ ദിവസം"
+    },
+    "most_common_triggers": {
+      "en": "Most common triggers",
+      "translation": "ഏറ്റവും സാധാരണ ട്രിഗറുകൾ"
+    },
+    "what_helped_most": {
+      "en": "What helped most",
+      "translation": "ഏറ്റവും കൂടുതൽ സഹായിച്ചത്"
+    },
+    "no_resolutions_yet": {
+      "en": "No resolutions logged yet — add some in your entries!",
+      "translation": "ഇതുവരെ പരിഹാരങ്ങൾ ലോഗ് ചെയ്തിട്ടില്ല — നിങ്ങളുടെ എൻട്രികളിൽ ചേർക്കൂ!"
+    },
+    "no_history_yet": {
+      "en": "No history yet",
+      "translation": "ഇതുവരെ ചരിത്രം ഇല്ല"
+    },
+    "history_over_time": {
+      "en": "Your logged entries will appear here over time.",
+      "translation": "നിങ്ങളുടെ ലോഗ് ചെയ്ത എൻട്രികൾ കാലക്രമേണ ഇവിടെ ദൃശ്യമാകും."
+    },
+    "no_entries_today": {
+      "en": "No entries today",
+      "translation": "ഇന്ന് എൻട്രികൾ ഇല്ല"
+    },
+    "tap_to_log_moment": {
+      "en": "Tap + to log a difficult moment, or use Quick Log above",
+      "translation": "ഒരു ബുദ്ധിമുട്ടേറിയ നിമിഷം ലോഗ് ചെയ്യാൻ + ടാപ്പ് ചെയ്യുക, അല്ലെങ്കിൽ മുകളിലുള്ള Quick Log ഉപയോഗിക്കുക"
+    },
+    "what_happened": {
+      "en": "What happened?",
+      "translation": "എന്ത് സംഭവിച്ചു?"
+    },
+    "trigger_placeholder": {
+      "en": "Trigger (e.g. loud noise, routine change)",
+      "translation": "ട്രിഗർ (ഉദാ. ഉച്ചത്തിലുള്ള ശബ്ദം, ദിനചര്യ മാറ്റം)"
+    },
+    "how_bad_was_it": {
+      "en": "How bad was it?",
+      "translation": "ഇത് എത്ര മോശമായിരുന്നു?"
+    },
+    "details_section": {
+      "en": "Details",
+      "translation": "വിശദാംശങ്ങൾ"
+    },
+    "location_label": {
+      "en": "Location",
+      "translation": "സ്ഥലം"
+    },
+    "duration_label": {
+      "en": "Duration",
+      "translation": "ദൈർഘ്യം"
+    },
+    "what_helped": {
+      "en": "What helped resolve it?",
+      "translation": "ഇത് പരിഹരിക്കാൻ എന്ത് സഹായിച്ചു?"
+    },
+    "resolution_placeholder": {
+      "en": "e.g. quiet room, deep pressure",
+      "translation": "ഉദാ. ശാന്തമായ മുറി, ആഴത്തിലുള്ള സമ്മർദ്ദം"
+    },
+    "additional_notes": {
+      "en": "Additional notes (optional)",
+      "translation": "അധിക കുറിപ്പുകൾ (ഐച്ഛികം)"
+    },
+    "log_entry_title": {
+      "en": "Log Entry",
+      "translation": "ലോഗ് എൻട്രി"
+    },
+    "darker_more": {
+      "en": "Darker = more entries in that time window",
+      "translation": "ഇരുണ്ടത് = ആ സമയ ജനലിൽ കൂടുതൽ എൻട്രികൾ"
+    },
+    "trigger_label": {
+      "en": "Trigger",
+      "translation": "ട്രിഗർ"
+    },
+    "severity_label": {
+      "en": "Severity",
+      "translation": "തീവ്രത"
+    },
+    "emergency_card_title": {
+      "en": "Emergency Card",
+      "translation": "അടിയന്തര കാർഡ്"
+    },
+    "emergency_card_info": {
+      "en": "Fill in your child's details below. In an emergency, tap Share to show this card to anyone who needs to help.",
+      "translation": "നിങ്ങളുടെ കുട്ടിയുടെ വിശദാംശങ്ങൾ പൂരിപ്പിക്കുക. അടിയന്തര ഘട്ടത്തിൽ, സഹായം ആവശ്യമുള്ള ആർക്കും ഈ കാർഡ് കാണിക്കാൻ Share ടാപ്പ് ചെയ്യുക."
+    },
+    "edit_card": {
+      "en": "Edit Card",
+      "translation": "കാർഡ് തിരുത്തുക"
+    },
+    "share_card": {
+      "en": "Share",
+      "translation": "പങ്കിടുക"
+    },
+    "your_childs_name": {
+      "en": "Your child's name",
+      "translation": "നിങ്ങളുടെ കുട്ടിയുടെ പേര്"
+    },
+    "how_they_comm": {
+      "en": "How I communicate",
+      "translation": "ഞാൻ എങ്ങനെ ആശയവിനിമയം ചെയ്യുന്നു"
+    },
+    "add_emergency_contacts": {
+      "en": "Add emergency contacts by editing the card",
+      "translation": "കാർഡ് തിരുത്തി അടിയന്തര ബന്ധങ്ങൾ ചേർക്കുക"
+    },
+    "edit_emergency_card": {
+      "en": "Edit Emergency Card",
+      "translation": "അടിയന്തര കാർഡ് തിരുത്തുക"
+    },
+    "child_section": {
+      "en": "Child",
+      "translation": "കുട്ടി"
+    },
+    "full_name": {
+      "en": "Full name",
+      "translation": "പൂർണ്ണ പേര്"
+    },
+    "age_label": {
+      "en": "Age",
+      "translation": "പ്രായം"
+    },
+    "diagnosis_label": {
+      "en": "Diagnosis",
+      "translation": "രോഗനിർണ്ണയം"
+    },
+    "communication_section": {
+      "en": "Communication",
+      "translation": "ആശയവിനിമയം"
+    },
+    "how_they_communicate": {
+      "en": "How they communicate",
+      "translation": "അവർ എങ്ങനെ ആശയവിനിമയം ചെയ്യുന്നു"
+    },
+    "calming_section": {
+      "en": "What helps calm them down — comma separated",
+      "translation": "ശാന്തനാക്കാൻ സഹായിക്കുന്നത് — കോമ വേർതിരിച്ചത്"
+    },
+    "calming_placeholder": {
+      "en": "e.g. quiet space, music, blanket",
+      "translation": "ഉദാ. ശാന്തമായ ഇടം, സംഗീതം, പുതപ്പ്"
+    },
+    "do_not_section": {
+      "en": "Please do NOT — comma separated",
+      "translation": "ദയവായി ചെയ്യരുത് — കോമ വേർതിരിച്ചത്"
+    },
+    "do_not_placeholder": {
+      "en": "e.g. raise voice, touch without warning",
+      "translation": "ഉദാ. ശബ്ദമുയർത്തുക, മുന്നറിയിപ്പ് ഇല്ലാതെ തൊടുക"
+    },
+    "emergency_contact_1": {
+      "en": "Emergency contact 1",
+      "translation": "അടിയന്തര ബന്ധം 1"
+    },
+    "emergency_contact_2": {
+      "en": "Emergency contact 2 (optional)",
+      "translation": "അടിയന്തര ബന്ധം 2 (ഐച്ഛികം)"
+    },
+    "doctor_section": {
+      "en": "Doctor / therapist",
+      "translation": "ഡോക്ടർ / തെറാപ്പിസ്റ്റ്"
+    },
+    "medical_section": {
+      "en": "Medical notes (optional)",
+      "translation": "മെഡിക്കൽ കുറിപ്പുകൾ (ഐച്ഛികം)"
+    },
+    "medical_placeholder": {
+      "en": "Allergies, medication, conditions...",
+      "translation": "അലർജികൾ, മരുന്ന്, അവസ്ഥകൾ..."
+    },
+    "name_placeholder": {
+      "en": "Name",
+      "translation": "പേര്"
+    },
+    "phone_label": {
+      "en": "Phone number",
+      "translation": "ഫോൺ നമ്പർ"
+    },
+    "sensory_profile_title": {
+      "en": "Sensory Profile",
+      "translation": "ഇന്ദ്രിയ പ്രൊഫൈൽ"
+    },
+    "sensory_profile_info": {
+      "en": "This profile helps anyone caring for your child understand their sensory needs at a glance.",
+      "translation": "ഈ പ്രൊഫൈൽ നിങ്ങളുടെ കുട്ടിയെ പരിചരിക്കുന്ന ആർക്കും അവരുടെ ഇന്ദ്രിയ ആവശ്യങ്ങൾ ഒറ്റ നോട്ടത്തിൽ മനസ്സിലാക്കാൻ സഹായിക്കുന്നു."
+    },
+    "sensory_share_btn": {
+      "en": "Share",
+      "translation": "പങ്കിടുക"
+    },
+    "sensitive_label": {
+      "en": "Sensitive",
+      "translation": "സംവേദനക്ഷമം"
+    },
+    "neutral_label": {
+      "en": "Neutral",
+      "translation": "ന്യൂട്രൽ"
+    },
+    "seeking_label": {
+      "en": "Seeking",
+      "translation": "തേടൽ"
+    },
+    "sensitive_meaning": {
+      "en": "Avoids / bothered by",
+      "translation": "ഒഴിവാക്കുന്നത് / ബുദ്ധിമുട്ട് ഉണ്ടാക്കുന്നത്"
+    },
+    "neutral_meaning": {
+      "en": "Comfortable with",
+      "translation": "സ്വസ്ഥത അനുഭവിക്കുന്നത്"
+    },
+    "seeking_meaning": {
+      "en": "Seeks out / craves",
+      "translation": "തേടുന്നത് / ആഗ്രഹിക്കുന്നത്"
+    },
+    "examples_label": {
+      "en": "Examples:",
+      "translation": "ഉദാഹരണങ്ങൾ:"
+    },
+    "additional_notes_placeholder": {
+      "en": "Additional notes...",
+      "translation": "അധിക കുറിപ്പുകൾ..."
+    },
+    "edit_sensory_profile": {
+      "en": "Edit Sensory Profile",
+      "translation": "ഇന്ദ്രിയ പ്രൊഫൈൽ തിരുത്തുക"
+    },
+    "visual_timer": {
+      "en": "Visual Timer",
+      "translation": "ദൃശ്യ ടൈമർ"
+    },
+    "visual_timer_hint": {
+      "en": "Time until we leave",
+      "translation": "നമ്മൾ പോകുന്നതുവരെ സമയം"
+    },
+    "timer_done": {
+      "en": "Time's up!",
+      "translation": "സമയം കഴിഞ്ഞു!"
+    },
+    "custom_time": {
+      "en": "Custom",
+      "translation": "ഇഷ്ടാനുസൃതം"
+    },
+    "enter_label": {
+      "en": "Label this timer",
+      "translation": "ഈ ടൈമറിന് ലേബൽ നൽകുക"
+    },
+    "my_stories": {
+      "en": "My Stories",
+      "translation": "എന്റെ കഥകൾ"
+    },
+    "my_stories_hint": {
+      "en": "Create personal social stories with your child's name and places",
+      "translation": "നിങ്ങളുടെ കുട്ടിയുടെ പേരും സ്ഥലങ്ങളും ഉൾപ്പെടുത്തി വ്യക്തിഗത സോഷ്യൽ സ്റ്റോറികൾ ഉണ്ടാക്കുക"
+    },
+    "no_stories_yet": {
+      "en": "No stories yet",
+      "translation": "ഇതുവരെ കഥകൾ ഇല്ല"
+    },
+    "create_first_story": {
+      "en": "Tap + to create your first personalised story",
+      "translation": "നിങ്ങളുടെ ആദ്യ വ്യക്തിഗത കഥ ഉണ്ടാക്കാൻ + ടാപ്പ് ചെയ്യുക"
+    },
+    "create_story": {
+      "en": "Create Story",
+      "translation": "കഥ ഉണ്ടാക്കുക"
+    },
+    "pages": {
+      "en": "pages",
+      "translation": "പേജുകൾ"
+    },
+    "no_pages_yet": {
+      "en": "No pages yet. Tap + to add pages.",
+      "translation": "ഇതുവരെ പേജുകൾ ഇല്ല. പേജ് ചേർക്കാൻ + ടാപ്പ് ചെയ്യുക."
+    },
+    "the_end": {
+      "en": "The End! 🌟",
+      "translation": "അവസാനം! 🌟"
+    },
+    "story_details": {
+      "en": "Story Details",
+      "translation": "കഥ വിശദാംശങ്ങൾ"
+    },
+    "story_title": {
+      "en": "Story title",
+      "translation": "കഥ ശീർഷകം"
+    },
+    "add_page": {
+      "en": "Add Page",
+      "translation": "പേജ് ചേർക്കുക"
+    },
+    "page_text": {
+      "en": "Page Text",
+      "translation": "പേജ് ടെക്സ്റ്റ്"
+    },
+    "what_happened_here": {
+      "en": "What happens on this page?",
+      "translation": "ഈ പേജിൽ എന്ത് സംഭവിക്കുന്നു?"
+    },
+    "page_icon": {
+      "en": "Icon",
+      "translation": "ഐക്കൺ"
+    },
+    "page_background": {
+      "en": "Background",
+      "translation": "പശ്ചാത്തലം"
+    },
+    "mother_tongue": {
+      "en": "Mother Tongue",
+      "translation": "മാതൃഭാഷ"
+    },
+    "mother_tongue_hint": {
+      "en": "Learn words in your language",
+      "translation": "നിങ്ങളുടെ ഭാഷയിൽ വാക്കുകൾ പഠിക്കൂ"
+    },
+    "learn_language_format": {
+      "en": "Learn %@",
+      "translation": "%@ പഠിക്കൂ"
+    },
+    "switch_profile": {
+      "en": "Switch Profile",
+      "translation": "പ്രൊഫൈൽ മാറ്റുക"
+    },
+    "guided_access_active": {
+      "en": "iOS Guided Access: Active",
+      "translation": "iOS Guided Access: സജീവം"
+    },
+    "guided_access_off": {
+      "en": "iOS Guided Access: Off",
+      "translation": "iOS Guided Access: ഓഫ്"
+    },
+    "set_unlock_pin": {
+      "en": "Set Unlock PIN",
+      "translation": "അൺലോക്ക് PIN സജ്ജമാക്കുക"
+    },
+    "locked_explain": {
+      "en": "When locked, the child cannot switch to other apps or access the home screen without entering your PIN.",
+      "translation": "ലോക്ക് ചെയ്യുമ്പോൾ, നിങ്ങളുടെ PIN നൽകാതെ കുട്ടിക്ക് മറ്റ് ആപ്പുകളിലേക്ക് മാറാനോ ഹോം സ്ക്രീൻ ആക്സസ് ചെയ്യാനോ കഴിയില്ല."
+    },
+    "need_pin_first": {
+      "en": "You must set a 4-digit unlock PIN before App Lock can be enabled. Choose a PIN your child does not know.",
+      "translation": "App Lock പ്രവർത്തനക്ഷമമാക്കുന്നതിന് മുൻപ് ഒരു 4-അക്ക അൺലോക്ക് PIN സജ്ജമാക്കണം. കുട്ടിക്ക് അറിയാത്ത ഒരു PIN തിരഞ്ഞെടുക്കുക."
+    },
+    "display": {
+      "en": "Display",
+      "translation": "ഡിസ്പ്ലേ"
+    },
+    "voice_and_audio": {
+      "en": "Voice & Audio",
+      "translation": "ശബ്ദം & ഓഡിയോ"
+    },
+    "parent_tools": {
+      "en": "Parent Tools",
+      "translation": "രക്ഷകർത്തൃ ഉപകരണങ്ങൾ"
+    },
+    "emergency_info_card": {
+      "en": "Emergency Info Card",
+      "translation": "അടിയന്തര വിവര കാർഡ്"
+    },
+    "delete_symbol_title": {
+      "en": "Delete Symbol?",
+      "translation": "ചിഹ്നം ഇല്ലാതാക്കണോ?"
+    },
+    "remove_from_board": {
+      "en": "Remove \"%@\" from the board?",
+      "translation": "\"%@\" ബോർഡിൽ നിന്ന് നീക്കണോ?"
+    },
+    "change_pin_title": {
+      "en": "Change PIN",
+      "translation": "PIN മാറ്റുക"
+    },
+    "new_pin_section": {
+      "en": "New 4-Digit PIN",
+      "translation": "പുതിയ 4-അക്ക PIN"
+    },
+    "new_pin_field": {
+      "en": "New PIN",
+      "translation": "പുതിയ PIN"
+    },
+    "confirm_pin_field": {
+      "en": "Confirm PIN",
+      "translation": "PIN സ്ഥിരീകരിക്കുക"
+    },
+    "pin_advice": {
+      "en": "Choose a PIN your child can't guess. Avoid 1234, 0000, or any 4 of the same digit.",
+      "translation": "കുട്ടിക്ക് ഊഹിക്കാൻ കഴിയാത്ത PIN തിരഞ്ഞെടുക്കുക. 1234, 0000 അല്ലെങ്കിൽ ഒരേ അക്കം 4 തവണ ഉള്ളത് ഒഴിവാക്കുക."
+    },
+    "pin_mismatch": {
+      "en": "PINs don't match or aren't 4 digits",
+      "translation": "PINകൾ പൊരുത്തമില്ല അല്ലെങ്കിൽ 4 അക്കങ്ങൾ അല്ല"
+    },
+    "pin_too_easy": {
+      "en": "PIN too easy to guess — choose another",
+      "translation": "PIN ഊഹിക്കാൻ വളരെ എളുപ്പം — മറ്റൊന്ന് തിരഞ്ഞെടുക്കുക"
+    },
+    "used_n_times": {
+      "en": "Used %d times",
+      "translation": "%d തവണ ഉപയോഗിച്ചു"
+    },
+    "quick_places": {
+      "en": "Quick places 📍",
+      "translation": "ദ്രുത സ്ഥലങ്ങൾ 📍"
+    },
+    "pick_start_and_end": {
+      "en": "Pick a start and end place!",
+      "translation": "ആരംഭ, അവസാന സ്ഥലം തിരഞ്ഞെടുക്കൂ!"
+    },
+    "quick_destinations": {
+      "en": "Quick destinations",
+      "translation": "ദ്രുത ലക്ഷ്യസ്ഥാനങ്ങൾ"
+    },
+    "save_places_hint": {
+      "en": "Save places you visit often",
+      "translation": "നിങ്ങൾ പലപ്പോഴും സന്ദർശിക്കുന്ന സ്ഥലങ്ങൾ സേവ് ചെയ്യുക"
+    },
+    "no_favourite_places": {
+      "en": "No favourite places yet!",
+      "translation": "ഇതുവരെ പ്രിയപ്പെട്ട സ്ഥലങ്ങൾ ഇല്ല!"
+    },
+    "tap_plus_to_add": {
+      "en": "Tap + to add home, school, or your favourite park.",
+      "translation": "വീട്, സ്കൂൾ, അല്ലെങ്കിൽ നിങ്ങളുടെ പ്രിയപ്പെട്ട പാർക്ക് ചേർക്കാൻ + ടാപ്പ് ചെയ്യുക."
+    },
+    "journey_info": {
+      "en": "🗺️ Journey Info",
+      "translation": "🗺️ യാത്ര വിവരങ്ങൾ"
+    },
+    "distance_label": {
+      "en": "Distance",
+      "translation": "ദൂരം"
+    },
+    "travel_time": {
+      "en": "Travel time",
+      "translation": "യാത്ര സമയം"
+    },
+    "add_favourite_place": {
+      "en": "Add a Favourite Place",
+      "translation": "ഒരു പ്രിയപ്പെട്ട സ്ഥലം ചേർക്കുക"
+    },
+    "choose_emoji": {
+      "en": "Choose an emoji",
+      "translation": "ഒരു ഇമോജി തിരഞ്ഞെടുക്കുക"
+    },
+    "current_location_warning": {
+      "en": "⚠️ Your current location will be saved for this place.",
+      "translation": "⚠️ ഈ സ്ഥലത്തിനായി നിങ്ങളുടെ നിലവിലെ സ്ഥലം സേവ് ചെയ്യപ്പെടും."
+    },
+    "save_place": {
+      "en": "Save Place ⭐",
+      "translation": "സ്ഥലം സേവ് ചെയ്യുക ⭐"
+    },
+    "explore_tab": {
+      "en": "Explore",
+      "translation": "പര്യവേക്ഷണം"
+    },
+    "navigate_tab": {
+      "en": "Navigate",
+      "translation": "നാവിഗേറ്റ്"
+    },
+    "favourites_tab": {
+      "en": "Favourites",
+      "translation": "പ്രിയപ്പെട്ടവ"
+    },
+    "first_then_title": {
+      "en": "First ... Then ...",
+      "translation": "ആദ്യം... പിന്നെ..."
+    },
+    "first_then_subtitle": {
+      "en": "Do this first, then you get that!",
+      "translation": "ആദ്യം ഇത് ചെയ്യൂ, പിന്നെ അത് ലഭിക്കും!"
+    },
+    "feelings_check_in": {
+      "en": "Feelings Check-In",
+      "translation": "വികാര ചെക്ക്-ഇൻ"
+    },
+    "feelings_check_in_sub": {
+      "en": "How am I feeling right now?",
+      "translation": "ഞാൻ ഇപ്പോൾ എങ്ങനെ അനുഭവിക്കുന്നു?"
+    },
+    "my_worries_box": {
+      "en": "My Worries Box",
+      "translation": "എന്റെ ആശങ്കകളുടെ പെട്ടി"
+    },
+    "my_worries_box_sub": {
+      "en": "Write a worry and let it go",
+      "translation": "ഒരു ആശങ്ക എഴുതി വിടൂ"
+    },
+    "choice_board": {
+      "en": "What Do I Choose?",
+      "translation": "ഞാൻ എന്ത് തിരഞ്ഞെടുക്കും?"
+    },
+    "choice_board_sub": {
+      "en": "Tap what you want to do",
+      "translation": "നിങ്ങൾ ചെയ്യാൻ ആഗ്രഹിക്കുന്നത് ടാപ്പ് ചെയ്യുക"
+    },
+    "daily_tools": {
+      "en": "Daily Tools 🌻",
+      "translation": "ദൈനംദിന ഉപകരണങ്ങൾ 🌻"
+    },
+    "check_in_again": {
+      "en": "Check in again",
+      "translation": "വീണ്ടും ചെക്ക്-ഇൻ ചെയ്യുക"
+    },
+    "tap_how_you_feel": {
+      "en": "Tap how you feel right now:",
+      "translation": "ഇപ്പോൾ നിങ്ങൾക്ക് എങ്ങനെ തോന്നുന്നുവെന്ന് ടാപ്പ് ചെയ്യൂ:"
+    },
+    "how_strong_feeling": {
+      "en": "How strong is this feeling?",
+      "translation": "ഈ വികാരം എത്ര ശക്തമാണ്?"
+    },
+    "a_little": {
+      "en": "A little",
+      "translation": "കുറച്ച്"
+    },
+    "a_lot": {
+      "en": "A lot",
+      "translation": "ധാരാളം"
+    },
+    "save_my_feeling": {
+      "en": "Save my feeling ✅",
+      "translation": "എന്റെ വികാരം സേവ് ചെയ്യുക ✅"
+    },
+    "what_are_you_worried": {
+      "en": "What are you worried about?",
+      "translation": "നിങ്ങൾ എന്തിനെക്കുറിച്ചാണ് ആശങ്കപ്പെടുന്നത്?"
+    },
+    "put_in_box": {
+      "en": "Put it in the box",
+      "translation": "പെട്ടിയിൽ ഇടൂ"
+    },
+    "worry_stored": {
+      "en": "📦 Worry stored! You did great. 🌟",
+      "translation": "📦 ആശങ്ക സൂക്ഷിച്ചു! നിങ്ങൾ വളരെ നന്നായി ചെയ്തു. 🌟"
+    },
+    "my_worries_count": {
+      "en": "My worries box (%@)",
+      "translation": "എന്റെ ആശങ്കകളുടെ പെട്ടി (%@)"
+    },
+    "choose_again": {
+      "en": "Choose again",
+      "translation": "വീണ്ടും തിരഞ്ഞെടുക്കുക"
+    },
+    "i_feel_label": {
+      "en": "I feel %@!",
+      "translation": "ഞാൻ %@ അനുഭവിക്കുന്നു!"
+    },
+    "intensity_label": {
+      "en": "Intensity: %@/5",
+      "translation": "തീവ്രത: %@/5"
+    },
+    "i_choose_label": {
+      "en": "I choose: %@!",
+      "translation": "ഞാൻ തിരഞ്ഞെടുക്കുന്നു: %@!"
+    },
+    "tap_add_task_hint": {
+      "en": "Tap \"Add Task\" to build your daily routine",
+      "translation": "നിങ്ങളുടെ ദൈനംദിന ദിനചര്യ ഉണ്ടാക്കാൻ \"ടാസ്ക് ചേർക്കുക\" ടാപ്പ് ചെയ്യുക"
+    },
+    "done_check": {
+      "en": "Done ✓",
+      "translation": "പൂർത്തിയായി ✓"
+    },
+    "colour_label": {
+      "en": "Colour",
+      "translation": "നിറം"
+    },
+    "all_tasks_done": {
+      "en": "You finished all your tasks.\\nAmazing work today!",
+      "translation": "നിങ്ങൾ എല്ലാ ടാസ്കുകളും പൂർത്തിയാക്കി.\nഇന്ന് അതിശ്രദ്ധേയമായ ജോലി!"
+    },
+    "no_stars_yet_earn": {
+      "en": "No stars yet today — earn your first one!",
+      "translation": "ഇന്ന് ഇതുവരെ നക്ഷത്രങ്ങൾ ഇല്ല — നിങ്ങളുടെ ആദ്യ നക്ഷത്രം നേടൂ!"
+    },
+    "star_label": {
+      "en": "Star",
+      "translation": "നക്ഷത്രം"
+    },
+    "add_star": {
+      "en": "Add Star",
+      "translation": "നക്ഷത്രം ചേർക്കുക"
+    },
+    "tap_add_memory_hint": {
+      "en": "Tap \"Add a Memory\" to save a photo or video of something special.",
+      "translation": "എന്തെങ്കിലും പ്രത്യേകതയുള്ളതിന്റെ ഫോട്ടോ അല്ലെങ്കിൽ വീഡിയോ സേവ് ചെയ്യാൻ \"ഒരു ഓർമ്മ ചേർക്കുക\" ടാപ്പ് ചെയ്യുക."
+    },
+    "delete_memory": {
+      "en": "Delete Memory",
+      "translation": "ഓർമ്മ ഇല്ലാതാക്കുക"
+    },
+    "check_answer": {
+      "en": "Check ✓",
+      "translation": "ശരിയോ ✓"
+    },
+    "the_answer_is": {
+      "en": "The answer is %@.",
+      "translation": "ഉത്തരം %@ ആണ്."
+    },
+    "times_table_title": {
+      "en": "Times Tables 1–20",
+      "translation": "ഗുണനപ്പട്ടിക 1–20"
+    },
+    "times_table_subtitle": {
+      "en": "Learn & quiz yourself on all 20 tables!",
+      "translation": "20 പട്ടികകളും പഠിക്കൂ, ക്വിസ് ചെയ്യൂ!"
+    },
+    "fetching_content": {
+      "en": "Fetching the latest content from the server.",
+      "translation": "സെർവറിൽ നിന്ന് ഏറ്റവും പുതിയ ഉള്ളടക്കം ലഭ്യമാകുന്നു."
+    },
+    "couldnt_load_videos": {
+      "en": "Couldn't load videos",
+      "translation": "വീഡിയോകൾ ലോഡ് ചെയ്യാൻ കഴിഞ്ഞില്ല"
+    },
+    "no_videos_yet": {
+      "en": "No videos yet",
+      "translation": "ഇതുവരെ വീഡിയോകൾ ഇല്ല"
+    },
+    "pull_to_refresh": {
+      "en": "Pull down to refresh, or check your internet connection.",
+      "translation": "പുതുക്കാൻ താഴേക്ക് വലിക്കുക, അല്ലെങ്കിൽ ഇന്റർനെറ്റ് കണക്ഷൻ പരിശോധിക്കുക."
+    },
+    "updating_videos": {
+      "en": "Updating videos…",
+      "translation": "വീഡിയോകൾ അപ്ഡേറ്റ് ചെയ്യുന്നു…"
+    },
+    "connecting_to_server": {
+      "en": "Connecting to server…",
+      "translation": "സെർവറിലേക്ക് കണക്ട് ചെയ്യുന്നു…"
+    },
+    "video_unavailable_in_app": {
+      "en": "Video unavailable in-app",
+      "translation": "ആപ്പിൽ വീഡിയോ ലഭ്യമല്ല"
+    },
+    "video_unavailable_desc": {
+      "en": "This video cannot be played in-app. Tap below to watch it on YouTube.",
+      "translation": "ഈ വീഡിയോ ആപ്പിൽ പ്ലേ ചെയ്യാൻ കഴിയില്ല. YouTube ൽ കാണാൻ താഴെ ടാപ്പ് ചെയ്യുക."
+    },
+    "watch_on_youtube": {
+      "en": "Watch on YouTube",
+      "translation": "YouTube ൽ കാണുക"
+    },
+    "tags_label": {
+      "en": "Tags",
+      "translation": "ടാഗുകൾ"
+    },
+    "family_faces": {
+      "en": "My People 👨‍👩‍👧‍👦",
+      "translation": "എന്റെ ആളുകൾ 👨‍👩‍👧‍👦"
+    },
+    "coloring_canvas": {
+      "en": "Colouring 🎨",
+      "translation": "നിറം ഇടൽ 🎨"
+    },
+    "add_person": {
+      "en": "Add Person",
+      "translation": "ആൾ ചേർക്കുക"
+    },
+    "who_is_this_person": {
+      "en": "Who is this?",
+      "translation": "ഇത് ആരാണ്?"
+    },
+    "face_data_privacy": {
+      "en": "Face data stays on your device — never sent to the cloud",
+      "translation": "മുഖ ഡേറ്റ നിങ്ങളുടെ ഉപകരണത്തിൽ തന്നെ — ഒരിക്കലും ക്ലൗഡിലേക്ക് അയക്കില്ല"
+    },
+    "add_family_friends": {
+      "en": "Add your family and friends!",
+      "translation": "നിങ്ങളുടെ കുടുംബത്തെയും സുഹൃത്തുക്കളെയും ചേർക്കൂ!"
+    },
+    "tap_add_person_hint": {
+      "en": "Tap \"Add Person\" to save a photo and name for people you know.",
+      "translation": "നിങ്ങൾക്ക് അറിയാവുന്ന ആളുകളുടെ ഫോട്ടോയും പേരും സേവ് ചെയ്യാൻ \"ആൾ ചേർക്കുക\" ടാപ്പ് ചെയ്യുക."
+    },
+    "i_know_this_person": {
+      "en": "👋 I know this person!",
+      "translation": "👋 ഈ ആളെ എനിക്ക് അറിയാം!"
+    },
+    "take_or_upload": {
+      "en": "Take or upload a photo\\nto identify who this is",
+      "translation": "ഇത് ആരാണെന്ന് തിരിച്ചറിയാൻ ഒരു ഫോട്ടോ എടുക്കുക\nഅല്ലെങ്കിൽ അപ്ലോഡ് ചെയ്യുക"
+    },
+    "matching_face": {
+      "en": "Matching face…",
+      "translation": "മുഖം ഒത്തുനോക്കുന്നു…"
+    },
+    "take_a_photo": {
+      "en": "Take a Photo",
+      "translation": "ഒരു ഫോട്ടോ എടുക്കുക"
+    },
+    "upload_from_library": {
+      "en": "Upload from Library",
+      "translation": "ലൈബ്രറിൽ നിന്ന് അപ്ലോഡ് ചെയ്യുക"
+    },
+    "match_confidence": {
+      "en": "Match confidence",
+      "translation": "ഒത്തുചേരൽ ആത്മവിശ്വാസം"
+    },
+    "no_face_found": {
+      "en": "No face found. Try again with a clearer photo.",
+      "translation": "മുഖം കണ്ടെത്തിയില്ല. കൂടുതൽ വ്യക്തമായ ഫോട്ടോ ഉപയോഗിച്ച് വീണ്ടും ശ്രമിക്കുക."
+    },
+    "or_separator": {
+      "en": "or",
+      "translation": "അല്ലെങ്കിൽ"
+    },
+    "camera_label": {
+      "en": "Camera",
+      "translation": "ക്യാമറ"
+    },
+    "library_label": {
+      "en": "Library",
+      "translation": "ലൈബ്രറി"
+    },
+    "mic_permission_needed": {
+      "en": "Please allow microphone and speech recognition access in Settings to use Voice Chat.",
+      "translation": "Voice Chat ഉപയോഗിക്കാൻ ക്രമീകരണങ്ങളിൽ മൈക്രോഫോണും ശബ്ദ തിരിച്ചറിയൽ ആക്സസും അനുവദിക്കുക."
+    },
+    "im_here_to_listen": {
+      "en": "I'm here to listen 💛",
+      "translation": "ഞാൻ ശ്രദ്ധിക്കാൻ ഇവിടെ ഉണ്ട് 💛"
+    },
+    "saved_to_photos": {
+      "en": "🎉 Saved to Photos!",
+      "translation": "🎉 ഫോട്ടോകളിൽ സേവ് ചെയ്തു!"
+    },
+    "pick_outline_hint": {
+      "en": "Pick an outline to colour in, or start with a blank canvas.",
+      "translation": "നിറം ഇടാൻ ഒരു ഔട്ട്ലൈൻ തിരഞ്ഞെടുക്കൂ, അല്ലെങ്കിൽ ശൂന്യമായ ക്യാൻവാസ് ഉപയോഗിക്കൂ."
+    },
+    "templates_label": {
+      "en": "Templates",
+      "translation": "ടെംപ്ലേറ്റുകൾ"
+    },
+    "learning_made_joyful": {
+      "en": "Learning made joyful",
+      "translation": "പഠനം ആനന്ദകരമാക്കി"
+    },
+    "personalise_hint": {
+      "en": "Personalise the app so your child gets the right videos — in their language, matched to their interests.",
+      "translation": "ആപ്പ് വ്യക്തിഗതമാക്കൂ, നിങ്ങളുടെ കുട്ടിക്ക് ശരിയായ വീഡിയോകൾ ലഭിക്കും — അവരുടെ ഭാഷയിൽ, അവരുടെ താൽപ്പര്യങ്ങൾക്ക് അനുസൃതമായി."
+    },
+    "get_started": {
+      "en": "Get Started",
+      "translation": "ആരംഭിക്കൂ"
+    },
+    "childs_name": {
+      "en": "Child's name",
+      "translation": "കുട്ടിയുടെ പേര്"
+    },
+    "prefs_saved": {
+      "en": "Your preferences are saved. SproutPath will now show videos and activities tailored just for you.",
+      "translation": "നിങ്ങളുടെ മുൻഗണനകൾ സേവ് ചെയ്തിരിക്കുന്നു. SproutPath ഇനി നിങ്ങൾക്ക് മാത്രമായി ക്രമീകരിച്ച വീഡിയോകളും പ്രവർത്തനങ്ങളും കാണിക്കും."
+    },
+    "start_learning": {
+      "en": "Start Learning",
+      "translation": "പഠനം ആരംഭിക്കൂ"
+    },
+    "next_question_arrow": {
+      "en": "Next question →",
+      "translation": "അടുത്ത ചോദ്യം →"
+    },
+    "camera_permission_desc": {
+      "en": "Please allow camera access in Settings so the app can see your face expressions.",
+      "translation": "ആപ്പിന് നിങ്ങളുടെ മുഖ ഭാവങ്ങൾ കാണാൻ ക്രമീകരണങ്ങളിൽ ക്യാമറ ആക്സസ് അനുവദിക്കുക."
+    },
+    "simulator_note": {
+      "en": "Mirror Mode uses the front camera. Run on a real device to use face detection.",
+      "translation": "Mirror Mode ഫ്രണ്ട് ക്യാമറ ഉപയോഗിക്കുന്നു. മുഖ ഡിറ്റക്ഷൻ ഉപയോഗിക്കാൻ യഥാർത്ഥ ഉപകരണത്തിൽ ഓടിക്കൂ."
+    },
+    "auto_detected": {
+      "en": "Auto-detected",
+      "translation": "സ്വയം കണ്ടെത്തി"
+    },
+    "change_label": {
+      "en": "Change",
+      "translation": "മാറ്റുക"
+    },
+    "these_are_notes": {
+      "en": "These are the %@ notes and coins",
+      "translation": "ഇവ %@ നോട്ടുകളും നാണയങ്ങളും ആണ്"
+    },
+    "facts_count": {
+      "en": "%d facts",
+      "translation": "%d വസ്തുതകൾ"
+    },
+    "try_it_label": {
+      "en": "Try It! 🎯",
+      "translation": "ശ്രമിക്കൂ! 🎯"
+    },
+    "media_label": {
+      "en": "Media",
+      "translation": "മീഡിയ"
+    },
+    "photos_count": {
+      "en": "Photos (%d)",
+      "translation": "ഫോട്ടോകൾ (%d)"
+    },
+    "recordings_count": {
+      "en": "Recordings (%d)",
+      "translation": "റെക്കോർഡിംഗുകൾ (%d)"
+    },
+    "record_label": {
+      "en": "Record",
+      "translation": "റെക്കോർഡ്"
+    },
+    "notes_label": {
+      "en": "Notes",
+      "translation": "കുറിപ്പുകൾ"
+    },
+    "age_display": {
+      "en": "Age %d",
+      "translation": "പ്രായം %d"
+    },
+    "use_this_profile": {
+      "en": "Use this",
+      "translation": "ഇത് ഉപയോഗിക്കൂ"
+    },
+    "from_setup": {
+      "en": "From setup",
+      "translation": "സജ്ജീകരണത്തിൽ നിന്ന്"
+    },
+    "about_sprout_path": {
+      "en": "About SproutPath",
+      "translation": "SproutPath നെക്കുറിച്ച്"
+    },
+    "about_description": {
+      "en": "SproutPath is a gentle, child-friendly learning companion designed to support neurodivergent children and their families. It combines emotions, study, daily routines, calming tools, and parent resources into one calm space — built around the way real children learn and play.",
+      "translation": "SproutPath ന്യൂറോഡൈവേർജന്റ് കുട്ടികളെയും അവരുടെ കുടുംബങ്ങളെയും പിന്തുണയ്ക്കാൻ രൂപകൽപ്പന ചെയ്ത ഒരു ശാന്തമായ, കുട്ടി-സൗഹൃദ പഠന സഖാവ് ആണ്. ഇത് വികാരങ്ങൾ, പഠനം, ദൈനംദിന ദിനചര്യകൾ, ശാന്തനാക്കൽ ഉപകരണങ്ങൾ, രക്ഷകർത്തൃ വിഭവങ്ങൾ എന്നിവ ഒരു ശാന്ത ഇടത്തിൽ ഒരുമിപ്പിക്കുന്നു — യഥാർത്ഥ കുട്ടികൾ പഠിക്കുകയും കളിക്കുകയും ചെയ്യുന്ന രീതിയിൽ നിർമ്മിച്ചത്."
+    },
+    "made_with_care": {
+      "en": "Made with care for children, parents, caregivers, and therapists. Thank you for using SproutPath.",
+      "translation": "കുട്ടികൾ, രക്ഷകർത്താക്കൾ, പരിചരണക്കാർ, തെറാപ്പിസ്റ്റുകൾ എന്നിവർക്കായി പ്രത്യേക ശ്രദ്ധയോടെ നിർമ്മിച്ചത്. SproutPath ഉപയോഗിക്കുന്നതിന് നന്ദി."
+    },
+    "visit_website": {
+      "en": "Visit our website",
+      "translation": "ഞങ്ങളുടെ വെബ്സൈറ്റ് സന്ദർശിക്കൂ"
+    },
+    "faq_intro": {
+      "en": "Frequently asked questions about using SproutPath. Tap a question to read the answer.",
+      "translation": "SproutPath ഉപയോഗിക്കുന്നതിനെക്കുറിച്ചുള്ള പതിവ് ചോദ്യങ്ങൾ. ഉത്തരം വായിക്കാൻ ഒരു ചോദ്യം ടാപ്പ് ചെയ്യുക."
+    },
+    "checking_videos": {
+      "en": "Checking available videos…",
+      "translation": "ലഭ്യമായ വീഡിയോകൾ പരിശോധിക്കുന്നു…"
+    },
+    "no_devotional_videos": {
+      "en": "No devotional videos available",
+      "translation": "ഭക്തി വീഡിയോകൾ ലഭ്യമല്ല"
+    },
+    "parents_and_caregivers": {
+      "en": "👨‍👩‍👧 Parents & Caregivers",
+      "translation": "👨‍👩‍👧 രക്ഷകർത്താക്കൾ & പരിചരണക്കാർ"
+    },
+    "display_label": {
+      "en": "Display",
+      "translation": "ഡിസ്പ്ലേ"
+    },
+    "language_label": {
+      "en": "Language",
+      "translation": "ഭാഷ"
+    },
+    "faq_label": {
+      "en": "FAQ",
+      "translation": "FAQ"
+    },
+    "about_sprout_path_nav": {
+      "en": "About SproutPath",
+      "translation": "SproutPath നെക്കുറിച്ച്"
+    },
+    "devotional_label": {
+      "en": "Devotional",
+      "translation": "ഭക്തി"
+    },
+    "settings_label": {
+      "en": "Settings",
+      "translation": "ക്രമീകരണങ്ങൾ"
+    },
+    "add_family_photo": {
+      "en": "Add a family photo",
+      "translation": "ഒരു കുടുംബ ഫോട്ടോ ചേർക്കുക"
+    },
+    "no_autism_videos": {
+      "en": "No autism support videos yet.",
+      "translation": "ഇതുവരെ ഓട്ടിസം പിന്തുണ വീഡിയോകൾ ഇല്ല."
+    },
+    "no_autism_videos_hint": {
+      "en": "Add autism-category videos to your videos.json or remote JSON feed.",
+      "translation": "ഓട്ടിസം-കാറ്റഗറി വീഡിയോകൾ videos.json അല്ലെങ്കിൽ remote JSON ഫീഡിൽ ചേർക്കൂ."
+    },
+    "autism_support_videos": {
+      "en": "Autism Support Videos",
+      "translation": "ഓട്ടിസം പിന്തുണ വീഡിയോകൾ"
+    },
+    "tap_symbols_hint": {
+      "en": "Tap symbols to build a sentence...",
+      "translation": "ഒരു വാക്യം ഉണ്ടാക്കാൻ ചിഹ്നങ്ങൾ ടാപ്പ് ചെയ്യൂ..."
+    },
+    "getting_location": {
+      "en": "Getting location…",
+      "translation": "സ്ഥലം ലഭ്യമാകുന്നു…"
+    },
+    "quick_facts": {
+      "en": "Quick Facts",
+      "translation": "ദ്രുത വസ്തുതകൾ"
+    },
+    "all_done_great_job": {
+      "en": "All done! Great job! 🌟",
+      "translation": "എല്ലാം പൂർത്തിയായി! ഗ്രേറ്റ് ജോബ്! 🌟"
+    },
+    "tap_to_see_example": {
+      "en": "Tap to see example →",
+      "translation": "ഉദാഹരണം കാണാൻ ടാപ്പ് ചെയ്യൂ →"
+    },
+    "reset_label": {
+      "en": "Reset",
+      "translation": "റീസെറ്റ്"
+    },
+    "sound_label": {
+      "en": "Sound",
+      "translation": "ശബ്ദം"
+    },
+    "display_settings": {
+      "en": "Display",
+      "translation": "ഡിസ്പ്ലേ"
+    },
+    "minutes_unit": {
+      "en": "%d min",
+      "translation": "%d മിനിറ്റ്"
+    },
+    "count_the": {
+      "en": "Count the %@:",
+      "translation": "%@ എണ്ണുക:"
+    },
+    "shopkeeper_change": {
+      "en": "The shopkeeper gives you %@ change.",
+      "translation": "കടക്കാരൻ നിങ്ങൾക്ക് %@ ബാക്കി നൽകുന്നു."
+    },
+    "enter_amounts_in": {
+      "en": "Enter amounts in %@ (%@)",
+      "translation": "%@ (%@) ൽ തുകകൾ നൽകുക"
+    },
+    "try_arrow": {
+      "en": "Try →",
+      "translation": "ശ്രമിക്കൂ →"
+    },
+    "word_of_count": {
+      "en": "Word %d of %d",
+      "translation": "%d ൽ %d-ാം വാക്ക്"
+    },
+    "this_is_name": {
+      "en": "This is %@!",
+      "translation": "ഇത് %@ ആണ്!"
+    },
+    "age_from_setup": {
+      "en": "Age %d · From onboarding setup",
+      "translation": "പ്രായം %d · ഒൺബോർഡിംഗ് സജ്ജീകരണത്തിൽ നിന്ന്"
+    },
+    "step_of_4": {
+      "en": "Step %d of 4",
+      "translation": "4 ൽ %d-ാം ഘട്ടം"
+    },
+    "all_set": {
+      "en": "All set!",
+      "translation": "എല്ലാം ശരിയായി!"
+    },
+    "all_set_name": {
+      "en": "All set, %@!",
+      "translation": "എല്ലാം ശരിയായി, %@!"
+    },
+    "round_of": {
+      "en": "Round %d of %d",
+      "translation": "%d ൽ %d-ാം റൗണ്ട്"
+    },
+    "notice_things": {
+      "en": "Look around you and notice %d things.",
+      "translation": "ചുറ്റും നോക്കൂ, %d കാര്യങ്ങൾ ശ്രദ്ധിക്കൂ."
+    },
+    "stars_earned_so_far": {
+      "en": "You've earned %d stars so far!",
+      "translation": "ഇതുവരെ %d നക്ഷത്രങ്ങൾ നേടി!"
+    },
+    "recent_count": {
+      "en": "Recent (%d)",
+      "translation": "സമീപകാലം (%d)"
+    },
+    "the_ns_table": {
+      "en": "The %ds Table",
+      "translation": "%d-കളുടെ പട്ടിക"
+    },
+    "my_recorded_videos": {
+      "en": "My Recorded Videos (%d)",
+      "translation": "എന്റെ റെക്കോർഡ് ചെയ്ത വീഡിയോകൾ (%d)"
+    },
+    "hold_it_percent": {
+      "en": "Hold it! %d%%",
+      "translation": "ഇത് പിടിക്കൂ! %d%%"
+    },
+    "amazing_face": {
+      "en": "Amazing %@ face!",
+      "translation": "അദ്ഭുതകരമായ %@ മുഖം!"
+    },
+    "helped_resolution": {
+      "en": "Helped: %@",
+      "translation": "സഹായിച്ചത്: %@"
+    },
+    "score_of": {
+      "en": "Score: %d/%d",
+      "translation": "സ്കോർ: %d/%d"
+    },
+    "ages_range": {
+      "en": "Ages %@",
+      "translation": "പ്രായം %@"
+    },
+    "six_second_rule_explain": {
+      "en": "After asking a question or giving an instruction, wait silently for 6 seconds before repeating. This gives the brain the processing time it needs. Repeating too soon causes anxiety and resets the processing clock.",
+      "translation": "ഒരു ചോദ്യം ചോദിക്കുകയോ നിർദ്ദേശം നൽകുകയോ ചെയ്ത ശേഷം, ആവർത്തിക്കുന്നതിന് മുൻപ് 6 സെക്കൻഡ് നിശബ്ദമായി കാത്തിരിക്കുക. ഇത് തലച്ചോറിന് ആവശ്യമായ പ്രോസസ്സിംഗ് സമയം നൽകുന്നു. വളരെ വേഗം ആവർത്തിക്കുന്നത് ഉത്കണ്ഠ ഉണ്ടാക്കുകയും പ്രോസസ്സിംഗ് ക്ലോക്ക് റീസെറ്റ് ആകുകയും ചെയ്യുന്നു."
+    },
+    "ready_label": {
+      "en": "Ready",
+      "translation": "തയ്യാർ"
+    },
+    "now_may_repeat": {
+      "en": "Now you\\nmay repeat",
+      "translation": "ഇനി നിങ്ങൾക്ക്\nആവർത്തിക്കാം"
+    },
+    "six_second_type_hint": {
+      "en": "Type the question first, then tap Start Timer.",
+      "translation": "ആദ്യം ചോദ്യം ടൈപ്പ് ചെയ്യൂ, പിന്നെ ടൈമർ ആരംഭിക്കൂ."
+    },
+    "current_label": {
+      "en": "Current",
+      "translation": "നിലവിലെ"
+    },
+    "audio_label": {
+      "en": "Audio",
+      "translation": "ഓഡിയോ"
+    },
+    "voice_label": {
+      "en": "Voice",
+      "translation": "ശബ്ദം"
+    },
+    "confirm_remove_photo": {
+      "en": "The family photo will be removed from the dashboard.",
+      "translation": "കുടുംബ ഫോട്ടോ ഡാഷ്ബോർഡിൽ നിന്ന് നീക്കം ചെയ്യപ്പെടും."
+    },
+    "tap_hear_all": {
+      "en": "Tap 🔊 to hear it all!",
+      "translation": "എല്ലാം കേൾക്കാൻ 🔊 ടാപ്പ് ചെയ്യൂ!"
+    },
+    "what_is": {
+      "en": "What is...",
+      "translation": "എന്താണ്..."
+    },
+    "guided_access_instructions": {
+      "en": "For the strongest protection (blocks home button, volume buttons, and touch regions), enable Guided Access in Settings → Accessibility → Guided Access, then triple-click the side button while SproutPath is open.",
+      "translation": "ഏറ്റവും ശക്തമായ സംരക്ഷണത്തിന് (ഹോം ബട്ടൺ, വോള്യൂം ബട്ടണുകൾ, ടച്ച് ഭാഗങ്ങൾ ബ്ലോക്ക് ചെയ്യുന്നു), ക്രമീകരണങ്ങൾ → ആക്സസിബിലിറ്റി → Guided Access ൽ Guided Access പ്രവർത്തനക്ഷമമാക്കൂ, പിന്നെ SproutPath തുറന്നിരിക്കുമ്പോൾ സൈഡ് ബട്ടൺ മൂന്ന് തവണ ക്ലിക്ക് ചെയ്യൂ."
+    },
+    "how_are_you_feeling": {
+      "en": "How are you feeling?",
+      "translation": "നിങ്ങൾക്ക് എങ്ങനെ തോന്നുന്നു?"
+    },
+    "tap_to_check_in": {
+      "en": "Tap to check in",
+      "translation": "ചെക്ക്-ഇൻ ചെയ്യാൻ ടാപ്പ് ചെയ്യൂ"
+    },
+    "you_said": {
+      "en": "You said %@",
+      "translation": "നിങ്ങൾ %@ എന്ന് പറഞ്ഞു"
+    },
+    "add_edit_symbol_hint": {
+      "en": "Enter a YouTube link or video ID above to preview",
+      "translation": "പ്രിവ്യൂ ചെയ്യാൻ മുകളിൽ YouTube ലിങ്ക് അല്ലെങ്കിൽ വീഡിയോ ID നൽകൂ"
+    },
+    "schedule_notifications": {
+      "en": "Schedule Notifications",
+      "translation": "അറിയിപ്പുകൾ ഷെഡ്യൂൾ ചെയ്യുക"
+    },
+    "notifications_on": {
+      "en": "Reminders on",
+      "translation": "ഓർമ്മപ്പെടുത്തലുകൾ ഓൺ"
+    },
+    "notifications_off": {
+      "en": "Reminders off",
+      "translation": "ഓർമ്മപ്പെടുത്തലുകൾ ഓഫ്"
+    },
+    "notification_body": {
+      "en": "Time for: %@",
+      "translation": "സമയമായി: %@"
+    },
+    "notifications_perm_denied": {
+      "en": "Notification permission denied",
+      "translation": "അറിയിപ്പ് അനുമതി നിരസിച്ചു"
+    },
+    "open_settings_to_enable": {
+      "en": "Open Settings to enable notifications for SproutPath",
+      "translation": "SproutPath-ന് അറിയിപ്പുകൾ പ്രവർത്തനക്ഷമമാക്കാൻ ക്രമീകരണങ്ങൾ തുറക്കുക"
+    },
+    "sound_voice_on": {
+      "en": "Sound & voice on",
+      "translation": "ശബ്ദം & വോയ്സ് ഓൺ"
+    },
+    "sound_voice_off": {
+      "en": "Sound & voice off",
+      "translation": "ശബ്ദം & വോയ്സ് ഓഫ്"
+    },
+    "text_to_speech_on": {
+      "en": "Text-to-speech on",
+      "translation": "ടെക്സ്റ്റ്-ടു-സ്പീച്ച് ഓൺ"
+    },
+    "text_to_speech_off": {
+      "en": "Text-to-speech off",
+      "translation": "ടെക്സ്റ്റ്-ടു-സ്പീച്ച് ഓഫ്"
+    },
+    "theme_auto": {
+      "en": "Auto",
+      "translation": "ഓട്ടോ"
+    },
+    "theme_white": {
+      "en": "White",
+      "translation": "വെള്ള"
+    },
+    "theme_black": {
+      "en": "Black",
+      "translation": "കറുപ്പ്"
+    },
+    "theme_follows_iphone": {
+      "en": "Follows iPhone",
+      "translation": "iPhone പിന്തുടരുന്നു"
+    },
+    "theme_always_white": {
+      "en": "Always white",
+      "translation": "എപ്പോഴും വെള്ള"
+    },
+    "theme_always_black": {
+      "en": "Always black",
+      "translation": "എപ്പോഴും കറുപ്പ്"
+    },
+    "flashcards_title": {
+      "en": "Flashcards",
+      "translation": "ഫ്ലാഷ്കാർഡുകൾ"
+    },
+    "flashcards_subtitle": {
+      "en": "Tap a deck to start practising.",
+      "translation": "പ്രാക്ടീസ് ആരംഭിക്കാൻ ഒരു ഡെക്ക് ടാപ്പ് ചെയ്യൂ."
+    },
+    "cards_count": {
+      "en": "%d cards",
+      "translation": "%d കാർഡുകൾ"
+    },
+    "lib_sec_education": {
+      "en": "Education",
+      "translation": "വിദ്യാഭ്യാസം"
+    },
+    "lib_sec_mind_body": {
+      "en": "Mind & Body",
+      "translation": "മനസ്സ് & ശരീരം"
+    },
+    "lib_sec_learning": {
+      "en": "Learning",
+      "translation": "പഠനം"
+    },
+    "lib_sec_sports": {
+      "en": "Sports",
+      "translation": "കായിക വിനോദം"
+    },
+    "lib_sec_art": {
+      "en": "Art",
+      "translation": "കല"
+    },
+    "lib_sec_science": {
+      "en": "Science",
+      "translation": "ശാസ്ത്രം"
+    },
+    "lib_sec_entertainment": {
+      "en": "Entertainment",
+      "translation": "വിനോദം"
+    },
+    "lib_sec_others": {
+      "en": "Others",
+      "translation": "മറ്റുള്ളവ"
+    },
+    "live_up_to_date": {
+      "en": "Live · up to date",
+      "translation": "ലൈവ് · കാലികം"
+    },
+    "cached_refresh_shortly": {
+      "en": "Cached · will refresh shortly",
+      "translation": "ക്യാഷ്ഡ് · ഉടൻ പുതുക്കും"
+    },
+    "videos_available_count": {
+      "en": "%d videos available",
+      "translation": "%d വീഡിയോകൾ ലഭ്യം"
+    },
+    "about_the_app": {
+      "en": "About the app",
+      "translation": "ആപ്പിനെക്കുറിച്ച്"
+    },
+    "learn_more": {
+      "en": "Learn more",
+      "translation": "കൂടുതൽ അറിയൂ"
+    },
+    "credits": {
+      "en": "Credits",
+      "translation": "ക്രെഡിറ്റുകൾ"
+    }
+  },
+  "tm_keys": {},
+  "phrases": {
+    "greeting": "ഹലോ",
+    "welcome": "സ്വാഗതം",
+    "thankYou": "നന്ദി"
+  }
+}
